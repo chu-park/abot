@@ -1,8 +1,10 @@
 import discord
 from discord.ext import commands
 import os
+import time
 
-client = commands.Bot(command_prefix = '-')
+client = commands.Bot(command_prefix='/', intents=discord.Intents.all())
+token = 'MTAyMjE4NDAxMzcxNDE4MjE3NA.GM2MXf.2P5BLyXa6HttA4vUcZUEWMEDxS4uZeDGXyaVxA'
 
 @client.event
 async def on_ready():
@@ -15,7 +17,7 @@ async def on_ready():
   #await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="노래 듣는중"))
   #await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="영상 시청중"))
   
-  print("봇 이름:",'정보 봇',"봇 아이디:",1022184013714182174,"봇 버전:",discord.0)
+  print("봇 이름:",'정보 봇',"봇 아이디:",'1022184013714182174',"봇 버전:",discord.__version__)
 
 
-client.run(os.environ['MTAyMjE4NDAxMzcxNDE4MjE3NA.GM2MXf.2P5BLyXa6HttA4vUcZUEWMEDxS4uZeDGXyaVxA'])
+client.run(token)
