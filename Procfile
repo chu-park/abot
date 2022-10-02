@@ -1,1 +1,1 @@
-woker: python bluse_bot.py
+worker: python bluse_bot.py
