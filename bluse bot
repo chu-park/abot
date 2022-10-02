@@ -4,7 +4,6 @@ import os
 import time
 
 client = commands.Bot(command_prefix='/', intents=discord.Intents.all())
-token = 'MTAyMjE4NDAxMzcxNDE4MjE3NA.GM2MXf.2P5BLyXa6HttA4vUcZUEWMEDxS4uZeDGXyaVxA'
 
 @client.event
 async def on_ready():
