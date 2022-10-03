@@ -47,7 +47,7 @@ async def 정보(ctx, *, txt):
 
         embed=discord.Embed(title=w1, description=w2, color=discord.Color.random())
         embed.set_footer(text=w3 + j + w4 + j + w5 + j + w6 + j + w7 + j + w8 + j + w9 + j + w10 + j + w11 + j + w12 + j + w13 + j + w14 + j + w15 + j + w16 + j + w17 + j + w18)
-        embed.set_image(url="https://discord.com/channels/740124487667810316/740130260183679008/1023811456799625246")
+        embed.set_image(url="https://cdn.discordapp.com/emojis/1022110046139732061.webp?size=160&quality=lossless")
         await ctx.send(embed=embed)
     except:
         await ctx.channel.send('등록되지 않은 무기 입니다.')
