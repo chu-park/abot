@@ -3,7 +3,7 @@ from discord.ext import commands
 import os
 import time
 import sys
-sys.path.append('C:\Users\sa485\OneDrive\Desktop\test\abot\item')
+sys.path.append(r'C:\Users\sa485\OneDrive\Desktop\test\abot\item')
 from item import a
 from item import j
 
