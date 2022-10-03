@@ -18,6 +18,7 @@ item1_i9 = "벼린 무기조각 6개 / 대못 4개 / 불완전한 봉인의 엠�
 item1_i10 = "날 벼리기5 - 날 벼리기1 - 날 벼리기1 - 날 벼리기4"
 item1_i11 = "장인개조 (아이데른. 풀맥 38)"
 item1_i12 = "보석개조 (안드라스) > 다이아몬드 1cm, 스타사파이어 1cm, 스피넬 1cm"
+item1_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811470766649384"
 
 item2_name = "켈틱 로열 나이트 소드"
 item2_s_name = "켈로나"
@@ -33,6 +34,7 @@ item2_i9 = "끊어진 봉인의 사슬 4개, 대못 4개, 질긴끈 2개 망가�
 item2_i10 = "켈틱 로열 나이트 소드 전용 개조 - 검신 다듬기2 - 검신 다듬기3 - 검신 다듬기4"
 item2_i11 = "장인개조 (네리스, 레이널드 등. 체력 / 행운 / 스태미나 / 생명력) or 검신 다듬기 5"
 item2_i12 = "보석개조 (네리스, 레이널드 등) > 다이아몬드 1cm, 루비 1cm, 토파즈 1cm"
+item2_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811456799625246"
 
 item3_name = "켈틱 로열 크로스보우"
 item3_s_name = "켈로크"
@@ -48,6 +50,7 @@ item3_i9 = "최고급 나무장작 8개, 빛나는 질긴 끈 3개, 빛을 잃�
 item3_i10 = "니커식 석궁강화 - 활줄 강화1 - 활줄 강화3 (네리스, 니커)"
 item3_i11 = "퍼거스식 석궁개조 - 날카로운 마무리 (퍼거스)"
 item3_i12 = "보석개조 (아란웬, 아이데른) > 가넷 1cm, 아쿠아마린 2cm, 재스퍼 4cm"
+item3_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811477892759552"
 
 item4_name = "켈틱 하울링 체인 블레이드"
 item4_s_name = "켈하체"
@@ -63,6 +66,7 @@ item4_i9 = "질긴끈 4개, 의지가 잠든 룬스톤 6개, 불완전한 봉인
 item4_i10 = "날끝갈기 - 칼갈기1 - 칼갈기2 - 칼갈기3"
 item4_i11 = "장인개조 (아이데른. 맥뎀 0~25 / 행운 0~30)"
 item4_i12 = "보석개조 (그라나트, 네리스 등) > 다이아몬드 1cm, 에메랄드 1cm, 루비 1cm"
+item4_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811428634873926"
 
 item5_name = "켈틱 워 해머"
 item5_s_name = "-"
@@ -78,6 +82,7 @@ item5_i9 = "매듭끈 2개, 대못 6개, 망가진 엠블럼 1개"
 item5_i10 = "-"
 item5_i11 = "-"
 item5_i12 = "-"
+item5_i13 = "-"
 
 item6_name = "켈틱 배틀 액스"
 item6_s_name = "-"
@@ -93,6 +98,7 @@ item6_i9 = "고급 가죽 2개, 매듭끈 1개, 대못 2개, 망가진 엠블럼
 item6_i10 = "-"
 item6_i11 = "-"
 item6_i12 = "-"
+item6_i13 = "-"
 
 item7_name = "켈틱 워리어 해머"
 item7_s_name = "-"
@@ -108,6 +114,7 @@ item7_i9 = "매듭끈 3개, 대못 8개, 망가진 커다란 엠블럼 1개"
 item7_i10 = "-"
 item7_i11 = "-"
 item7_i12 = "-"
+item7_i13 = "-"
 
 item8_name = "켈틱 워리어 액스"
 item8_s_name = "-"
@@ -123,6 +130,7 @@ item8_i9 = "고급 가죽 4개, 매듭끈 2개, 대못 2개, 망가진 커다란
 item8_i10 = "-"
 item8_i11 = "-"
 item8_i12 = "-"
+item8_i13 = "-"
 
 item9_name = "켈틱 로열 워 해머"
 item9_s_name = "-"
@@ -138,6 +146,7 @@ item9_i9 = "질긴 끈 2개, 대못 8개, 끊어진 봉인의 사슬 5개, 망�
 item9_i10 = "켈틱 로열 워 해머 전용 개조 - 담금질2 - 담금질3 - 담금질4"
 item9_i11 = "개조 (아이데른. 담금질5)"
 item9_i12 = "보석개조1 (아이데른) > 스타사파이어 4cm, 루비 2cm, 스피넬 1cm"
+item9_i13 = "-"
 
 item10_name = "켈틱 로열 배틀 액스"
 item10_s_name = "-"
@@ -153,6 +162,7 @@ item10_i9 = "최고급 가죽 2개, 대못 4개, 끊어진 봉인의 사슬 6개
 item10_i10 = "켈틱 로열 배틀 액스 전용 개조 - 담금질2 - 담금질3 - 담금질 4"
 item10_i11 = "개조 (아이데른, 컬룸. 엔포리움 켈틱 로열 배틀 액스 특수 개조)"
 item10_i12 = "보석개조1 (아이데른) > 재스퍼 4cm, 스타사파이어 2cm, 스피넬 1cm"
+item10_i13 = "-"
 
 item11_name = "켈틱 로열 워리어 해머"
 item11_s_name = "-"
@@ -168,6 +178,7 @@ item11_i9 = "질긴 끈 5개, 대못 10개, 녹슨 봉인의 사슬 5개, 망가
 item11_i10 = "켈틱 로열 워리어 해머 전용 개조 - 경량화 - 담금질3 - 담금질4"
 item11_i11 = "개조 (타우네스. 담금질5 또는 켈틱 로열 워리어 해머 특수 개조1 or 2)"
 item11_i12 = "보석개조 (타우네스) > 루비 4cm, 스타사파이어 2cm, 스피넬 1cm"
+item11_i13 = "-"
 
 item12_name = "켈틱 로열 워리어 액스"
 item12_s_name = "-"
@@ -183,6 +194,7 @@ item12_i9 = "최고급 가죽 5개, 대못 4개, 녹슨 봉인의 사슬 6개, �
 item12_i10 = "개조 (타우네스. 담금질5 또는 켈틱 로열 워리어 액스 특수 개조1 or 2)"
 item12_i11 = "item12_i11"
 item12_i12 = "보석개조1 (타우네스) > 스타사파이어 4cm, 루비 2cm, 가넷 1cm"
+item12_i13 = "-"
 
 item13_name = "켈틱 트라이볼트 원드"
 item13_s_name = "켈트볼"
@@ -198,6 +210,7 @@ item13_i9 = "마력이 깃든 나무장작 3개, 온전한 실리엔 10개, 뮤�
 item13_i10 = "엘레멘탈 응축1 - 엘레멘탈 가속1 - 엘레멘탈 가속2 - 3속성 엘레멘탈 증폭4"
 item13_i11 = "개조 (바이스. 엘레멘탈 응축4)"
 item13_i12 = "보석개조 (바이스) > 아쿠아마린 3cm, 재스퍼 3cm, 스피넬 3cm"
+item13_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811447358246932"
 
 item14_name = "켈틱 드루이드 스태프"
 item14_s_name = "켈드루"
@@ -213,6 +226,7 @@ item14_i9 = "마력이 깃든 나무장작 3개, 온전한 실리엔 20개, 뮤�
 item14_i10 = "엘레멘탈 응축1 - 엘레멘탈 응축1 - 엘레멘탈 응축2 - 엘레멘탈 응축3"
 item14_i11 = "개조 (바이스. 켈틱 드루이드 스태프 전용 개조)"
 item14_i12 = "보석개조 (바이스) > 아쿠아마린 3cm, 재스퍼 3cm, 스피넬 3cm"
+item14_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811489183846440"
 
 item15_name = "켈틱 가디언 스태프"
 item15_s_name = "켈가스"
@@ -228,6 +242,7 @@ item15_i9 = "마력이 깃든 나무장작 3개, 온전한 실리엔 20개, 뮤�
 item15_i10 = ""
 item15_i11 = ""
 item15_i12 = ""
+item15_i13 = "-"
 
 item16_name = "켈틱 크로스보우"
 item16_s_name = "켈크보"
@@ -243,6 +258,7 @@ item16_i9 = "최고급 나무장작 4개, 빛나는 질긴 끈 1개, 빛을 잃�
 item16_i10 = "니커의 석궁강화 - 활줄강화2 - 활줄강화3 - 활줄강화4"
 item16_i11 = "퍼거스식 석궁개조 - 날카로운 마무리 (퍼거스)"
 item16_i12 = "보석개조 (아이데른) > "
+item16_i13 = "-"
 
 item17_name = "켈틱 테트라 실린더"
 item17_s_name = "켈테실"
@@ -258,6 +274,7 @@ item17_i9 = "빛나는 결정 파편 6개, 대못 4개, 불완전한 봉인의 �
 item17_i10 = "켈틱 테트라 실린더 전용 개조 - 4대 속성 활성화2 - 4대 속성 활성화3 - 4대 속성 활성화4 - 4대 속성 활성화5"
 item17_i11 = "-"
 item17_i12 = "보석개조 (아이바, 도렌, 헬레드) > 다이아몬드 3cm, 아쿠아마린 3cm, 가넷 5cm"
+item17_i13 = "-"
 
 item18_name = "켈틱 다우라 제로"
 item18_s_name = "켈다제"
@@ -273,6 +290,7 @@ item18_i9 = "힐웬 합금 15개, 에너지 컨버터 2개, 에메랄드 퓨즈 
 item18_i10 = "약실확장 - 강선추가1 - 강선추가2 - 총신확장 - 총신확장"
 item18_i11 = "-"
 item18_i12 = "보석개조(헥터) > 다이아몬드 3cm, 스피넬 3cm, 재스퍼 3cm"
+item18_i13 = "-"
 
 item19_name = "켈틱 리스트릭트 핸들"
 item19_s_name = "켈리핸"
@@ -288,6 +306,7 @@ item19_i9 = "특급 나무장작 5개, 금판 3개, 대못 10개, 정화된 마�
 item19_i10 = "핸들 길들이기 - 자루 조절1 - 자루 조절2 - 자루 조절3 "
 item19_i11 = "핸들 맞춤 개조 또는 장인개조 (그라나트, 네리스 등. 맥뎀 10~30 / 크리티컬 4~6%)"
 item19_i12 = "보석개조 (그라나트, 네리스 등) > 아쿠아마린 2cm, 스피넬 1cm, 에메랄드 1cm"
+item19_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811441800785982"
 
 item20_name = "켈틱 엣지드 너클"
 item20_s_name = "켈엣너"
@@ -303,6 +322,7 @@ item20_i9 = "파괴된 봉인의 사슬 6개, 대못 4개, 불완전한 봉인�
 item20_i10 = "켈틱 엣지드 너클 전용 개조1 - 징 갈기 - 체인 교체 - 중량화"
 item20_i11 = "장인개조 (네리스, 니커 등. 맥뎀 0~18 / 의지 0~60 / 체력 0~30)"
 item20_i12 = "보석개조 (네리스, 니커 등) > 다이아몬드 3cm, 스피넬 3cm, 재스퍼 3cm"
+item20_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811451862929468"
 
 item21_name = "바펠세파르 헌터"
 item21_s_name = "바펠"
@@ -318,6 +338,7 @@ item21_i9 = "롱 보우 1개, 블랙 드래곤 눈알 1개, 드래곤의 살덩�
 item21_i10 = "활줄 강화1 - 조준기 교체 - 조준기 교체 - 활줄 강화 4"
 item21_i11 = "개조 (네리스, 아이데른 등. 바펠세파르 헌터 봉인 해제)"
 item21_i12 = "보석개조1 (네리스, 아이데른 등) > 다이아몬드 5cm, 스피넬 5cm, 재스퍼 5cm"
+item21_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811495311724545"
 
 item22_name = "바펠세파르 헌트리스"
 item22_s_name = "바펠화살"
@@ -333,6 +354,7 @@ item22_i9 = "화살 100개, 온전한 실리엔 10개, 뮤턴트, 블랙 드래�
 item22_i10 = "-"
 item22_i11 = "-"
 item22_i12 = "-"
+item22_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811501687046155"
 
 item23_name = "다우라 SE"
 item23_s_name = "다우라"
@@ -348,52 +370,54 @@ item23_i9 = "힐웬 합금 15개, 육각 볼트 8개, 육각 너트 8개, 에너
 item23_i10 = "약실 확장 - 강선 추가1 - 강선 추가2 - 총신 확장"
 item23_i11 = "개조 (헥터. 총신 확장)"
 item23_i12 = "보석개조1 (헥터) > 다이아몬트 3cm, 스피넬 3cm, 재스퍼 3cm"
+item23_i13 = "https://discord.com/channels/740124487667810316/740130260183679008/1023811466748498022"
 
 a = {
-        item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6,"i": item1_i7,"j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12},
-        item1_s_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6,"i": item1_i7,"j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12},
-        item2_name : { "b": item2_name, "c": item2_i1, "d": item2_i2, "e": item2_i3, "f": item2_i4, "g": item2_i5, "h": item2_i6,"i": item2_i7,"j": s, "k": g, "l": item2_i8, "m": m, "n": item2_i9, "o": s, "p": ga, "q": item2_i10, "r": item2_i11, "s": item2_i12},
-        item2_s_name : { "b": item2_name, "c": item2_i1, "d": item2_i2, "e": item2_i3, "f": item2_i4, "g": item2_i5, "h": item2_i6,"i": item2_i7,"j": s, "k": g, "l": item2_i8, "m": m, "n": item2_i9, "o": s, "p": ga, "q": item2_i10, "r": item2_i11, "s": item2_i12},
-        item3_name : { "b": item3_name, "c": item3_i1, "d": item3_i2, "e": item3_i3, "f": item3_i4, "g": item3_i5, "h": item3_i6,"i": item3_i7,"j": s, "k": g, "l": item3_i8, "m": m, "n": item3_i9, "o": s, "p": ga, "q": item3_i10, "r": item3_i11, "s": item3_i12},
-        item3_s_name : { "b": item3_name, "c": item3_i1, "d": item3_i2, "e": item3_i3, "f": item3_i4, "g": item3_i5, "h": item3_i6,"i": item3_i7,"j": s, "k": g, "l": item3_i8, "m": m, "n": item3_i9, "o": s, "p": ga, "q": item3_i10, "r": item3_i11, "s": item3_i12},
-        item4_name : { "b": item4_name, "c": item4_i1, "d": item4_i2, "e": item4_i3, "f": item4_i4, "g": item4_i5, "h": item4_i6,"i": item4_i7,"j": s, "k": g, "l": item4_i8, "m": m, "n": item4_i9, "o": s, "p": ga, "q": item4_i10, "r": item4_i11, "s": item4_i12},
-        item4_s_name : { "b": item4_name, "c": item4_i1, "d": item4_i2, "e": item4_i3, "f": item4_i4, "g": item4_i5, "h": item4_i6,"i": item4_i7,"j": s, "k": g, "l": item4_i8, "m": m, "n": item4_i9, "o": s, "p": ga, "q": item4_i10, "r": item4_i11, "s": item4_i12},
-        item5_name : { "b": item5_name, "c": item5_i1, "d": item5_i2, "e": item5_i3, "f": item5_i4, "g": item5_i5, "h": item5_i6,"i": item5_i7,"j": s, "k": g, "l": item5_i8, "m": m, "n": item5_i9, "o": s, "p": ga, "q": item5_i10, "r": item5_i11, "s": item5_i12},
-        item5_s_name : { "b": item5_name, "c": item5_i1, "d": item5_i2, "e": item5_i3, "f": item5_i4, "g": item5_i5, "h": item5_i6,"i": item5_i7,"j": s, "k": g, "l": item5_i8, "m": m, "n": item5_i9, "o": s, "p": ga, "q": item5_i10, "r": item5_i11, "s": item5_i12},
-        item6_name : { "b": item6_name, "c": item6_i1, "d": item6_i2, "e": item6_i3, "f": item6_i4, "g": item6_i5, "h": item6_i6,"i": item6_i7,"j": s, "k": g, "l": item6_i8, "m": m, "n": item6_i9, "o": s, "p": ga, "q": item6_i10, "r": item6_i11, "s": item6_i12},
-        item6_s_name : { "b": item6_name, "c": item6_i1, "d": item6_i2, "e": item6_i3, "f": item6_i4, "g": item6_i5, "h": item6_i6,"i": item6_i7,"j": s, "k": g, "l": item6_i8, "m": m, "n": item6_i9, "o": s, "p": ga, "q": item6_i10, "r": item6_i11, "s": item6_i12},
-        item7_name : { "b": item7_name, "c": item7_i1, "d": item7_i2, "e": item7_i3, "f": item7_i4, "g": item7_i5, "h": item7_i6,"i": item7_i7,"j": s, "k": g, "l": item7_i8, "m": m, "n": item7_i9, "o": s, "p": ga, "q": item7_i10, "r": item7_i11, "s": item7_i12},
-        item7_s_name : { "b": item7_name, "c": item7_i1, "d": item7_i2, "e": item7_i3, "f": item7_i4, "g": item7_i5, "h": item7_i6,"i": item7_i7,"j": s, "k": g, "l": item7_i8, "m": m, "n": item7_i9, "o": s, "p": ga, "q": item7_i10, "r": item7_i11, "s": item7_i12},
-        item8_name : { "b": item8_name, "c": item8_i1, "d": item8_i2, "e": item8_i3, "f": item8_i4, "g": item8_i5, "h": item8_i6,"i": item8_i7,"j": s, "k": g, "l": item8_i8, "m": m, "n": item8_i9, "o": s, "p": ga, "q": item8_i10, "r": item8_i11, "s": item8_i12},
-        item8_s_name : { "b": item8_name, "c": item8_i1, "d": item8_i2, "e": item8_i3, "f": item8_i4, "g": item8_i5, "h": item8_i6,"i": item8_i7,"j": s, "k": g, "l": item8_i8, "m": m, "n": item8_i9, "o": s, "p": ga, "q": item8_i10, "r": item8_i11, "s": item8_i12},
-        item9_name : { "b": item9_name, "c": item9_i1, "d": item9_i2, "e": item9_i3, "f": item9_i4, "g": item9_i5, "h": item9_i6,"i": item9_i7,"j": s, "k": g, "l": item9_i8, "m": m, "n": item9_i9, "o": s, "p": ga, "q": item9_i10, "r": item9_i11, "s": item9_i12},
-        item9_s_name : { "b": item9_name, "c": item9_i1, "d": item9_i2, "e": item9_i3, "f": item9_i4, "g": item9_i5, "h": item9_i6,"i": item9_i7,"j": s, "k": g, "l": item9_i8, "m": m, "n": item9_i9, "o": s, "p": ga, "q": item9_i10, "r": item9_i11, "s": item9_i12},
-        item10_name : { "b": item10_name, "c": item10_i1, "d": item10_i2, "e": item10_i3, "f": item10_i4, "g": item10_i5, "h": item10_i6,"i": item10_i7,"j": s, "k": g, "l": item10_i8, "m": m, "n": item10_i9, "o": s, "p": ga, "q": item10_i10, "r": item10_i11, "s": item10_i12},
-        item10_s_name : { "b": item10_name, "c": item10_i1, "d": item10_i2, "e": item10_i3, "f": item10_i4, "g": item10_i5, "h": item10_i6,"i": item10_i7,"j": s, "k": g, "l": item10_i8, "m": m, "n": item10_i9, "o": s, "p": ga, "q": item10_i10, "r": item10_i11, "s": item10_i12},
-        item11_name : { "b": item11_name, "c": item11_i1, "d": item11_i2, "e": item11_i3, "f": item11_i4, "g": item11_i5, "h": item11_i6,"i": item11_i7,"j": s, "k": g, "l": item11_i8, "m": m, "n": item11_i9, "o": s, "p": ga, "q": item11_i10, "r": item11_i11, "s": item11_i12},
-        item11_s_name : { "b": item11_name, "c": item11_i1, "d": item11_i2, "e": item11_i3, "f": item11_i4, "g": item11_i5, "h": item11_i6,"i": item11_i7,"j": s, "k": g, "l": item11_i8, "m": m, "n": item11_i9, "o": s, "p": ga, "q": item11_i10, "r": item11_i11, "s": item11_i12},
-        item12_name : { "b": item12_name, "c": item12_i1, "d": item12_i2, "e": item12_i3, "f": item12_i4, "g": item12_i5, "h": item12_i6,"i": item12_i7,"j": s, "k": g, "l": item12_i8, "m": m, "n": item12_i9, "o": s, "p": ga, "q": item12_i10, "r": item12_i11, "s": item12_i12},
-        item12_s_name : { "b": item12_name, "c": item12_i1, "d": item12_i2, "e": item12_i3, "f": item12_i4, "g": item12_i5, "h": item12_i6,"i": item12_i7,"j": s, "k": g, "l": item12_i8, "m": m, "n": item12_i9, "o": s, "p": ga, "q": item12_i10, "r": item12_i11, "s": item12_i12},
-        item13_name : { "b": item13_name, "c": item13_i1, "d": item13_i2, "e": item13_i3, "f": item13_i4, "g": item13_i5, "h": item13_i6,"i": item13_i7,"j": s, "k": g, "l": item13_i8, "m": m, "n": item13_i9, "o": s, "p": ga, "q": item13_i10, "r": item13_i11, "s": item13_i12},
-        item13_s_name : { "b": item13_name, "c": item13_i1, "d": item13_i2, "e": item13_i3, "f": item13_i4, "g": item13_i5, "h": item13_i6,"i": item13_i7,"j": s, "k": g, "l": item13_i8, "m": m, "n": item13_i9, "o": s, "p": ga, "q": item13_i10, "r": item13_i11, "s": item13_i12},
-        item14_name : { "b": item14_name, "c": item14_i1, "d": item14_i2, "e": item14_i3, "f": item14_i4, "g": item14_i5, "h": item14_i6,"i": item14_i7,"j": s, "k": g, "l": item14_i8, "m": m, "n": item14_i9, "o": s, "p": ga, "q": item14_i10, "r": item14_i11, "s": item14_i12},
-        item14_s_name : { "b": item14_name, "c": item14_i1, "d": item14_i2, "e": item14_i3, "f": item14_i4, "g": item14_i5, "h": item14_i6,"i": item14_i7,"j": s, "k": g, "l": item14_i8, "m": m, "n": item14_i9, "o": s, "p": ga, "q": item14_i10, "r": item14_i11, "s": item14_i12},
-        item15_name : { "b": item15_name, "c": item15_i1, "d": item15_i2, "e": item15_i3, "f": item15_i4, "g": item15_i5, "h": item15_i6,"i": item15_i7,"j": s, "k": g, "l": item15_i8, "m": m, "n": item15_i9, "o": s, "p": ga, "q": item15_i10, "r": item15_i11, "s": item15_i12},
-        item15_s_name : { "b": item15_name, "c": item15_i1, "d": item15_i2, "e": item15_i3, "f": item15_i4, "g": item15_i5, "h": item15_i6,"i": item15_i7,"j": s, "k": g, "l": item15_i8, "m": m, "n": item15_i9, "o": s, "p": ga, "q": item15_i10, "r": item15_i11, "s": item15_i12},
-        item16_name : { "b": item16_name, "c": item16_i1, "d": item16_i2, "e": item16_i3, "f": item16_i4, "g": item16_i5, "h": item16_i6,"i": item16_i7,"j": s, "k": g, "l": item16_i8, "m": m, "n": item16_i9, "o": s, "p": ga, "q": item16_i10, "r": item16_i11, "s": item16_i12},
-        item16_s_name : { "b": item16_name, "c": item16_i1, "d": item16_i2, "e": item16_i3, "f": item16_i4, "g": item16_i5, "h": item16_i6,"i": item16_i7,"j": s, "k": g, "l": item16_i8, "m": m, "n": item16_i9, "o": s, "p": ga, "q": item16_i10, "r": item16_i11, "s": item16_i12},
-        item17_name : { "b": item17_name, "c": item17_i1, "d": item17_i2, "e": item17_i3, "f": item17_i4, "g": item17_i5, "h": item17_i6,"i": item17_i7,"j": s, "k": g, "l": item17_i8, "m": m, "n": item17_i9, "o": s, "p": ga, "q": item17_i10, "r": item17_i11, "s": item17_i12},
-        item17_s_name : { "b": item17_name, "c": item17_i1, "d": item17_i2, "e": item17_i3, "f": item17_i4, "g": item17_i5, "h": item17_i6,"i": item17_i7,"j": s, "k": g, "l": item17_i8, "m": m, "n": item17_i9, "o": s, "p": ga, "q": item17_i10, "r": item17_i11, "s": item17_i12},
-        item18_name : { "b": item18_name, "c": item18_i1, "d": item18_i2, "e": item18_i3, "f": item18_i4, "g": item18_i5, "h": item18_i6,"i": item18_i7,"j": s, "k": g, "l": item18_i8, "m": m, "n": item18_i9, "o": s, "p": ga, "q": item18_i10, "r": item18_i11, "s": item18_i12},
-        item18_s_name : { "b": item18_name, "c": item18_i1, "d": item18_i2, "e": item18_i3, "f": item18_i4, "g": item18_i5, "h": item18_i6,"i": item18_i7,"j": s, "k": g, "l": item18_i8, "m": m, "n": item18_i9, "o": s, "p": ga, "q": item18_i10, "r": item18_i11, "s": item18_i12},
-        item19_name : { "b": item19_name, "c": item19_i1, "d": item19_i2, "e": item19_i3, "f": item19_i4, "g": item19_i5, "h": item19_i6,"i": item19_i7,"j": s, "k": g, "l": item19_i8, "m": m, "n": item19_i9, "o": s, "p": ga, "q": item19_i10, "r": item19_i11, "s": item19_i12},
-        item19_s_name : { "b": item19_name, "c": item19_i1, "d": item19_i2, "e": item19_i3, "f": item19_i4, "g": item19_i5, "h": item19_i6,"i": item19_i7,"j": s, "k": g, "l": item19_i8, "m": m, "n": item19_i9, "o": s, "p": ga, "q": item19_i10, "r": item19_i11, "s": item19_i12},
-        item20_name : { "b": item20_name, "c": item20_i1, "d": item20_i2, "e": item20_i3, "f": item20_i4, "g": item20_i5, "h": item20_i6,"i": item20_i7,"j": s, "k": g, "l": item20_i8, "m": m, "n": item20_i9, "o": s, "p": ga, "q": item20_i10, "r": item20_i11, "s": item20_i12},
-        item20_s_name : { "b": item20_name, "c": item20_i1, "d": item20_i2, "e": item20_i3, "f": item20_i4, "g": item20_i5, "h": item20_i6,"i": item20_i7,"j": s, "k": g, "l": item20_i8, "m": m, "n": item20_i9, "o": s, "p": ga, "q": item20_i10, "r": item20_i11, "s": item20_i12},
-        item21_name : { "b": item21_name, "c": item21_i1, "d": item21_i2, "e": item21_i3, "f": item21_i4, "g": item21_i5, "h": item21_i6,"i": item21_i7,"j": s, "k": g, "l": item21_i8, "m": m, "n": item21_i9, "o": s, "p": ga, "q": item21_i10, "r": item21_i11, "s": item21_i12},
-        item21_s_name : { "b": item21_name, "c": item21_i1, "d": item21_i2, "e": item21_i3, "f": item21_i4, "g": item21_i5, "h": item21_i6,"i": item21_i7,"j": s, "k": g, "l": item21_i8, "m": m, "n": item21_i9, "o": s, "p": ga, "q": item21_i10, "r": item21_i11, "s": item21_i12},
-        item22_name : { "b": item22_name, "c": item22_i1, "d": item22_i2, "e": item22_i3, "f": item22_i4, "g": item22_i5, "h": item22_i6,"i": item22_i7,"j": s, "k": g, "l": item22_i8, "m": m, "n": item22_i9, "o": s, "p": ga, "q": item22_i10, "r": item22_i11, "s": item22_i12},
-        item22_s_name : { "b": item22_name, "c": item22_i1, "d": item22_i2, "e": item22_i3, "f": item22_i4, "g": item22_i5, "h": item22_i6,"i": item22_i7,"j": s, "k": g, "l": item22_i8, "m": m, "n": item22_i9, "o": s, "p": ga, "q": item22_i10, "r": item22_i11, "s": item22_i12},
-        item23_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6,"i": item23_i7,"j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12},
-        item23_s_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6,"i": item23_i7,"j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12}
+        item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
+        item1_s_name : { "b": item1_s_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
+        item2_name : { "b": item2_name, "c": item2_i1, "d": item2_i2, "e": item2_i3, "f": item2_i4, "g": item2_i5, "h": item2_i6, "i": item2_i7, "j": s, "k": g, "l": item2_i8, "m": m, "n": item2_i9, "o": s, "p": ga, "q": item2_i10, "r": item2_i11, "s": item2_i12, "t": item2_i13},
+        item2_s_name : { "b": item2_s_name, "c": item2_i1, "d": item2_i2, "e": item2_i3, "f": item2_i4, "g": item2_i5, "h": item2_i6, "i": item2_i7, "j": s, "k": g, "l": item2_i8, "m": m, "n": item2_i9, "o": s, "p": ga, "q": item2_i10, "r": item2_i11, "s": item2_i12, "t": item2_i13},
+        item3_name : { "b": item3_name, "c": item3_i1, "d": item3_i2, "e": item3_i3, "f": item3_i4, "g": item3_i5, "h": item3_i6, "i": item3_i7, "j": s, "k": g, "l": item3_i8, "m": m, "n": item3_i9, "o": s, "p": ga, "q": item3_i10, "r": item3_i11, "s": item3_i12, "t": item3_i13},
+        item3_s_name : { "b": item3_s_name, "c": item3_i1, "d": item3_i2, "e": item3_i3, "f": item3_i4, "g": item3_i5, "h": item3_i6, "i": item3_i7, "j": s, "k": g, "l": item3_i8, "m": m, "n": item3_i9, "o": s, "p": ga, "q": item3_i10, "r": item3_i11, "s": item3_i12, "t": item3_i13},
+        item4_name : { "b": item4_name, "c": item4_i1, "d": item4_i2, "e": item4_i3, "f": item4_i4, "g": item4_i5, "h": item4_i6, "i": item4_i7, "j": s, "k": g, "l": item4_i8, "m": m, "n": item4_i9, "o": s, "p": ga, "q": item4_i10, "r": item4_i11, "s": item4_i12, "t": item4_i13},
+        item4_s_name : { "b": item4_s_name, "c": item4_i1, "d": item4_i2, "e": item4_i3, "f": item4_i4, "g": item4_i5, "h": item4_i6, "i": item4_i7, "j": s, "k": g, "l": item4_i8, "m": m, "n": item4_i9, "o": s, "p": ga, "q": item4_i10, "r": item4_i11, "s": item4_i12, "t": item4_i13},
+        item5_name : { "b": item5_name, "c": item5_i1, "d": item5_i2, "e": item5_i3, "f": item5_i4, "g": item5_i5, "h": item5_i6, "i": item5_i7, "j": s, "k": g, "l": item5_i8, "m": m, "n": item5_i9, "o": s, "p": ga, "q": item5_i10, "r": item5_i11, "s": item5_i12, "t": item5_i13},
+        item5_s_name : { "b": item5_s_name, "c": item5_i1, "d": item5_i2, "e": item5_i3, "f": item5_i4, "g": item5_i5, "h": item5_i6, "i": item5_i7, "j": s, "k": g, "l": item5_i8, "m": m, "n": item5_i9, "o": s, "p": ga, "q": item5_i10, "r": item5_i11, "s": item5_i12, "t": item5_i13},
+        item6_name : { "b": item6_name, "c": item6_i1, "d": item6_i2, "e": item6_i3, "f": item6_i4, "g": item6_i5, "h": item6_i6, "i": item6_i7, "j": s, "k": g, "l": item6_i8, "m": m, "n": item6_i9, "o": s, "p": ga, "q": item6_i10, "r": item6_i11, "s": item6_i12, "t": item6_i13},
+        item6_s_name : { "b": item6_s_name, "c": item6_i1, "d": item6_i2, "e": item6_i3, "f": item6_i4, "g": item6_i5, "h": item6_i6, "i": item6_i7, "j": s, "k": g, "l": item6_i8, "m": m, "n": item6_i9, "o": s, "p": ga, "q": item6_i10, "r": item6_i11, "s": item6_i12, "t": item6_i13},
+        item7_name : { "b": item7_name, "c": item7_i1, "d": item7_i2, "e": item7_i3, "f": item7_i4, "g": item7_i5, "h": item7_i6, "i": item7_i7, "j": s, "k": g, "l": item7_i8, "m": m, "n": item7_i9, "o": s, "p": ga, "q": item7_i10, "r": item7_i11, "s": item7_i12, "t": item7_i13},
+        item7_s_name : { "b": item7_s_name, "c": item7_i1, "d": item7_i2, "e": item7_i3, "f": item7_i4, "g": item7_i5, "h": item7_i6, "i": item7_i7, "j": s, "k": g, "l": item7_i8, "m": m, "n": item7_i9, "o": s, "p": ga, "q": item7_i10, "r": item7_i11, "s": item7_i12, "t": item7_i13},
+        item8_name : { "b": item8_name, "c": item8_i1, "d": item8_i2, "e": item8_i3, "f": item8_i4, "g": item8_i5, "h": item8_i6, "i": item8_i7, "j": s, "k": g, "l": item8_i8, "m": m, "n": item8_i9, "o": s, "p": ga, "q": item8_i10, "r": item8_i11, "s": item8_i12, "t": item8_i13},
+        item8_s_name : { "b": item8_s_name, "c": item8_i1, "d": item8_i2, "e": item8_i3, "f": item8_i4, "g": item8_i5, "h": item8_i6, "i": item8_i7, "j": s, "k": g, "l": item8_i8, "m": m, "n": item8_i9, "o": s, "p": ga, "q": item8_i10, "r": item8_i11, "s": item8_i12, "t": item8_i13},
+        item9_name : { "b": item9_name, "c": item9_i1, "d": item9_i2, "e": item9_i3, "f": item9_i4, "g": item9_i5, "h": item9_i6, "i": item9_i7, "j": s, "k": g, "l": item9_i8, "m": m, "n": item9_i9, "o": s, "p": ga, "q": item9_i10, "r": item9_i11, "s": item9_i12, "t": item9_i13},
+        item9_s_name : { "b": item9_s_name, "c": item9_i1, "d": item9_i2, "e": item9_i3, "f": item9_i4, "g": item9_i5, "h": item9_i6, "i": item9_i7, "j": s, "k": g, "l": item9_i8, "m": m, "n": item9_i9, "o": s, "p": ga, "q": item9_i10, "r": item9_i11, "s": item9_i12, "t": item9_i13},
+        item10_name : { "b": item10_name, "c": item10_i1, "d": item10_i2, "e": item10_i3, "f": item10_i4, "g": item10_i5, "h": item10_i6, "i": item10_i7, "j": s, "k": g, "l": item10_i8, "m": m, "n": item10_i9, "o": s, "p": ga, "q": item10_i10, "r": item10_i11, "s": item10_i12, "t": item10_i13},
+        item10_s_name : { "b": item10_s_name, "c": item10_i1, "d": item10_i2, "e": item10_i3, "f": item10_i4, "g": item10_i5, "h": item10_i6, "i": item10_i7, "j": s, "k": g, "l": item10_i8, "m": m, "n": item10_i9, "o": s, "p": ga, "q": item10_i10, "r": item10_i11, "s": item10_i12, "t": item10_i13},
+        item11_name : { "b": item11_name, "c": item11_i1, "d": item11_i2, "e": item11_i3, "f": item11_i4, "g": item11_i5, "h": item11_i6, "i": item11_i7, "j": s, "k": g, "l": item11_i8, "m": m, "n": item11_i9, "o": s, "p": ga, "q": item11_i10, "r": item11_i11, "s": item11_i12, "t": item11_i13},
+        item11_s_name : { "b": item11_s_name, "c": item11_i1, "d": item11_i2, "e": item11_i3, "f": item11_i4, "g": item11_i5, "h": item11_i6, "i": item11_i7, "j": s, "k": g, "l": item11_i8, "m": m, "n": item11_i9, "o": s, "p": ga, "q": item11_i10, "r": item11_i11, "s": item11_i12, "t": item11_i13},
+        item12_name : { "b": item12_name, "c": item12_i1, "d": item12_i2, "e": item12_i3, "f": item12_i4, "g": item12_i5, "h": item12_i6, "i": item12_i7, "j": s, "k": g, "l": item12_i8, "m": m, "n": item12_i9, "o": s, "p": ga, "q": item12_i10, "r": item12_i11, "s": item12_i12, "t": item12_i13},
+        item12_s_name : { "b": item12_s_name, "c": item12_i1, "d": item12_i2, "e": item12_i3, "f": item12_i4, "g": item12_i5, "h": item12_i6, "i": item12_i7, "j": s, "k": g, "l": item12_i8, "m": m, "n": item12_i9, "o": s, "p": ga, "q": item12_i10, "r": item12_i11, "s": item12_i12, "t": item12_i13},
+        item13_name : { "b": item13_name, "c": item13_i1, "d": item13_i2, "e": item13_i3, "f": item13_i4, "g": item13_i5, "h": item13_i6, "i": item13_i7, "j": s, "k": g, "l": item13_i8, "m": m, "n": item13_i9, "o": s, "p": ga, "q": item13_i10, "r": item13_i11, "s": item13_i12, "t": item13_i13},
+        item13_s_name : { "b": item13_s_name, "c": item13_i1, "d": item13_i2, "e": item13_i3, "f": item13_i4, "g": item13_i5, "h": item13_i6, "i": item13_i7, "j": s, "k": g, "l": item13_i8, "m": m, "n": item13_i9, "o": s, "p": ga, "q": item13_i10, "r": item13_i11, "s": item13_i12, "t": item13_i13},
+        item14_name : { "b": item14_name, "c": item14_i1, "d": item14_i2, "e": item14_i3, "f": item14_i4, "g": item14_i5, "h": item14_i6, "i": item14_i7, "j": s, "k": g, "l": item14_i8, "m": m, "n": item14_i9, "o": s, "p": ga, "q": item14_i10, "r": item14_i11, "s": item14_i12, "t": item14_i13},
+        item14_s_name : { "b": item14_s_name, "c": item14_i1, "d": item14_i2, "e": item14_i3, "f": item14_i4, "g": item14_i5, "h": item14_i6, "i": item14_i7, "j": s, "k": g, "l": item14_i8, "m": m, "n": item14_i9, "o": s, "p": ga, "q": item14_i10, "r": item14_i11, "s": item14_i12, "t": item14_i13},
+        item15_name : { "b": item15_name, "c": item15_i1, "d": item15_i2, "e": item15_i3, "f": item15_i4, "g": item15_i5, "h": item15_i6, "i": item15_i7, "j": s, "k": g, "l": item15_i8, "m": m, "n": item15_i9, "o": s, "p": ga, "q": item15_i10, "r": item15_i11, "s": item15_i12, "t": item15_i13},
+        item15_s_name : { "b": item15_s_name, "c": item15_i1, "d": item15_i2, "e": item15_i3, "f": item15_i4, "g": item15_i5, "h": item15_i6, "i": item15_i7, "j": s, "k": g, "l": item15_i8, "m": m, "n": item15_i9, "o": s, "p": ga, "q": item15_i10, "r": item15_i11, "s": item15_i12, "t": item15_i13},
+        item16_name : { "b": item16_name, "c": item16_i1, "d": item16_i2, "e": item16_i3, "f": item16_i4, "g": item16_i5, "h": item16_i6, "i": item16_i7, "j": s, "k": g, "l": item16_i8, "m": m, "n": item16_i9, "o": s, "p": ga, "q": item16_i10, "r": item16_i11, "s": item16_i12, "t": item16_i13},
+        item16_s_name : { "b": item16_s_name, "c": item16_i1, "d": item16_i2, "e": item16_i3, "f": item16_i4, "g": item16_i5, "h": item16_i6, "i": item16_i7, "j": s, "k": g, "l": item16_i8, "m": m, "n": item16_i9, "o": s, "p": ga, "q": item16_i10, "r": item16_i11, "s": item16_i12, "t": item16_i13},
+        item17_name : { "b": item17_name, "c": item17_i1, "d": item17_i2, "e": item17_i3, "f": item17_i4, "g": item17_i5, "h": item17_i6, "i": item17_i7, "j": s, "k": g, "l": item17_i8, "m": m, "n": item17_i9, "o": s, "p": ga, "q": item17_i10, "r": item17_i11, "s": item17_i12, "t": item17_i13},
+        item17_s_name : { "b": item17_s_name, "c": item17_i1, "d": item17_i2, "e": item17_i3, "f": item17_i4, "g": item17_i5, "h": item17_i6, "i": item17_i7, "j": s, "k": g, "l": item17_i8, "m": m, "n": item17_i9, "o": s, "p": ga, "q": item17_i10, "r": item17_i11, "s": item17_i12, "t": item17_i13},
+        item18_name : { "b": item18_name, "c": item18_i1, "d": item18_i2, "e": item18_i3, "f": item18_i4, "g": item18_i5, "h": item18_i6, "i": item18_i7, "j": s, "k": g, "l": item18_i8, "m": m, "n": item18_i9, "o": s, "p": ga, "q": item18_i10, "r": item18_i11, "s": item18_i12, "t": item18_i13},
+        item18_s_name : { "b": item18_s_name, "c": item18_i1, "d": item18_i2, "e": item18_i3, "f": item18_i4, "g": item18_i5, "h": item18_i6, "i": item18_i7, "j": s, "k": g, "l": item18_i8, "m": m, "n": item18_i9, "o": s, "p": ga, "q": item18_i10, "r": item18_i11, "s": item18_i12, "t": item18_i13},
+        item19_name : { "b": item19_name, "c": item19_i1, "d": item19_i2, "e": item19_i3, "f": item19_i4, "g": item19_i5, "h": item19_i6, "i": item19_i7, "j": s, "k": g, "l": item19_i8, "m": m, "n": item19_i9, "o": s, "p": ga, "q": item19_i10, "r": item19_i11, "s": item19_i12, "t": item19_i13},
+        item19_s_name : { "b": item19_s_name, "c": item19_i1, "d": item19_i2, "e": item19_i3, "f": item19_i4, "g": item19_i5, "h": item19_i6, "i": item19_i7, "j": s, "k": g, "l": item19_i8, "m": m, "n": item19_i9, "o": s, "p": ga, "q": item19_i10, "r": item19_i11, "s": item19_i12, "t": item19_i13},
+        item20_name : { "b": item20_name, "c": item20_i1, "d": item20_i2, "e": item20_i3, "f": item20_i4, "g": item20_i5, "h": item20_i6, "i": item20_i7, "j": s, "k": g, "l": item20_i8, "m": m, "n": item20_i9, "o": s, "p": ga, "q": item20_i10, "r": item20_i11, "s": item20_i12, "t": item20_i13},
+        item20_s_name : { "b": item20_s_name, "c": item20_i1, "d": item20_i2, "e": item20_i3, "f": item20_i4, "g": item20_i5, "h": item20_i6, "i": item20_i7, "j": s, "k": g, "l": item20_i8, "m": m, "n": item20_i9, "o": s, "p": ga, "q": item20_i10, "r": item20_i11, "s": item20_i12, "t": item20_i13},
+        item21_name : { "b": item21_name, "c": item21_i1, "d": item21_i2, "e": item21_i3, "f": item21_i4, "g": item21_i5, "h": item21_i6, "i": item21_i7, "j": s, "k": g, "l": item21_i8, "m": m, "n": item21_i9, "o": s, "p": ga, "q": item21_i10, "r": item21_i11, "s": item21_i12, "t": item21_i13},
+        item21_s_name : { "b": item21_s_name, "c": item21_i1, "d": item21_i2, "e": item21_i3, "f": item21_i4, "g": item21_i5, "h": item21_i6, "i": item21_i7, "j": s, "k": g, "l": item21_i8, "m": m, "n": item21_i9, "o": s, "p": ga, "q": item21_i10, "r": item21_i11, "s": item21_i12, "t": item21_i13},
+        item22_name : { "b": item22_name, "c": item22_i1, "d": item22_i2, "e": item22_i3, "f": item22_i4, "g": item22_i5, "h": item22_i6, "i": item22_i7, "j": s, "k": g, "l": item22_i8, "m": m, "n": item22_i9, "o": s, "p": ga, "q": item22_i10, "r": item22_i11, "s": item22_i12, "t": item22_i13},
+        item22_s_name : { "b": item22_s_name, "c": item22_i1, "d": item22_i2, "e": item22_i3, "f": item22_i4, "g": item22_i5, "h": item22_i6, "i": item22_i7, "j": s, "k": g, "l": item22_i8, "m": m, "n": item22_i9, "o": s, "p": ga, "q": item22_i10, "r": item22_i11, "s": item22_i12, "t": item22_i13},
+        item23_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13},
+        item23_s_name : { "b": item23_s_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13}
+
 }    
