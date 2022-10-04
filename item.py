@@ -372,6 +372,22 @@ item23_i11 = "개조 (헥터. 총신 확장)"
 item23_i12 = "보석개조1 (헥터) > 다이아몬트 3cm, 스피넬 3cm, 재스퍼 3cm"
 item23_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1023811466563944448/IMG_1213.gif"
 
+item24_name = "곡괭이"
+item24_s_name = "곡괭이"
+item24_i1 = "흙을 뒤집거나 땅 속의 물건을 캘 때 유용한 도구이다. 광석을 캘 때는 꼭 필요하다. 곡괭이를 장비하고 광석등을 클릭하면 철광석을 얻을 수 있다."
+item24_i2 = "공격력 1~9"
+item24_i3 = "부상률 0~0%"
+item24_i4 = "크리티컬 7%"
+item24_i5 = "밸런스 56%"
+item24_i6 = "내구력 12/12"
+item24_i7 = "추가옵션 없음 "
+item24_i8 = "철괴 1개 "
+item24_i9 = "나무장작"
+item24_i10 = "110 극채집 속도 개조식: 손잡이 다듬기-손잡이 다듬기-손잡이 다듬기-손잡이 다듬기"
+item24_i11 = "개조 (숀. 날다듬기)"
+item24_i12 = "보석개조 없음 "
+item24_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1026890086375231558/unknown.png"
+
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
         item1_s_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -418,6 +434,7 @@ a = {
         item22_name : { "b": item22_name, "c": item22_i1, "d": item22_i2, "e": item22_i3, "f": item22_i4, "g": item22_i5, "h": item22_i6, "i": item22_i7, "j": s, "k": g, "l": item22_i8, "m": m, "n": item22_i9, "o": s, "p": ga, "q": item22_i10, "r": item22_i11, "s": item22_i12, "t": item22_i13},
         item22_s_name : { "b": item22_name, "c": item22_i1, "d": item22_i2, "e": item22_i3, "f": item22_i4, "g": item22_i5, "h": item22_i6, "i": item22_i7, "j": s, "k": g, "l": item22_i8, "m": m, "n": item22_i9, "o": s, "p": ga, "q": item22_i10, "r": item22_i11, "s": item22_i12, "t": item22_i13},
         item23_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13},
-        item23_s_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13}
-
+        item23_s_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13},
+        item24_name : { "b": item24_name, "c": item24_i1, "d": item24_i2, "e": item24_i3, "f": item24_i4, "g": item24_i5, "h": item24_i6, "i": item24_i7, "j": s, "k": g, "l": item24_i8, "m": m, "n": item24_i9, "o": s, "p": ga, "q": item24_i10, "r": item24_i11, "s": item24_i12, "t": item24_i13},
+        item24_s_name : { "b": item24_s_name, "c": item24_i1, "d": item24_i2, "e": item24_i3, "f": item24_i4, "g": item24_i5, "h": item24_i6, "i": item24_i7, "j": s, "k": g, "l": item24_i8, "m": m, "n": item24_i9, "o": s, "p": ga, "q": item24_i10, "r": item24_i11, "s": item24_i12, "t": item24_i13}
 }    
