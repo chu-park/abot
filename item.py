@@ -388,6 +388,38 @@ item24_i11 = "개조 (숀. 날다듬기)"
 item24_i12 = "보석개조 없음 "
 item24_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1026890086375231558/unknown.png"
 
+item25_name = "디바인 신시엘라크 L2"
+item25_s_name = "신시"
+item25_i1 = "신성한 고대 총을 복원하여 개조한 듀얼건. 빠른 공격 속도와 함께 최대 공격력과 부상률이 높은 것이 특징이다. 연사하면 매우 빠르고 강력한 공격을 가할 수 있다. 강한 충격을 주어 3번의 공격으로 적을 밀쳐낼 수 있다."
+item25_i2 = "공격력 10~40 (한계돌파 41)"
+item25_i3 = "부상률 25~65%"
+item25_i4 = "크리티컬 50%"
+item25_i5 = "밸런스 30%"
+item25_i6 = "내구력 30/30"
+item25_i7 = "탄환 64"
+item25_i8 = "힐웬 공학"
+item25_i9 = "힐웬 합금 2개(고황결 40개), 부서진 수호자의 총 1개, 빛나는 금속 파편 10개, 수호의 메달 5개, 신성력 왼쪽 파편 1개, 신성력 오른쪽 파편 1개"
+item25_i10 = "약실확장 - 강선추가1 - 강선추가2 - 총신확장"
+item25_i11 = "개조 (헥터. 총신확장)"
+item25_i12 = "보석개조 (헥터) > 다이아몬드 3cm, 스피넬 3cm, 제스퍼 3cm"
+item25_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1026896231546507294/unknown.png"
+
+item26_name = "낫"
+item26_s_name = "낫"
+item26_i1 = "밀이나 보리 같은 곡식을 벨 때 사용하는 도구이다. 낫을 들고 농경지의 작물을 클릭하면 곡식을 얻을 수 있다. "
+item26_i2 = "공격 2~11"
+item26_i3 = "부상률 0~0%"
+item26_i4 = "크리티컬 8%"
+item26_i5 = "밸런스 54%"
+item26_i6 = "내구력 18/18"
+item26_i7 = "추가옵션 없음 "
+item26_i8 = "철괴 1개 "
+item26_i9 = "나무장작 "
+item26_i10 = "111식 채집속도 개조: 손잡이 다듬기-손잡이 다듬기-손잡이 다듬기-손잡이 다듬기"
+item26_i11 = "개조(엔델리온, 날 다듬기)"
+item26_i12 = "보석개조 없음 "
+item26_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1026896131420069948/unknown.png"
+
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
         item1_s_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -436,5 +468,9 @@ a = {
         item23_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13},
         item23_s_name : { "b": item23_name, "c": item23_i1, "d": item23_i2, "e": item23_i3, "f": item23_i4, "g": item23_i5, "h": item23_i6, "i": item23_i7, "j": s, "k": g, "l": item23_i8, "m": m, "n": item23_i9, "o": s, "p": ga, "q": item23_i10, "r": item23_i11, "s": item23_i12, "t": item23_i13},
         item24_name : { "b": item24_name, "c": item24_i1, "d": item24_i2, "e": item24_i3, "f": item24_i4, "g": item24_i5, "h": item24_i6, "i": item24_i7, "j": s, "k": g, "l": item24_i8, "m": m, "n": item24_i9, "o": s, "p": ga, "q": item24_i10, "r": item24_i11, "s": item24_i12, "t": item24_i13},
-        item24_s_name : { "b": item24_s_name, "c": item24_i1, "d": item24_i2, "e": item24_i3, "f": item24_i4, "g": item24_i5, "h": item24_i6, "i": item24_i7, "j": s, "k": g, "l": item24_i8, "m": m, "n": item24_i9, "o": s, "p": ga, "q": item24_i10, "r": item24_i11, "s": item24_i12, "t": item24_i13}
+        item24_s_name : { "b": item24_s_name, "c": item24_i1, "d": item24_i2, "e": item24_i3, "f": item24_i4, "g": item24_i5, "h": item24_i6, "i": item24_i7, "j": s, "k": g, "l": item24_i8, "m": m, "n": item24_i9, "o": s, "p": ga, "q": item24_i10, "r": item24_i11, "s": item24_i12, "t": item24_i13},
+        item25_name : { "b": item25_name, "c": item25_i1, "d": item25_i2, "e": item25_i3, "f": item25_i4, "g": item25_i5, "h": item25_i6, "i": item25_i7, "j": s, "k": g, "l": item25_i8, "m": m, "n": item25_i9, "o": s, "p": ga, "q": item25_i10, "r": item25_i11, "s": item25_i12, "t": item25_i13},
+        item25_s_name : { "b": item25_s_name, "c": item25_i1, "d": item25_i2, "e": item25_i3, "f": item25_i4, "g": item25_i5, "h": item25_i6, "i": item25_i7, "j": s, "k": g, "l": item25_i8, "m": m, "n": item25_i9, "o": s, "p": ga, "q": item25_i10, "r": item25_i11, "s": item25_i12, "t": item25_i13},
+        item26_name : { "b": item26_name, "c": item26_i1, "d": item26_i2, "e": item26_i3, "f": item26_i4, "g": item26_i5, "h": item26_i6, "i": item26_i7, "j": s, "k": g, "l": item26_i8, "m": m, "n": item26_i9, "o": s, "p": ga, "q": item26_i10, "r": item26_i11, "s": item26_i12, "t": item26_i13},
+        item26_s_name : { "b": item26_s_name, "c": item26_i1, "d": item26_i2, "e": item26_i3, "f": item26_i4, "g": item26_i5, "h": item26_i6, "i": item26_i7, "j": s, "k": g, "l": item26_i8, "m": m, "n": item26_i9, "o": s, "p": ga, "q": item26_i10, "r": item26_i11, "s": item26_i12, "t": item26_i13}
 }    
