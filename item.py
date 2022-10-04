@@ -510,5 +510,4 @@ a = {
         item27_s_name : { "b": item27_s_name, "c": item27_i1, "d": item27_i2, "e": item27_i3, "f": item27_i4, "g": item27_i5, "h": item27_i6, "i": item27_i7, "j": s, "k": g, "l": item27_i8, "m": m, "n": item27_i9, "o": s, "p": ga, "q": item27_i10, "r": item27_i11, "s": item27_i12, "t": item27_i13},
         item28_name : { "b": item28_name, "c": item28_i1, "d": item28_i2, "e": item28_i3, "f": item28_i4, "g": item28_i5, "h": item28_i6, "i": item28_i7, "j": s, "k": g, "l": item28_i8, "m": m, "n": item28_i9, "o": s, "p": ga, "q": item28_i10, "r": item28_i11, "s": item28_i12, "t": item28_i13},
         item28_s_name : { "b": item28_s_name, "c": item28_i1, "d": item28_i2, "e": item28_i3, "f": item28_i4, "g": item28_i5, "h": item28_i6, "i": item28_i7, "j": s, "k": g, "l": item28_i8, "m": m, "n": item28_i9, "o": s, "p": ga, "q": item28_i10, "r": item28_i11, "s": item28_i12, "t": item28_i13}
-
 }    
