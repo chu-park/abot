@@ -484,6 +484,21 @@ item30_i11 = "개조(두갈드아일 트레이시, 날 다듬기)"
 item30_i12 = "보석개조 없음 "
 item30_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027194967296319619/unknown.png"
 
+item31_name = "장작용 도끼"
+item31_s_name = "장작도끼"
+item31_i1 = "모탕 위의 장작을 위에서 아래로 내려쳐 쪼갤 수 있는 도구. 채집용 도끼보다 크고 무거워 더 단단한 장작을 쪼갤 수 있다."
+item31_i2 = "공격력 2~6"
+item31_i3 = "부상률 0~0%"
+item31_i4 = "크리티컬 0%"
+item31_i5 = "밸런스 0%"
+item31_i6 = "내구력 12/12"
+item31_i7 = "추가옵션 없음"
+item31_i8 = "상점구매: 트레이시"
+item31_i9 = "-"
+item31_i10 = "속도개조식: 손잡이 다듬기-손잡이 다듬기-손잡이 다듬기-손잡이 다듬기"
+item31_i11 = "개조(두갈드 아일 트레이시, 트레이시식 개조) "
+item31_i12 = "보석개조 없음 "
+item31_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027200248424177765/unknown.png"
 
 
 a = {
@@ -546,7 +561,10 @@ a = {
         item29_name : { "b": item29_name, "c": item29_i1, "d": item29_i2, "e": item29_i3, "f": item29_i4, "g": item29_i5, "h": item29_i6, "i": item29_i7, "j": s, "k": g, "l": item29_i8, "m": m, "n": item29_i9, "o": s, "p": ga, "q": item29_i10, "r": item29_i11, "s": item29_i12, "t": item29_i13},
         item29_s_name : { "b": item29_s_name, "c": item29_i1, "d": item29_i2, "e": item29_i3, "f": item29_i4, "g": item29_i5, "h": item29_i6, "i": item29_i7, "j": s, "k": g, "l": item29_i8, "m": m, "n": item29_i9, "o": s, "p": ga, "q": item29_i10, "r": item29_i11, "s": item29_i12, "t": item29_i13},
         item30_name : { "b": item30_name, "c": item30_i1, "d": item30_i2, "e": item30_i3, "f": item30_i4, "g": item30_i5, "h": item30_i6, "i": item30_i7, "j": s, "k": g, "l": item30_i8, "m": m, "n": item30_i9, "o": s, "p": ga, "q": item30_i10, "r": item30_i11, "s": item30_i12, "t": item30_i13},
-        item30_s_name : { "b": item30_s_name, "c": item30_i1, "d": item30_i2, "e": item30_i3, "f": item30_i4, "g": item30_i5, "h": item30_i6, "i": item30_i7, "j": s, "k": g, "l": item30_i8, "m": m, "n": item30_i9, "o": s, "p": ga, "q": item30_i10, "r": item30_i11, "s": item30_i12, "t": item30_i13}
+        item30_s_name : { "b": item30_s_name, "c": item30_i1, "d": item30_i2, "e": item30_i3, "f": item30_i4, "g": item30_i5, "h": item30_i6, "i": item30_i7, "j": s, "k": g, "l": item30_i8, "m": m, "n": item30_i9, "o": s, "p": ga, "q": item30_i10, "r": item30_i11, "s": item30_i12, "t": item30_i13},
+        item31_name : { "b": item31_name, "c": item31_i1, "d": item31_i2, "e": item31_i3, "f": item31_i4, "g": item31_i5, "h": item31_i6, "i": item31_i7, "j": s, "k": g, "l": item31_i8, "m": m, "n": item31_i9, "o": s, "p": ga, "q": item31_i10, "r": item31_i11, "s": item31_i12, "t": item31_i13},
+        item31_s_name : { "b": item31_s_name, "c": item31_i1, "d": item31_i2, "e": item31_i3, "f": item31_i4, "g": item31_i5, "h": item31_i6, "i": item31_i7, "j": s, "k": g, "l": item31_i8, "m": m, "n": item31_i9, "o": s, "p": ga, "q": item31_i10, "r": item31_i11, "s": item31_i12, "t": item31_i13}
+
 
 
 }    
