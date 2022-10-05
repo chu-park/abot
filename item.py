@@ -452,6 +452,22 @@ item28_i11 = "광신도의 대검 전용 개조"
 item28_i12 = "보석개조 (네리스, 레이널드, 엘레스, 아이데른 등) > 다이아 5cm, 스피넬 5cm, 재스퍼 5cm"
 item28_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1026892953991520347/unknown.png"
 
+item29_name = "채집용 단검"
+item29_s_name = "채단검"
+item29_i1 = "작은 물건을 자르거나 다듬을 때 쓸 수 있는 단검. 무기로서의 가치는 거의 없어보이지만 양털을 깎는다거나 그 외에 여러가지 용도로 쓸 수 있을 것 같다. "
+item29_i2 = "공격력 4~8"
+item29_i3 = "부상률 0~0%"
+item29_i4 = "크리티컬 5%"
+item29_i5 = "밸런스 60%"
+item29_i6 = "내구력 19/19"
+item29_i7 = "추가옵션 없음 "
+item29_i8 = "상점구매 "
+item29_i9 = "상점구매 "
+item29_i10 = "속도개조식: 손잡이 다듬기-손잡이 다듬기-손잡이 다듬기-손잡이 다듬기"
+item29_i11 = "개조(티르코네일 데이안, 날 다듬기)"
+item29_i12 = "보석개조 없음"
+item29_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1026902706692051027/unknown.png"
+
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -509,5 +525,8 @@ a = {
         item27_name : { "b": item27_name, "c": item27_i1, "d": item27_i2, "e": item27_i3, "f": item27_i4, "g": item27_i5, "h": item27_i6, "i": item27_i7, "j": s, "k": g, "l": item27_i8, "m": m, "n": item27_i9, "o": s, "p": ga, "q": item27_i10, "r": item27_i11, "s": item27_i12, "t": item27_i13},
         item27_s_name : { "b": item27_s_name, "c": item27_i1, "d": item27_i2, "e": item27_i3, "f": item27_i4, "g": item27_i5, "h": item27_i6, "i": item27_i7, "j": s, "k": g, "l": item27_i8, "m": m, "n": item27_i9, "o": s, "p": ga, "q": item27_i10, "r": item27_i11, "s": item27_i12, "t": item27_i13},
         item28_name : { "b": item28_name, "c": item28_i1, "d": item28_i2, "e": item28_i3, "f": item28_i4, "g": item28_i5, "h": item28_i6, "i": item28_i7, "j": s, "k": g, "l": item28_i8, "m": m, "n": item28_i9, "o": s, "p": ga, "q": item28_i10, "r": item28_i11, "s": item28_i12, "t": item28_i13},
-        item28_s_name : { "b": item28_s_name, "c": item28_i1, "d": item28_i2, "e": item28_i3, "f": item28_i4, "g": item28_i5, "h": item28_i6, "i": item28_i7, "j": s, "k": g, "l": item28_i8, "m": m, "n": item28_i9, "o": s, "p": ga, "q": item28_i10, "r": item28_i11, "s": item28_i12, "t": item28_i13}
+        item28_s_name : { "b": item28_s_name, "c": item28_i1, "d": item28_i2, "e": item28_i3, "f": item28_i4, "g": item28_i5, "h": item28_i6, "i": item28_i7, "j": s, "k": g, "l": item28_i8, "m": m, "n": item28_i9, "o": s, "p": ga, "q": item28_i10, "r": item28_i11, "s": item28_i12, "t": item28_i13},
+        item29_name : { "b": item29_name, "c": item29_i1, "d": item29_i2, "e": item29_i3, "f": item29_i4, "g": item29_i5, "h": item29_i6, "i": item29_i7, "j": s, "k": g, "l": item29_i8, "m": m, "n": item29_i9, "o": s, "p": ga, "q": item29_i10, "r": item29_i11, "s": item29_i12, "t": item29_i13},
+        item29_s_name : { "b": item29_s_name, "c": item29_i1, "d": item29_i2, "e": item29_i3, "f": item29_i4, "g": item29_i5, "h": item29_i6, "i": item29_i7, "j": s, "k": g, "l": item29_i8, "m": m, "n": item29_i9, "o": s, "p": ga, "q": item29_i10, "r": item29_i11, "s": item29_i12, "t": item29_i13}
+
 }    
