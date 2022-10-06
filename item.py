@@ -500,6 +500,182 @@ item31_i11 = "개조(두갈드 아일 트레이시, 트레이시식 개조) "
 item31_i12 = "보석개조 없음 "
 item31_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027200248424177765/unknown.png"
 
+item32_name = "벼락맞은 떡갈나무 지팡이"
+item32_s_name = "떡갈나무 지팡이"
+item32_i1 = "실리엔을 추출하기 위한 도구. 평범한 나무 지팡이 같지만, 신비한 마력이 깃들어 있다."
+item32_i2 = "공격력 3~10"
+item32_i3 = "부상률 0~0%"
+item32_i4 = "크리티컬 5%"
+item32_i5 = "밸런스 15%"
+item32_i6 = "내구력 33/33"
+item32_i7 = "추가옵션 없음 "
+item32_i8 = "매직크래프트"
+item32_i9 = "실리엔 1개, 힐웬 1개, 중급 나무장작 1개"
+item32_i10 = "230 속도 극대화개조: 마법 가속1-마법 가속2-마법 가속3-마법 가속4"
+item32_i11 = "개조(실리엔 바이스, 마법 증폭)"
+item32_i12 = "보석 수리1(실리엔 바이스) >스타사파이어 1cm, 에메랄드 1cm, 아쿠아마린 1cm"
+item32_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027203567737639013/unknown.png"
+
+item33_name = "채광 드릴"
+item33_s_name = "드릴"
+item33_i1 = "단단한 힐웬 광석을 채집하기 위한 도구. 숙련되지 않은 사람은 드릴의 진동을 제어하기 어렵다고 한다. 2개의 실리엔 연료통을 장착해 에너지 효율을 높인다."
+item33_i2 = "공격력 25~55"
+item33_i3 = "부상률 0~0%"
+item33_i4 = "크리티컬 5%"
+item33_i5 = "밸런스 21%"
+item33_i6 = "내구력 32/32"
+item33_i7 = "추가옵션 없음"
+item33_i8 = "힐웬 공학"
+item33_i9 = "힐웬 합금 6개, 육각 볼트 10개, 육각 너트 10개, 에너지 컨버터 1개, 스핀 기어 1개 "
+item33_i10 = "230 속도 개조식: 스핀 기어 강화1-스핀 기어 강화2-스핀 기어 강화3-스핀 기어 강화4"
+item33_i11 = "개조(힐웬광산 헥터, 스핀 기어 업그레이드)"
+item33_i12 = "보석수리1(힐웬광산 헥터) > 루비 1cm, 스피넬 1cm, 재스퍼 1cm"
+item33_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027206080578719814/unknown.png"
+
+item34_name = "페러시우스 스트러글 핸들 "
+item34_s_name = "페러핸"
+item34_i1 = "영겁의 시간 동안 응축된 거대한 힘의 파편을 담은 핸들. 다소 불편한 듯한 조작감만 극복하면 더욱 화려하고 잔혹한 움직임의 마리오네트를 볼 수 있다고 한다. "
+item34_i2 = "공격 37~52"
+item34_i3 = "부상률 10~35%"
+item34_i4 = "크리티컬 31%"
+item34_i5 = "밸런스 35%"
+item34_i6 = "내구력 24/24"
+item34_i7 = "추가옵션: 마리오네트 조종술 범위 150 증가, 마리오네트 사망시 60% 확률로 부활 "
+item34_i8 = "핸디크래프트+이면을 보는 눈"
+item34_i9 = "특급 나무장작 5개, 금판 3개, 대못 10개, 봉인된 힘의 가루: 핸들 1개, 봉인된 힘의 결정: 핸들 1개, 봉인된 힘의 조각: 핸들 1개, 크라켄의 점액질 1개, 크라켄의 심장 1개 "
+item34_i10 = "네리스(던바튼): 페러시우스 스트러글 핸들 길들이기-자루조절1-자루조절2-자루조절3"
+item34_i11 = "페러시우스 스트러글 핸들 맞춤 개조"
+item34_i12 = "보석수리(네리스) > 다이아몬드 8cm, 스타사파이어 8cm, 토파즈 8cm"
+item34_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027230230894616606/unknown.png"
+
+item35_name = "레버넌트 루나틱 핸들 "
+item35_s_name = "레버핸"
+item35_i1 = "인형술 효율 상승에 설계 포커스를 맞춰 성능을 극대화한 핸들. 무기에 깃든 원혼의 영향으로 기존 마리오네트의 한계를 넘어선 움직임이 가능하도록 해준다. 특별한 미니어처와 같이 사용하면 봉인된 기능이 개방된다고 한다. "
+item35_i2 = "공격력 33~47"
+item35_i3 = "부상률 10~35%"
+item35_i4 = "크리티컬 28%"
+item35_i5 = "밸런스 35%"
+item35_i6 = "내구력 24/24"
+item35_i7 = "추가옵션 마리오네트 사망시 40% 확률 부활, 마리오네트 조종술 범위 90 증가 /몰락자의 피에로 미니어처와 세트효과"
+item35_i8 = "핸디크래프트+이면을 보는 눈"
+item35_i9 = "특급나무장작 3개, 금판 3개, 대못 7개, 봉인된 힘의 가루:핸들 1개, 봉인된 힘의 조각:핸들 1개, 봉인된 힘의 결정: 핸들 1개, 원혼이 깃든 고목 조각 1개, 안개 서린 붉은 보석 1개"
+item35_i10 = "네리스(던바튼), 휴(이멘마하): 레버넌트 루나틱 핸들 길들이기-자루조절1-자루조절2-자루조절3"
+item35_i11 = "레버넌트 루나틱 핸들 맞춤 개조"
+item35_i12 = "보석수리(네리스) > 다이아몬드 8cm, 에메랄드 8cm, 루비 8cm "
+item35_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027209966408433765/unknown.png"
+
+item36_name = "몰락자의 피에로 미니어처 "
+item36_s_name = "몰락자의 미니어처"
+item36_i1 = "어떤 몰락자에 의해 설계되었으나 끝내 완성되지는 못했던 미니어처를 기반으로 새로 제작되었다. 매우 섬세하고 정교했던 원형을 나름 훌륭하게 재련함과 동시에 만족스러운 성능까지 얻을 수 있었다. 착용한 상태에서는 무조건 특수 제작된 미니어처가 소환된다. 특별한 핸들과 같이 사용하면 봉인된 기능이 개방된다고 한다."
+item36_i2 = "공격력 0~0"
+item36_i3 = "부상률 0~0%"
+item36_i4 = "크리티컬 0%"
+item36_i5 = "밸런스 0%"
+item36_i6 = "내구력 0/0"
+item36_i7 = "추가옵션: 방어 5, 보호5, 마법방어 4, 마법보호4/ 레버넌트 루나틱 핸들과 세트효과 "
+item36_i8 = "핸디크래프트+이면을 보는 눈"
+item36_i9 = "특급나무장작 3개, 원혼이 깃든 고목 조각 1개, 가는 실뭉치 10개, 최고급 실크 5개, 마리오네트 완벽 수리 도구 세트 1개, 봉인된 힘의 결정: 미니어처 1개, 안개 서린 붉은 보석 1개"
+item36_i10 = "-"
+item36_i11 = "-"
+item36_i12 = "-"
+item36_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027214802109616158/unknown.png"
+
+item37_name = "페러시우스 티라누스 실린더"
+item37_s_name = "페러실"
+item37_i1 = "영겁의 시간 동안 응축된 거대한 힘의 파편을 담은 실린더. 어두운 기운을 끊임없이 발산하지만 그것을 덮을 정도의 매력적인 성능을 보여준다. 모든 속성 연금술 효과가 대폭 상승한다."
+item37_i2 = "공격력 31~49"
+item37_i3 = "부상률 15~25%"
+item37_i4 = "크리티컬 39%"
+item37_i5 = "밸런스 63%"
+item37_i6 = "내구력 39/39"
+item37_i7 = "추가옵션: 체인 실린더 쿨타임 3초 감소 "
+item37_i8 = "은괴 2개, 미스릴괴 2개, 미스릴판 1개, 크라켄의 흡판 1개  (5~6공정, 이면을 보는 눈)"
+item37_i9 = "금괴 3개, 대못 5개, 질긴끈 3개, 크라켄의 심장 1개, 봉인된 힘의 결정: 실린더 1개, 봉인된 힘의 조각: 실린더 1개, 봉인된 힘의 가루: 실린더 1개 "
+item37_i10 = "아이바(탈틴): 페러시우스 티라누스 전용 개조->4대 속성 활성화2->4대 활성화3->4대 속성 활성화4"
+item37_i11 = "페러시우스 티라누스 실린더 장인 개조"
+item37_i12 = "보석수리(아이바) > 다이아몬드 8cm, 루비 8cm, 에메랄드 8cm "
+item37_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027234626495860856/unknown.png"
+
+item38_name = "페러시우스 티라누스 가드실린더"
+item38_s_name = "페러가실"
+item38_i1 = "영겁의 시간 동안 응축된 거대한 힘의 파편을 담은 가드실린더. 어두운 기운을 끊임없이 발산하지만 그것을 덮을 정도의 매력적인 성능을 보여준다. 한층 진보된 제작 시술 덕분에 연금술 결정을 가드실린더 속에 저장할 수 있으며, 매우 신속한 연금술 사용이 가능하다."
+item38_i2 = "공격 0~0"
+item38_i3 = "부상률 0~0%"
+item38_i4 = "크리티컬 0%"
+item38_i5 = "밸런스 15%"
+item38_i6 = "내구력 35/35"
+item38_i7 = "추가옵션: 방어5, 보호3, 마법방어4, 마법보호5, 연금술 결정 저장 기능 "
+item38_i8 = "은괴 1개, 미스릴괴 1개, 미스릴판 3개, 크라켄의 흡판 1개 (5~6공정, 이면을 보는 눈)"
+item38_i9 = "금괴 3개, 대못 5개, 질긴끈 3개, 크라켄의 심장 1개, 봉인된 힘의 결정: 실린더 1개, 봉인된 힘의 조각: 실린더 1개, 봉인된 힘의 가루: 실린더 1개 "
+item38_i10 = "아이바(탈틴): 페러시우스 티라누스 가드실린더 전용개조->선택: 가드실린더 특수개조2(원팅) or 특수개조3(마팅)->선택: 가드실린더 특수개조2 or 특수개조3"
+item38_i11 = "-"
+item38_i12 = "보석수리 > 다이아몬드 8cm, 스타사파이어 8cm, 토파즈 8cm"
+item38_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027237692364312766/unknown.png"
+
+item39_name = "페러시우스 토멘티드 너클"
+item39_s_name = "페러넠"
+item39_i1 = "영겁의 시간 동안 응축된 거대한 힘의 파편을 담은 너클. 사용자의 공격적 성향을 극대화시켜 신체적 한계를 넘어서는 격투술 능력을 이끌어낸다."
+item39_i2 = "공격력 45~114"
+item39_i3 = "부상률 10~25%"
+item39_i4 = "크리티컬 61%"
+item39_i5 = "밸런스 72%"
+item39_i6 = "내구력 35/35"
+item39_i7 = "추가옵션: 연속기 대미지 35% 증가, 드롭킥 스플래시 폭 20% 증가, 파운딩 대미지 80% 증가, 의지 70 증가 "
+item39_i8 = "금괴 3개, 미스릴판 3개, 크라켄의 다리 가시1개 (5~6공정, 이면을 보는 눈)"
+item39_i9 = "금괴 3개, 대못 7개, 질긴끈 1개, 크라켄의 심장 1개, 봉인된 힘의 결정: 너클 1개, 봉인된 힘의 조각: 너클 1개, 봉인된 힘의 가루: 너클 1개 "
+item39_i10 = "네리스(던바튼): 페러시우스 토멘티드 너클 봉인 해제-징 연마-체인 연마-경량화"
+item39_i11 = "페러시우스 토멘티드 너클 전용 개조"
+item39_i12 = "보석 수리 > 다이아몬드 8cm, 스타사파이어 8cm, 토파즈 8cm"
+item39_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027226926173126676/unknown.png"
+
+item40_name = "레버넌트 인사이트 실린더"
+item40_s_name = "레버실"
+item40_i1 = "연금술 효율 상승에 설계 포커스를 맞춰 성능을 극대화한 실린더. 무기에 깃든 원혼의 영향으로 사용자의 한계를 넘어서는 연금술 능력을 이끌어내어 모든 속성의 연금술 효과가 상승한다."
+item40_i2 = "공격력 27~42"
+item40_i3 = "부상률 10~20%"
+item40_i4 = "크리티컬 47%"
+item40_i5 = "밸런스 62%"
+item40_i6 = "내구력 37/37"
+item40_i7 = "추가옵션 체인 실린더 쿨타임 2초 감소"
+item40_i8 = "은괴 2개, 금괴 2개, 금판 1개, 원혼이 깃든 연금술 결정 1개 (3~4공정, 이면을 보는 눈)"
+item40_i9 = "금괴 3개, 대못 5개, 질긴끈 3개, 봉인된 힘의 가루: 실린더 1개, 봉인된 힘의 결정: 실린더 1개, 봉인된 힘의 조각: 실린더 1개, 안개 서린 붉은 보석 1개 "
+item40_i10 = "아이바(탈틴): 레버넌트 인사이트 전용개조-4대 속성 활성화2-4대 속성 활성화3-4대 속솽 활성화4"
+item40_i11 = "4대 속성활성화5"
+item40_i12 = "보석수리(아이바) > 다이아몬드 8cm, 루비 8cm, 에메랄드 8cm"
+item40_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027219735143792660/unknown.png"
+
+item41_name = "레버넌트 스플린터 너클"
+item41_s_name = "레버넠"
+item41_i1 = "격투술 효율 상승에 설계 포커스를 맞춰 성능을 극대화한 너클. 무기에 깃든 원혼의 영향으로 사용자의 신체적 한계를 넘어서는 격투술 능력을 이끌어 낼 수 있다."
+item41_i2 = "공격력 43~105"
+item41_i3 = "부상률 10~25%"
+item41_i4 = "크리티컬 57%"
+item41_i5 = "밸런스 71%"
+item41_i6 = "내구력 35/35"
+item41_i7 = "추가옵션:  연속기 대미지 25% 증가, 드롭킥 스플래시 폭 10% 증가, 파운딩 대미지 60% 증가, 의지 50 증가 "
+item41_i8 = "금괴 3개, 미스릴판 3개, 원혼이 깃든 칼날 1개   (3~4공정, 이면을 보는 눈)"
+item41_i9 = "금괴 3개, 대못 7개, 질긴끈 1개, 봉인된 힘의 가루:너클 1개, 봉인된 힘의 결정:너클 1개, 봉인되 힘의 조각:너클 1개, 안개 서린 붉은 보석 1개 "
+item41_i10 = "네리스(던바튼): 레버넌트 스플린터 너클 봉인 해제-징 연마-체인 연마-경량화"
+item41_i11 = "레버넌트 스플린터 너클 전용 개조"
+item41_i12 = "보석수리(네리스) > 다이아몬드 8cm, 에메랄드 8cm, 루비 8cm"
+item41_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027239093245071380/unknown.png"
+
+item42_name = "레버넌트 인사이트 가드실린더"
+item42_s_name = "레버가실"
+item42_i1 = "연금술 효율 상승에 설계 포커스를 맞춰 성능을 극대화한 가드실린더. 무기에 깃든 원혼의 영향으로 사용자의 한계를 넘어서는 연금술 능력을 이끌어 낼 수 있다. 한층 진보된 제작 기술 덕분에 연금술 결정을 가드실린더 속에 저장할 수 있으며, 매우 신속한 연금술 사용이 가능하다."
+item42_i2 = "공격 0~0"
+item42_i3 = "부상률 0~0%"
+item42_i4 = "크리티컬 0%"
+item42_i5 = "밸런스 15%"
+item42_i6 = "내구력 36/36"
+item42_i7 = "추가옵션 방어2~5, 보호1~2, 마법방어 2, 마법 보호3, 연금술 결정 저장 기능"
+item42_i8 = "은괴 1개, 미스릴괴 1개, 미스릴판 3개, 원혼이 깃든 연금술 결정 1개 (3~4공정, 이면을 보는 눈)"
+item42_i9 = "금괴 3개, 대못 5개, 질긴끈 3개, 안개 서린 붉은 보석 1개, 봉인된 힘의 결정: 실린더 1개, 봉인된 힘의 조각: 실린더 1개, 봉인된 힘의 가루: 실린더 1개"
+item42_i10 = "아이바(탈틴), 3개조: 레버넌트 인사이트 가드 실린더 전용 개조->선택: 가드실린더 특수개조2(원팅) or 가드실린더 특수개조3(마팅)->선택: 가드실린더 특수개조 2 or 3"
+item42_i11 = "-"
+item42_i12 = "보석수리(아이바) > 다이아몬드 8cm, 루비 8cm, 에메랄드 8cm"
+item42_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027223593739898890/unknown.png"
+
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -563,8 +739,28 @@ a = {
         item30_name : { "b": item30_name, "c": item30_i1, "d": item30_i2, "e": item30_i3, "f": item30_i4, "g": item30_i5, "h": item30_i6, "i": item30_i7, "j": s, "k": g, "l": item30_i8, "m": m, "n": item30_i9, "o": s, "p": ga, "q": item30_i10, "r": item30_i11, "s": item30_i12, "t": item30_i13},
         item30_s_name : { "b": item30_s_name, "c": item30_i1, "d": item30_i2, "e": item30_i3, "f": item30_i4, "g": item30_i5, "h": item30_i6, "i": item30_i7, "j": s, "k": g, "l": item30_i8, "m": m, "n": item30_i9, "o": s, "p": ga, "q": item30_i10, "r": item30_i11, "s": item30_i12, "t": item30_i13},
         item31_name : { "b": item31_name, "c": item31_i1, "d": item31_i2, "e": item31_i3, "f": item31_i4, "g": item31_i5, "h": item31_i6, "i": item31_i7, "j": s, "k": g, "l": item31_i8, "m": m, "n": item31_i9, "o": s, "p": ga, "q": item31_i10, "r": item31_i11, "s": item31_i12, "t": item31_i13},
-        item31_s_name : { "b": item31_s_name, "c": item31_i1, "d": item31_i2, "e": item31_i3, "f": item31_i4, "g": item31_i5, "h": item31_i6, "i": item31_i7, "j": s, "k": g, "l": item31_i8, "m": m, "n": item31_i9, "o": s, "p": ga, "q": item31_i10, "r": item31_i11, "s": item31_i12, "t": item31_i13}
-
-
+        item31_s_name : { "b": item31_s_name, "c": item31_i1, "d": item31_i2, "e": item31_i3, "f": item31_i4, "g": item31_i5, "h": item31_i6, "i": item31_i7, "j": s, "k": g, "l": item31_i8, "m": m, "n": item31_i9, "o": s, "p": ga, "q": item31_i10, "r": item31_i11, "s": item31_i12, "t": item31_i13},
+        item32_name : { "b": item32_name, "c": item32_i1, "d": item32_i2, "e": item32_i3, "f": item32_i4, "g": item32_i5, "h": item32_i6, "i": item32_i7, "j": s, "k": g, "l": item32_i8, "m": m, "n": item32_i9, "o": s, "p": ga, "q": item32_i10, "r": item32_i11, "s": item32_i12, "t": item32_i13},
+        item32_s_name : { "b": item32_s_name, "c": item32_i1, "d": item32_i2, "e": item32_i3, "f": item32_i4, "g": item32_i5, "h": item32_i6, "i": item32_i7, "j": s, "k": g, "l": item32_i8, "m": m, "n": item32_i9, "o": s, "p": ga, "q": item32_i10, "r": item32_i11, "s": item32_i12, "t": item32_i13},
+        item33_name : { "b": item33_name, "c": item33_i1, "d": item33_i2, "e": item33_i3, "f": item33_i4, "g": item33_i5, "h": item33_i6, "i": item33_i7, "j": s, "k": g, "l": item33_i8, "m": m, "n": item33_i9, "o": s, "p": ga, "q": item33_i10, "r": item33_i11, "s": item33_i12, "t": item33_i13},
+        item33_s_name : { "b": item33_s_name, "c": item33_i1, "d": item33_i2, "e": item33_i3, "f": item33_i4, "g": item33_i5, "h": item33_i6, "i": item33_i7, "j": s, "k": g, "l": item33_i8, "m": m, "n": item33_i9, "o": s, "p": ga, "q": item33_i10, "r": item33_i11, "s": item33_i12, "t": item33_i13},
+        item34_name : { "b": item34_name, "c": item34_i1, "d": item34_i2, "e": item34_i3, "f": item34_i4, "g": item34_i5, "h": item34_i6, "i": item34_i7, "j": s, "k": g, "l": item34_i8, "m": m, "n": item34_i9, "o": s, "p": ga, "q": item34_i10, "r": item34_i11, "s": item34_i12, "t": item34_i13},
+        item34_s_name : { "b": item34_s_name, "c": item34_i1, "d": item34_i2, "e": item34_i3, "f": item34_i4, "g": item34_i5, "h": item34_i6, "i": item34_i7, "j": s, "k": g, "l": item34_i8, "m": m, "n": item34_i9, "o": s, "p": ga, "q": item34_i10, "r": item34_i11, "s": item34_i12, "t": item34_i13},
+        item35_name : { "b": item35_name, "c": item35_i1, "d": item35_i2, "e": item35_i3, "f": item35_i4, "g": item35_i5, "h": item35_i6, "i": item35_i7, "j": s, "k": g, "l": item35_i8, "m": m, "n": item35_i9, "o": s, "p": ga, "q": item35_i10, "r": item35_i11, "s": item35_i12, "t": item35_i13},
+        item35_s_name : { "b": item35_s_name, "c": item35_i1, "d": item35_i2, "e": item35_i3, "f": item35_i4, "g": item35_i5, "h": item35_i6, "i": item35_i7, "j": s, "k": g, "l": item35_i8, "m": m, "n": item35_i9, "o": s, "p": ga, "q": item35_i10, "r": item35_i11, "s": item35_i12, "t": item35_i13},
+        item36_name : { "b": item36_name, "c": item36_i1, "d": item36_i2, "e": item36_i3, "f": item36_i4, "g": item36_i5, "h": item36_i6, "i": item36_i7, "j": s, "k": g, "l": item36_i8, "m": m, "n": item36_i9, "o": s, "p": ga, "q": item36_i10, "r": item36_i11, "s": item36_i12, "t": item36_i13},
+        item36_s_name : { "b": item36_s_name, "c": item36_i1, "d": item36_i2, "e": item36_i3, "f": item36_i4, "g": item36_i5, "h": item36_i6, "i": item36_i7, "j": s, "k": g, "l": item36_i8, "m": m, "n": item36_i9, "o": s, "p": ga, "q": item36_i10, "r": item36_i11, "s": item36_i12, "t": item36_i13},
+        item37_name : { "b": item37_name, "c": item37_i1, "d": item37_i2, "e": item37_i3, "f": item37_i4, "g": item37_i5, "h": item37_i6, "i": item37_i7, "j": s, "k": g, "l": item37_i8, "m": m, "n": item37_i9, "o": s, "p": ga, "q": item37_i10, "r": item37_i11, "s": item37_i12, "t": item37_i13},
+        item37_s_name : { "b": item37_s_name, "c": item37_i1, "d": item37_i2, "e": item37_i3, "f": item37_i4, "g": item37_i5, "h": item37_i6, "i": item37_i7, "j": s, "k": g, "l": item37_i8, "m": m, "n": item37_i9, "o": s, "p": ga, "q": item37_i10, "r": item37_i11, "s": item37_i12, "t": item37_i13},
+        item38_name : { "b": item38_name, "c": item38_i1, "d": item38_i2, "e": item38_i3, "f": item38_i4, "g": item38_i5, "h": item38_i6, "i": item38_i7, "j": s, "k": g, "l": item38_i8, "m": m, "n": item38_i9, "o": s, "p": ga, "q": item38_i10, "r": item38_i11, "s": item38_i12, "t": item38_i13},
+        item38_s_name : { "b": item38_s_name, "c": item38_i1, "d": item38_i2, "e": item38_i3, "f": item38_i4, "g": item38_i5, "h": item38_i6, "i": item38_i7, "j": s, "k": g, "l": item38_i8, "m": m, "n": item38_i9, "o": s, "p": ga, "q": item38_i10, "r": item38_i11, "s": item38_i12, "t": item38_i13},
+        item39_name : { "b": item39_name, "c": item39_i1, "d": item39_i2, "e": item39_i3, "f": item39_i4, "g": item39_i5, "h": item39_i6, "i": item39_i7, "j": s, "k": g, "l": item39_i8, "m": m, "n": item39_i9, "o": s, "p": ga, "q": item39_i10, "r": item39_i11, "s": item39_i12, "t": item39_i13},
+        item39_s_name : { "b": item39_s_name, "c": item39_i1, "d": item39_i2, "e": item39_i3, "f": item39_i4, "g": item39_i5, "h": item39_i6, "i": item39_i7, "j": s, "k": g, "l": item39_i8, "m": m, "n": item39_i9, "o": s, "p": ga, "q": item39_i10, "r": item39_i11, "s": item39_i12, "t": item39_i13},
+        item40_name : { "b": item40_name, "c": item40_i1, "d": item40_i2, "e": item40_i3, "f": item40_i4, "g": item40_i5, "h": item40_i6, "i": item40_i7, "j": s, "k": g, "l": item40_i8, "m": m, "n": item40_i9, "o": s, "p": ga, "q": item40_i10, "r": item40_i11, "s": item40_i12, "t": item40_i13},
+        item40_s_name : { "b": item40_s_name, "c": item40_i1, "d": item40_i2, "e": item40_i3, "f": item40_i4, "g": item40_i5, "h": item40_i6, "i": item40_i7, "j": s, "k": g, "l": item40_i8, "m": m, "n": item40_i9, "o": s, "p": ga, "q": item40_i10, "r": item40_i11, "s": item40_i12, "t": item40_i13},
+        item41_name : { "b": item41_name, "c": item41_i1, "d": item41_i2, "e": item41_i3, "f": item41_i4, "g": item41_i5, "h": item41_i6, "i": item41_i7, "j": s, "k": g, "l": item41_i8, "m": m, "n": item41_i9, "o": s, "p": ga, "q": item41_i10, "r": item41_i11, "s": item41_i12, "t": item41_i13},
+        item41_s_name : { "b": item41_s_name, "c": item41_i1, "d": item41_i2, "e": item41_i3, "f": item41_i4, "g": item41_i5, "h": item41_i6, "i": item41_i7, "j": s, "k": g, "l": item41_i8, "m": m, "n": item41_i9, "o": s, "p": ga, "q": item41_i10, "r": item41_i11, "s": item41_i12, "t": item41_i13},
+        item42_name : { "b": item42_name, "c": item42_i1, "d": item42_i2, "e": item42_i3, "f": item42_i4, "g": item42_i5, "h": item42_i6, "i": item42_i7, "j": s, "k": g, "l": item42_i8, "m": m, "n": item42_i9, "o": s, "p": ga, "q": item42_i10, "r": item42_i11, "s": item42_i12, "t": item42_i13},
+        item42_s_name : { "b": item42_s_name, "c": item42_i1, "d": item42_i2, "e": item42_i3, "f": item42_i4, "g": item42_i5, "h": item42_i6, "i": item42_i7, "j": s, "k": g, "l": item42_i8, "m": m, "n": item42_i9, "o": s, "p": ga, "q": item42_i10, "r": item42_i11, "s": item42_i12, "t": item42_i13}
 
 }    
