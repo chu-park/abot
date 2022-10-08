@@ -1204,6 +1204,22 @@ item75_i11 = "-"
 item75_i12 = "-"
 item75_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028031277296799804/unknown.png"
 
+item76_name = "태양과 달의 검"
+item76_s_name = "태달검"
+item76_i1 = "태양과 달의 힘을 결합하여 검의 형상에 응축한 양손검. 낮에는 태양, 밤에는 달과 공명하여 소유자에게는 영광을 적에게는 파멸을 선사한다."
+item76_i2 = "공격력 150~260"
+item76_i3 = "부상률 40~65%"
+item76_i4 = "크리티컬 75%"
+item76_i5 = "밸런스 85%"
+item76_i6 = "내구력 40/40"
+item76_i7 = "추가옵션 방어력, 피어싱 등"
+item76_i8 = "태양석 100개, 만월석 100개, 불길한 운명의 파편 50개, 여명의검 1개, 황혼의 검 1개"
+item76_i9 = "라데카 푸른 개조석 5개, 이웨카 붉은 개조석 5개"
+item76_i10 = "담금질1 - 담금질2 - 담금질3 - 담금질4"
+item76_i11 = "태양과 달의 검 전용개조 (아이데른, 크리티컬 5 / 최대공격력 6 / 피어싱레벨 2 / 최대내구도 -2)"
+item76_i12 = "태양과 달의 검 보석개조 (아이데른) > 다이아몬드 10cm, 스피넬 10cm, 제스퍼 10cm"
+item76_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027899666341298186/unknown.png"
+
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -1356,6 +1372,7 @@ a = {
         item74_s_name : { "b": item74_name, "c": item74_i1, "d": item74_i2, "e": item74_i3, "f": item74_i4, "g": item74_i5, "h": item74_i6, "i": item74_i7, "j": s, "k": g, "l": item74_i8, "m": m, "n": item74_i9, "o": s, "p": ga, "q": item74_i10, "r": item74_i11, "s": item74_i12, "t": item74_i13},
         item75_name : { "b": item75_name, "c": item75_i1, "d": item75_i2, "e": item75_i3, "f": item75_i4, "g": item75_i5, "h": item75_i6, "i": item75_i7, "j": s, "k": g, "l": item75_i8, "m": m, "n": item75_i9, "o": s, "p": ga, "q": item75_i10, "r": item75_i11, "s": item75_i12, "t": item75_i13},
         item75_s_name : { "b": item75_name, "c": item75_i1, "d": item75_i2, "e": item75_i3, "f": item75_i4, "g": item75_i5, "h": item75_i6, "i": item75_i7, "j": s, "k": g, "l": item75_i8, "m": m, "n": item75_i9, "o": s, "p": ga, "q": item75_i10, "r": item75_i11, "s": item75_i12, "t": item75_i13},
-
+        item76_name : { "b": item76_name, "c": item76_i1, "d": item76_i2, "e": item76_i3, "f": item76_i4, "g": item76_i5, "h": item76_i6, "i": item76_i7, "j": s, "k": g, "l": item76_i8, "m": m, "n": item76_i9, "o": s, "p": ga, "q": item76_i10, "r": item76_i11, "s": item76_i12, "t": item76_i13},
+        item76_s_name : { "b": item76_s_name, "c": item76_i1, "d": item76_i2, "e": item76_i3, "f": item76_i4, "g": item76_i5, "h": item76_i6, "i": item76_i7, "j": s, "k": g, "l": item76_i8, "m": m, "n": item76_i9, "o": s, "p": ga, "q": item76_i10, "r": item76_i11, "s": item76_i12, "t": item76_i13}
 
 }    
