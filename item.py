@@ -1028,6 +1028,182 @@ item64_i11 = "-"
 item64_i12 = "-"
 item64_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1027691935646896148/unknown.png"
 
+item65_name = "탐구생활 낚시대"
+item65_s_name = "탐구낚시대"
+item65_i1 = "낚시일기를 모으면 모을수록 강해지는 낚싯대. 2m가 넘는 큰 물고기를 낚아본 당신이라면 언제든 자유롭게 사용할 수 있을 것이다. 블런트 마스터리의 효과도 받는다. (염색 불가)"
+item65_i2 = "공격 0~4"
+item65_i3 = "부상률 0~0%"
+item65_i4 = "크리티컬 3%"
+item65_i5 = "밸런스 30%"
+item65_i6 = "내구력 12/12"
+item65_i7 = "추가옵션: 낚시일기 별 1개당 맥댐 0.6 크리 0.15씩 올라감"
+item65_i8 = "24종 물고기 낚기 퀘스트 수행시 보상으로 획득"
+item65_i9 = "-"
+item65_i10 = "잡화점 개조(무기): 무게조절1-무게조절2-무게조절3-무게조절4"
+item65_i11 = "장인개조(채력 0~50, 행운 0~50, 최대생명력 0~5, 최대 스태미나 0~5)"
+item65_i12 = "보석개조1 > 아쿠아 4cm, 재스퍼 2cm, 스피넬 1cm "
+item65_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028003028810346617/unknown.png"
+
+item66_name = "탐구생활 식칼"
+item66_s_name = "탐구식칼"
+item66_i1 = "요리일기를 모으면 모을수록 강해지는 식칼. 예로부터 푸줏간 주인을 건드리는 강도는 온전히 살아남지 못 했다고 한다. 소드 마스터리의 효과도 받는다. "
+item66_i2 = "공격 0~4"
+item66_i3 = "부상률 0~0%"
+item66_i4 = "크리티컬 3%"
+item66_i5 = "밸런스 30%"
+item66_i6 = "내구력 12/12"
+item66_i7 = "추가옵션: 요리일기 별 1개당 맥댐 0.07 크리 0.025씩 올라감"
+item66_i8 = "요리 150종 섭취 퀘스트 보상 "
+item66_i9 = "-"
+item66_i10 = "잡화점 개조(무기): 무게조절1-무게조절2-무게조절3-무게조절4"
+item66_i11 = "장인개조(체력 0~50, 행운 0~50, 최대생명력 0~5, 최대스태미나 0~5)"
+item66_i12 = "보석개조1 > 아쿠아 4cm, 재스퍼 2cm, 스피넬 1cm"
+item66_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028003902567759902/unknown.png"
+
+item67_name = "탐구생활 조련 지팡이"
+item67_s_name = "탐구조련지팡이"
+item67_i1 = "조련일기를 모으면 모을수록 마법 공격력이 강해지는 조련 지팡이. 조련하다가 지겨워지면 이 조련 지팡이로 동물들을 때려서 길들여보는 건 어떨까. 블런트 마스터리의 효과도 받는다. (염색 불가)"
+item67_i2 = "공격 0~4"
+item67_i3 = "부상률 0~0%"
+item67_i4 = "크리티컬 3%"
+item67_i5 = "밸런스 30%"
+item67_i6 = "내구력 12/12"
+item67_i7 = "추가옵션: 완드(블레이즈만 사용가능), 조련 보너스 3%, 조련일기 별 1개당 마공 0.04, 크리티컬 0.025씩 올라감. "
+item67_i8 = "90마리 몬스터 조련 퀘스트 완료 후 보상"
+item67_i9 = "-"
+item67_i10 = "타격용원드 개조(라사, 스튜어트, 키리네, 카스타네아) : 손잡이 교체-손잡이 교체-손잡이 교체-손잡이 교체"
+item67_i11 = "장인개조(최대 생명력 2~5증가, 최대스태미나 2~5증가, 지력 5~80증가)"
+item67_i12 = "보석수리> 아쿠아마린 4cm, 루비 2cm, 스피넬 1cm "
+item67_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028012145042014369/unknown.png"
+
+item68_name = "반죽용 밀대"
+item68_s_name = "밀대"
+item68_i1 = "밀가루를 얇게 펼 때 쓰는 조리용 도구. 오른손에 반죽용 밀대, 왼손에 간이 테이블을 들고 반죽, 면만들기 등의 요리를 할 수 있다."
+item68_i2 = "공격 3~7"
+item68_i3 = "부상률 0~0%"
+item68_i4 = "크리티컬 0%"
+item68_i5 = "밸런스 0%"
+item68_i6 = "내구력 5/5"
+item68_i7 = "추가옵션 없음 "
+item68_i8 = "상점구매(잡화점, 마차 펫 등), 핸디크래프트(F랭크) "
+item68_i9 = "나무장작 2개"
+item68_i10 = "개조안됨"
+item68_i11 = "-"
+item68_i12 = "-"
+item68_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028020019906498581/unknown.png"
+
+item69_name = "다용도 국자"
+item69_s_name = "국자"
+item69_i1 = "음식을 조리할 때 휘젓거나, 뒤집거나, 국물을 뜨는 등 다양한 용도로 사용하는 요리 도구. 오른손에 다용도 국자, 왼손에 냄비를 들고 불 근처에서 굽기, 삶기, 끓이기 등의 요리를 할 수 있다."
+item69_i2 = "공격 1~6"
+item69_i3 = "부상률 0~0%"
+item69_i4 = "크리티컬 0%"
+item69_i5 = "밸런스 0%"
+item69_i6 = "내구력 15/15"
+item69_i7 = "추가옵션 없음 "
+item69_i8 = "상점구매(잡화점, 마트 펫 등), 핸디크래프트(랭크 E)"
+item69_i9 = "나무장작 3개"
+item69_i10 = "개조안됨"
+item69_i11 = "-"
+item69_i12 = "-"
+item69_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028022886587445279/unknown.png"
+
+item70_name = "간이 테이블"
+item70_s_name = "간이테이블"
+item70_i1 = "나무로 만든 조리대 겸용 작은 테이블. 편리하게 접이식으로 만들어져 휴대하기 좋다. 왼손에 간이 테이블, 오른손에 식칼이나 반죽용 밀대를 들고 요리를 할 수 있다. "
+item70_i2 = "공격 0~0"
+item70_i3 = "부상률 0~0%"
+item70_i4 = "크리티컬 0%"
+item70_i5 = "밸런스 0%"
+item70_i6 = "내구력 30/30"
+item70_i7 = "추가옵션 없음"
+item70_i8 = "상점구매(잡화점, 마차 펫 등), 핸디크래프트(C랭크)"
+item70_i9 = "나무 장작 5개, 대못 10개"
+item70_i10 = "개조안됨"
+item70_i11 = "-"
+item70_i12 = "-"
+item70_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028024722664988672/unknown.png"
+
+item71_name = "식칼"
+item71_s_name = "식칼"
+item71_i1 = "주방용 칼. 식재료를 써는데 유용할 것 같다. 오른손에 식칼, 왼손에 간이 테이블을 들고 혼합 요리를 할 수 있다. "
+item71_i2 = "공격 2~5"
+item71_i3 = "부상률 0~0%"
+item71_i4 = "크리티컬 5%"
+item71_i5 = "밸런스 20%"
+item71_i6 = "내구력 5/5"
+item71_i7 = "추가옵션 없음"
+item71_i8 = "상점구매 (잡화점, 마차 펫 등)"
+item71_i9 = "-"
+item71_i10 = "개조안됨"
+item71_i11 = "-"
+item71_i12 = "-"
+item71_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028027078215479357/unknown.png"
+
+item72_name = "긴 식칼"
+item72_s_name = "긴식칼"
+item72_i1 = "주방용 긴 칼. 예리하게 날이 서 있어 식재료를 얇게 저미는 데 유용할 것 같다. 오른손에 긴 식칼, 왼손에 간이 테이블을 들고 저미기 요리를 할 수 있다."
+item72_i2 = "공격 2~5"
+item72_i3 = "부상률 0~0%"
+item72_i4 = "크리티컬 5%"
+item72_i5 = "밸런스 20%"
+item72_i6 = "내구력 10/10"
+item72_i7 = "추가옵션 없음"
+item72_i8 = "상점구매(잡화점, 마트 펫 등)"
+item72_i9 = "-"
+item72_i10 = "개조안됨"
+item72_i11 = "-"
+item72_i12 = "-"
+item72_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028027602415386725/unknown.png"
+
+item73_name = "발효 용기"
+item73_s_name = "발효용기"
+item73_i1 = "식재료를 담아 오랜시간 숙성시키거나 발효시키는데 사용하는 도구. 오른손에 발효 용기, 왼손에 간이 테이블을 들고 발효 요리를 할 수 있다. "
+item73_i2 = "공격 0~0"
+item73_i3 = "부상률 0~0%"
+item73_i4 = "크리티컬 0%"
+item73_i5 = "밸런스 0%"
+item73_i6 = "내구력 15/15"
+item73_i7 = "추가옵션 없음"
+item73_i8 = "상점구매 (잡화점, 마차 펫 등)"
+item73_i9 = "-"
+item73_i10 = "개조안됨"
+item73_i11 = "-"
+item73_i12 = "-"
+item73_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028028114288267315/unknown.png"
+
+item74_name = "수비드용 진공 용기"
+item74_s_name = "수비드"
+item74_i1 = "힐웬 광산에서 드물게 발견되는, 근처의 따뜻한 온기를 흡수하는 특수한 소재로 제작된 요리 도구. 밀폐된 진동 봉투 안에 음식물을 담은 뒤 따뜻한 물에 오래 익힐 수 있다. 오른손에 수비드용 진공 용기, 왼손에 간이 테이블을 들고 수비드 요리를 할 수 있다. "
+item74_i2 = "공격 0~0"
+item74_i3 = "부상률 0~0%"
+item74_i4 = "크리티컬 0%"
+item74_i5 = "밸러스 0%"
+item74_i6 = "내구력 15/15"
+item74_i7 = "추가옵션 없음"
+item74_i8 = "상점구매( 잡화점, 마차 펫 등)"
+item74_i9 = "-"
+item74_i10 = "개조안됨"
+item74_i11 = "-"
+item74_i12 = "-"
+item74_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028028844575313970/unknown.png"
+
+item75_name = "냄비"
+item75_s_name = "-"
+item75_i1 = "요리를 하는데 적당한 크기의 냄비. 왼손에 냄비, 오른손에 다용도 국자를 들고 불 근처에서 요리를 할 수 있다."
+item75_i2 = "공격 0~0"
+item75_i3 = "부상률 0~0%"
+item75_i4 = "크리티컬 0%"
+item75_i5 = "밸러스 0%"
+item75_i6 = "내구력 30/30"
+item75_i7 = "추가옵션 없음/ 세공으로 최공, 마공 등 띄워서 방패로 사용하는 경우가 있음(자이언트)"
+item75_i8 = "상점구매(잡화점, 마차 펫 등)"
+item75_i9 = "-"
+item75_i10 = "개조안됨"
+item75_i11 = "-"
+item75_i12 = "-"
+item75_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028031277296799804/unknown.png"
+
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -1115,48 +1291,71 @@ a = {
         item42_name : { "b": item42_name, "c": item42_i1, "d": item42_i2, "e": item42_i3, "f": item42_i4, "g": item42_i5, "h": item42_i6, "i": item42_i7, "j": s, "k": g, "l": item42_i8, "m": m, "n": item42_i9, "o": s, "p": ga, "q": item42_i10, "r": item42_i11, "s": item42_i12, "t": item42_i13},
         item42_s_name : { "b": item42_name, "c": item42_i1, "d": item42_i2, "e": item42_i3, "f": item42_i4, "g": item42_i5, "h": item42_i6, "i": item42_i7, "j": s, "k": g, "l": item42_i8, "m": m, "n": item42_i9, "o": s, "p": ga, "q": item42_i10, "r": item42_i11, "s": item42_i12, "t": item42_i13},
         item43_name : { "b": item43_name, "c": item43_i1, "d": item43_i2, "e": item43_i3, "f": item43_i4, "g": item43_i5, "h": item43_i6, "i": item43_i7, "j": s, "k": g, "l": item43_i8, "m": m, "n": item43_i9, "o": s, "p": ga, "q": item43_i10, "r": item43_i11, "s": item43_i12, "t": item43_i13},
-        item43_s_name : { "b": item43_s_name, "c": item43_i1, "d": item43_i2, "e": item43_i3, "f": item43_i4, "g": item43_i5, "h": item43_i6, "i": item43_i7, "j": s, "k": g, "l": item43_i8, "m": m, "n": item43_i9, "o": s, "p": ga, "q": item43_i10, "r": item43_i11, "s": item43_i12, "t": item43_i13},
+        item43_s_name : { "b": item43_name, "c": item43_i1, "d": item43_i2, "e": item43_i3, "f": item43_i4, "g": item43_i5, "h": item43_i6, "i": item43_i7, "j": s, "k": g, "l": item43_i8, "m": m, "n": item43_i9, "o": s, "p": ga, "q": item43_i10, "r": item43_i11, "s": item43_i12, "t": item43_i13},
         item44_name : { "b": item44_name, "c": item44_i1, "d": item44_i2, "e": item44_i3, "f": item44_i4, "g": item44_i5, "h": item44_i6, "i": item44_i7, "j": s, "k": g, "l": item44_i8, "m": m, "n": item44_i9, "o": s, "p": ga, "q": item44_i10, "r": item44_i11, "s": item44_i12, "t": item44_i13},
-        item44_s_name : { "b": item44_s_name, "c": item44_i1, "d": item44_i2, "e": item44_i3, "f": item44_i4, "g": item44_i5, "h": item44_i6, "i": item44_i7, "j": s, "k": g, "l": item44_i8, "m": m, "n": item44_i9, "o": s, "p": ga, "q": item44_i10, "r": item44_i11, "s": item44_i12, "t": item44_i13},
+        item44_s_name : { "b": item44_name, "c": item44_i1, "d": item44_i2, "e": item44_i3, "f": item44_i4, "g": item44_i5, "h": item44_i6, "i": item44_i7, "j": s, "k": g, "l": item44_i8, "m": m, "n": item44_i9, "o": s, "p": ga, "q": item44_i10, "r": item44_i11, "s": item44_i12, "t": item44_i13},
         item45_name : { "b": item45_name, "c": item45_i1, "d": item45_i2, "e": item45_i3, "f": item45_i4, "g": item45_i5, "h": item45_i6, "i": item45_i7, "j": s, "k": g, "l": item45_i8, "m": m, "n": item45_i9, "o": s, "p": ga, "q": item45_i10, "r": item45_i11, "s": item45_i12, "t": item45_i13},
-        item45_s_name : { "b": item45_s_name, "c": item45_i1, "d": item45_i2, "e": item45_i3, "f": item45_i4, "g": item45_i5, "h": item45_i6, "i": item45_i7, "j": s, "k": g, "l": item45_i8, "m": m, "n": item45_i9, "o": s, "p": ga, "q": item45_i10, "r": item45_i11, "s": item45_i12, "t": item45_i13},
+        item45_s_name : { "b": item45_name, "c": item45_i1, "d": item45_i2, "e": item45_i3, "f": item45_i4, "g": item45_i5, "h": item45_i6, "i": item45_i7, "j": s, "k": g, "l": item45_i8, "m": m, "n": item45_i9, "o": s, "p": ga, "q": item45_i10, "r": item45_i11, "s": item45_i12, "t": item45_i13},
         item46_name : { "b": item46_name, "c": item46_i1, "d": item46_i2, "e": item46_i3, "f": item46_i4, "g": item46_i5, "h": item46_i6, "i": item46_i7, "j": s, "k": g, "l": item46_i8, "m": m, "n": item46_i9, "o": s, "p": ga, "q": item46_i10, "r": item46_i11, "s": item46_i12, "t": item46_i13},
-        item46_s_name : { "b": item46_s_name, "c": item46_i1, "d": item46_i2, "e": item46_i3, "f": item46_i4, "g": item46_i5, "h": item46_i6, "i": item46_i7, "j": s, "k": g, "l": item46_i8, "m": m, "n": item46_i9, "o": s, "p": ga, "q": item46_i10, "r": item46_i11, "s": item46_i12, "t": item46_i13},
+        item46_s_name : { "b": item46_name, "c": item46_i1, "d": item46_i2, "e": item46_i3, "f": item46_i4, "g": item46_i5, "h": item46_i6, "i": item46_i7, "j": s, "k": g, "l": item46_i8, "m": m, "n": item46_i9, "o": s, "p": ga, "q": item46_i10, "r": item46_i11, "s": item46_i12, "t": item46_i13},
         item47_name : { "b": item47_name, "c": item47_i1, "d": item47_i2, "e": item47_i3, "f": item47_i4, "g": item47_i5, "h": item47_i6, "i": item47_i7, "j": s, "k": g, "l": item47_i8, "m": m, "n": item47_i9, "o": s, "p": ga, "q": item47_i10, "r": item47_i11, "s": item47_i12, "t": item47_i13},
-        item47_s_name : { "b": item47_s_name, "c": item47_i1, "d": item47_i2, "e": item47_i3, "f": item47_i4, "g": item47_i5, "h": item47_i6, "i": item47_i7, "j": s, "k": g, "l": item47_i8, "m": m, "n": item47_i9, "o": s, "p": ga, "q": item47_i10, "r": item47_i11, "s": item47_i12, "t": item47_i13},
+        item47_s_name : { "b": item47_name, "c": item47_i1, "d": item47_i2, "e": item47_i3, "f": item47_i4, "g": item47_i5, "h": item47_i6, "i": item47_i7, "j": s, "k": g, "l": item47_i8, "m": m, "n": item47_i9, "o": s, "p": ga, "q": item47_i10, "r": item47_i11, "s": item47_i12, "t": item47_i13},
         item48_name : { "b": item48_name, "c": item48_i1, "d": item48_i2, "e": item48_i3, "f": item48_i4, "g": item48_i5, "h": item48_i6, "i": item48_i7, "j": s, "k": g, "l": item48_i8, "m": m, "n": item48_i9, "o": s, "p": ga, "q": item48_i10, "r": item48_i11, "s": item48_i12, "t": item48_i13},
-        item48_s_name : { "b": item48_s_name, "c": item48_i1, "d": item48_i2, "e": item48_i3, "f": item48_i4, "g": item48_i5, "h": item48_i6, "i": item48_i7, "j": s, "k": g, "l": item48_i8, "m": m, "n": item48_i9, "o": s, "p": ga, "q": item48_i10, "r": item48_i11, "s": item48_i12, "t": item48_i13},
+        item48_s_name : { "b": item48_name, "c": item48_i1, "d": item48_i2, "e": item48_i3, "f": item48_i4, "g": item48_i5, "h": item48_i6, "i": item48_i7, "j": s, "k": g, "l": item48_i8, "m": m, "n": item48_i9, "o": s, "p": ga, "q": item48_i10, "r": item48_i11, "s": item48_i12, "t": item48_i13},
         item49_name : { "b": item49_name, "c": item49_i1, "d": item49_i2, "e": item49_i3, "f": item49_i4, "g": item49_i5, "h": item49_i6, "i": item49_i7, "j": s, "k": g, "l": item49_i8, "m": m, "n": item49_i9, "o": s, "p": ga, "q": item49_i10, "r": item49_i11, "s": item49_i12, "t": item49_i13},
-        item49_s_name : { "b": item49_s_name, "c": item49_i1, "d": item49_i2, "e": item49_i3, "f": item49_i4, "g": item49_i5, "h": item49_i6, "i": item49_i7, "j": s, "k": g, "l": item49_i8, "m": m, "n": item49_i9, "o": s, "p": ga, "q": item49_i10, "r": item49_i11, "s": item49_i12, "t": item49_i13},
+        item49_s_name : { "b": item49_name, "c": item49_i1, "d": item49_i2, "e": item49_i3, "f": item49_i4, "g": item49_i5, "h": item49_i6, "i": item49_i7, "j": s, "k": g, "l": item49_i8, "m": m, "n": item49_i9, "o": s, "p": ga, "q": item49_i10, "r": item49_i11, "s": item49_i12, "t": item49_i13},
         item50_name : { "b": item50_name, "c": item50_i1, "d": item50_i2, "e": item50_i3, "f": item50_i4, "g": item50_i5, "h": item50_i6, "i": item50_i7, "j": s, "k": g, "l": item50_i8, "m": m, "n": item50_i9, "o": s, "p": ga, "q": item50_i10, "r": item50_i11, "s": item50_i12, "t": item50_i13},
-        item50_s_name : { "b": item50_s_name, "c": item50_i1, "d": item50_i2, "e": item50_i3, "f": item50_i4, "g": item50_i5, "h": item50_i6, "i": item50_i7, "j": s, "k": g, "l": item50_i8, "m": m, "n": item50_i9, "o": s, "p": ga, "q": item50_i10, "r": item50_i11, "s": item50_i12, "t": item50_i13},
+        item50_s_name : { "b": item50_name, "c": item50_i1, "d": item50_i2, "e": item50_i3, "f": item50_i4, "g": item50_i5, "h": item50_i6, "i": item50_i7, "j": s, "k": g, "l": item50_i8, "m": m, "n": item50_i9, "o": s, "p": ga, "q": item50_i10, "r": item50_i11, "s": item50_i12, "t": item50_i13},
         item51_name : { "b": item51_name, "c": item51_i1, "d": item51_i2, "e": item51_i3, "f": item51_i4, "g": item51_i5, "h": item51_i6, "i": item51_i7, "j": s, "k": g, "l": item51_i8, "m": m, "n": item51_i9, "o": s, "p": ga, "q": item51_i10, "r": item51_i11, "s": item51_i12, "t": item51_i13},
-        item51_s_name : { "b": item51_s_name, "c": item51_i1, "d": item51_i2, "e": item51_i3, "f": item51_i4, "g": item51_i5, "h": item51_i6, "i": item51_i7, "j": s, "k": g, "l": item51_i8, "m": m, "n": item51_i9, "o": s, "p": ga, "q": item51_i10, "r": item51_i11, "s": item51_i12, "t": item51_i13},
+        item51_s_name : { "b": item51_name, "c": item51_i1, "d": item51_i2, "e": item51_i3, "f": item51_i4, "g": item51_i5, "h": item51_i6, "i": item51_i7, "j": s, "k": g, "l": item51_i8, "m": m, "n": item51_i9, "o": s, "p": ga, "q": item51_i10, "r": item51_i11, "s": item51_i12, "t": item51_i13},
         item52_name : { "b": item52_name, "c": item52_i1, "d": item52_i2, "e": item52_i3, "f": item52_i4, "g": item52_i5, "h": item52_i6, "i": item52_i7, "j": s, "k": g, "l": item52_i8, "m": m, "n": item52_i9, "o": s, "p": ga, "q": item52_i10, "r": item52_i11, "s": item52_i12, "t": item52_i13},
-        item52_s_name : { "b": item52_s_name, "c": item52_i1, "d": item52_i2, "e": item52_i3, "f": item52_i4, "g": item52_i5, "h": item52_i6, "i": item52_i7, "j": s, "k": g, "l": item52_i8, "m": m, "n": item52_i9, "o": s, "p": ga, "q": item52_i10, "r": item52_i11, "s": item52_i12, "t": item52_i13},
+        item52_s_name : { "b": item52_name, "c": item52_i1, "d": item52_i2, "e": item52_i3, "f": item52_i4, "g": item52_i5, "h": item52_i6, "i": item52_i7, "j": s, "k": g, "l": item52_i8, "m": m, "n": item52_i9, "o": s, "p": ga, "q": item52_i10, "r": item52_i11, "s": item52_i12, "t": item52_i13},
         item53_name : { "b": item53_name, "c": item53_i1, "d": item53_i2, "e": item53_i3, "f": item53_i4, "g": item53_i5, "h": item53_i6, "i": item53_i7, "j": s, "k": g, "l": item53_i8, "m": m, "n": item53_i9, "o": s, "p": ga, "q": item53_i10, "r": item53_i11, "s": item53_i12, "t": item53_i13},
-        item53_s_name : { "b": item53_s_name, "c": item53_i1, "d": item53_i2, "e": item53_i3, "f": item53_i4, "g": item53_i5, "h": item53_i6, "i": item53_i7, "j": s, "k": g, "l": item53_i8, "m": m, "n": item53_i9, "o": s, "p": ga, "q": item53_i10, "r": item53_i11, "s": item53_i12, "t": item53_i13},
+        item53_s_name : { "b": item53_name, "c": item53_i1, "d": item53_i2, "e": item53_i3, "f": item53_i4, "g": item53_i5, "h": item53_i6, "i": item53_i7, "j": s, "k": g, "l": item53_i8, "m": m, "n": item53_i9, "o": s, "p": ga, "q": item53_i10, "r": item53_i11, "s": item53_i12, "t": item53_i13},
         item54_name : { "b": item54_name, "c": item54_i1, "d": item54_i2, "e": item54_i3, "f": item54_i4, "g": item54_i5, "h": item54_i6, "i": item54_i7, "j": s, "k": g, "l": item54_i8, "m": m, "n": item54_i9, "o": s, "p": ga, "q": item54_i10, "r": item54_i11, "s": item54_i12, "t": item54_i13},
-        item54_s_name : { "b": item54_s_name, "c": item54_i1, "d": item54_i2, "e": item54_i3, "f": item54_i4, "g": item54_i5, "h": item54_i6, "i": item54_i7, "j": s, "k": g, "l": item54_i8, "m": m, "n": item54_i9, "o": s, "p": ga, "q": item54_i10, "r": item54_i11, "s": item54_i12, "t": item54_i13},
+        item54_s_name : { "b": item54_name, "c": item54_i1, "d": item54_i2, "e": item54_i3, "f": item54_i4, "g": item54_i5, "h": item54_i6, "i": item54_i7, "j": s, "k": g, "l": item54_i8, "m": m, "n": item54_i9, "o": s, "p": ga, "q": item54_i10, "r": item54_i11, "s": item54_i12, "t": item54_i13},
         item55_name : { "b": item55_name, "c": item55_i1, "d": item55_i2, "e": item55_i3, "f": item55_i4, "g": item55_i5, "h": item55_i6, "i": item55_i7, "j": s, "k": g, "l": item55_i8, "m": m, "n": item55_i9, "o": s, "p": ga, "q": item55_i10, "r": item55_i11, "s": item55_i12, "t": item55_i13},
-        item55_s_name : { "b": item55_s_name, "c": item55_i1, "d": item55_i2, "e": item55_i3, "f": item55_i4, "g": item55_i5, "h": item55_i6, "i": item55_i7, "j": s, "k": g, "l": item55_i8, "m": m, "n": item55_i9, "o": s, "p": ga, "q": item55_i10, "r": item55_i11, "s": item55_i12, "t": item55_i13},
+        item55_s_name : { "b": item55_name, "c": item55_i1, "d": item55_i2, "e": item55_i3, "f": item55_i4, "g": item55_i5, "h": item55_i6, "i": item55_i7, "j": s, "k": g, "l": item55_i8, "m": m, "n": item55_i9, "o": s, "p": ga, "q": item55_i10, "r": item55_i11, "s": item55_i12, "t": item55_i13},
         item56_name : { "b": item56_name, "c": item56_i1, "d": item56_i2, "e": item56_i3, "f": item56_i4, "g": item56_i5, "h": item56_i6, "i": item56_i7, "j": s, "k": g, "l": item56_i8, "m": m, "n": item56_i9, "o": s, "p": ga, "q": item56_i10, "r": item56_i11, "s": item56_i12, "t": item56_i13},
-        item56_s_name : { "b": item56_s_name, "c": item56_i1, "d": item56_i2, "e": item56_i3, "f": item56_i4, "g": item56_i5, "h": item56_i6, "i": item56_i7, "j": s, "k": g, "l": item56_i8, "m": m, "n": item56_i9, "o": s, "p": ga, "q": item56_i10, "r": item56_i11, "s": item56_i12, "t": item56_i13},
+        item56_s_name : { "b": item56_name, "c": item56_i1, "d": item56_i2, "e": item56_i3, "f": item56_i4, "g": item56_i5, "h": item56_i6, "i": item56_i7, "j": s, "k": g, "l": item56_i8, "m": m, "n": item56_i9, "o": s, "p": ga, "q": item56_i10, "r": item56_i11, "s": item56_i12, "t": item56_i13},
         item57_name : { "b": item57_name, "c": item57_i1, "d": item57_i2, "e": item57_i3, "f": item57_i4, "g": item57_i5, "h": item57_i6, "i": item57_i7, "j": s, "k": g, "l": item57_i8, "m": m, "n": item57_i9, "o": s, "p": ga, "q": item57_i10, "r": item57_i11, "s": item57_i12, "t": item57_i13},
-        item57_s_name : { "b": item57_s_name, "c": item57_i1, "d": item57_i2, "e": item57_i3, "f": item57_i4, "g": item57_i5, "h": item57_i6, "i": item57_i7, "j": s, "k": g, "l": item57_i8, "m": m, "n": item57_i9, "o": s, "p": ga, "q": item57_i10, "r": item57_i11, "s": item57_i12, "t": item57_i13},
+        item57_s_name : { "b": item57_name, "c": item57_i1, "d": item57_i2, "e": item57_i3, "f": item57_i4, "g": item57_i5, "h": item57_i6, "i": item57_i7, "j": s, "k": g, "l": item57_i8, "m": m, "n": item57_i9, "o": s, "p": ga, "q": item57_i10, "r": item57_i11, "s": item57_i12, "t": item57_i13},
         item58_name : { "b": item58_name, "c": item58_i1, "d": item58_i2, "e": item58_i3, "f": item58_i4, "g": item58_i5, "h": item58_i6, "i": item58_i7, "j": s, "k": g, "l": item58_i8, "m": m, "n": item58_i9, "o": s, "p": ga, "q": item58_i10, "r": item58_i11, "s": item58_i12, "t": item58_i13},
-        item58_s_name : { "b": item58_s_name, "c": item58_i1, "d": item58_i2, "e": item58_i3, "f": item58_i4, "g": item58_i5, "h": item58_i6, "i": item58_i7, "j": s, "k": g, "l": item58_i8, "m": m, "n": item58_i9, "o": s, "p": ga, "q": item58_i10, "r": item58_i11, "s": item58_i12, "t": item58_i13},
+        item58_s_name : { "b": item58_name, "c": item58_i1, "d": item58_i2, "e": item58_i3, "f": item58_i4, "g": item58_i5, "h": item58_i6, "i": item58_i7, "j": s, "k": g, "l": item58_i8, "m": m, "n": item58_i9, "o": s, "p": ga, "q": item58_i10, "r": item58_i11, "s": item58_i12, "t": item58_i13},
         item59_name : { "b": item59_name, "c": item59_i1, "d": item59_i2, "e": item59_i3, "f": item59_i4, "g": item59_i5, "h": item59_i6, "i": item59_i7, "j": s, "k": g, "l": item59_i8, "m": m, "n": item59_i9, "o": s, "p": ga, "q": item59_i10, "r": item59_i11, "s": item59_i12, "t": item59_i13},
-        item59_s_name : { "b": item59_s_name, "c": item59_i1, "d": item59_i2, "e": item59_i3, "f": item59_i4, "g": item59_i5, "h": item59_i6, "i": item59_i7, "j": s, "k": g, "l": item59_i8, "m": m, "n": item59_i9, "o": s, "p": ga, "q": item59_i10, "r": item59_i11, "s": item59_i12, "t": item59_i13},
+        item59_s_name : { "b": item59_name, "c": item59_i1, "d": item59_i2, "e": item59_i3, "f": item59_i4, "g": item59_i5, "h": item59_i6, "i": item59_i7, "j": s, "k": g, "l": item59_i8, "m": m, "n": item59_i9, "o": s, "p": ga, "q": item59_i10, "r": item59_i11, "s": item59_i12, "t": item59_i13},
         item60_name : { "b": item60_name, "c": item60_i1, "d": item60_i2, "e": item60_i3, "f": item60_i4, "g": item60_i5, "h": item60_i6, "i": item60_i7, "j": s, "k": g, "l": item60_i8, "m": m, "n": item60_i9, "o": s, "p": ga, "q": item60_i10, "r": item60_i11, "s": item60_i12, "t": item60_i13},
-        item60_s_name : { "b": item60_s_name, "c": item60_i1, "d": item60_i2, "e": item60_i3, "f": item60_i4, "g": item60_i5, "h": item60_i6, "i": item60_i7, "j": s, "k": g, "l": item60_i8, "m": m, "n": item60_i9, "o": s, "p": ga, "q": item60_i10, "r": item60_i11, "s": item60_i12, "t": item60_i13},
+        item60_s_name : { "b": item60_name, "c": item60_i1, "d": item60_i2, "e": item60_i3, "f": item60_i4, "g": item60_i5, "h": item60_i6, "i": item60_i7, "j": s, "k": g, "l": item60_i8, "m": m, "n": item60_i9, "o": s, "p": ga, "q": item60_i10, "r": item60_i11, "s": item60_i12, "t": item60_i13},
         item61_name : { "b": item61_name, "c": item61_i1, "d": item61_i2, "e": item61_i3, "f": item61_i4, "g": item61_i5, "h": item61_i6, "i": item61_i7, "j": s, "k": g, "l": item61_i8, "m": m, "n": item61_i9, "o": s, "p": ga, "q": item61_i10, "r": item61_i11, "s": item61_i12, "t": item61_i13},
-        item61_s_name : { "b": item61_s_name, "c": item61_i1, "d": item61_i2, "e": item61_i3, "f": item61_i4, "g": item61_i5, "h": item61_i6, "i": item61_i7, "j": s, "k": g, "l": item61_i8, "m": m, "n": item61_i9, "o": s, "p": ga, "q": item61_i10, "r": item61_i11, "s": item61_i12, "t": item61_i13},
+        item61_s_name : { "b": item61_name, "c": item61_i1, "d": item61_i2, "e": item61_i3, "f": item61_i4, "g": item61_i5, "h": item61_i6, "i": item61_i7, "j": s, "k": g, "l": item61_i8, "m": m, "n": item61_i9, "o": s, "p": ga, "q": item61_i10, "r": item61_i11, "s": item61_i12, "t": item61_i13},
         item62_name : { "b": item62_name, "c": item62_i1, "d": item62_i2, "e": item62_i3, "f": item62_i4, "g": item62_i5, "h": item62_i6, "i": item62_i7, "j": s, "k": g, "l": item62_i8, "m": m, "n": item62_i9, "o": s, "p": ga, "q": item62_i10, "r": item62_i11, "s": item62_i12, "t": item62_i13},
-        item62_s_name : { "b": item62_s_name, "c": item62_i1, "d": item62_i2, "e": item62_i3, "f": item62_i4, "g": item62_i5, "h": item62_i6, "i": item62_i7, "j": s, "k": g, "l": item62_i8, "m": m, "n": item62_i9, "o": s, "p": ga, "q": item62_i10, "r": item62_i11, "s": item62_i12, "t": item62_i13},
+        item62_s_name : { "b": item62_name, "c": item62_i1, "d": item62_i2, "e": item62_i3, "f": item62_i4, "g": item62_i5, "h": item62_i6, "i": item62_i7, "j": s, "k": g, "l": item62_i8, "m": m, "n": item62_i9, "o": s, "p": ga, "q": item62_i10, "r": item62_i11, "s": item62_i12, "t": item62_i13},
         item63_name : { "b": item63_name, "c": item63_i1, "d": item63_i2, "e": item63_i3, "f": item63_i4, "g": item63_i5, "h": item63_i6, "i": item63_i7, "j": s, "k": g, "l": item63_i8, "m": m, "n": item63_i9, "o": s, "p": ga, "q": item63_i10, "r": item63_i11, "s": item63_i12, "t": item63_i13},
-        item63_s_name : { "b": item63_s_name, "c": item63_i1, "d": item63_i2, "e": item63_i3, "f": item63_i4, "g": item63_i5, "h": item63_i6, "i": item63_i7, "j": s, "k": g, "l": item63_i8, "m": m, "n": item63_i9, "o": s, "p": ga, "q": item63_i10, "r": item63_i11, "s": item63_i12, "t": item63_i13},
+        item63_s_name : { "b": item63_name, "c": item63_i1, "d": item63_i2, "e": item63_i3, "f": item63_i4, "g": item63_i5, "h": item63_i6, "i": item63_i7, "j": s, "k": g, "l": item63_i8, "m": m, "n": item63_i9, "o": s, "p": ga, "q": item63_i10, "r": item63_i11, "s": item63_i12, "t": item63_i13},
         item64_name : { "b": item64_name, "c": item64_i1, "d": item64_i2, "e": item64_i3, "f": item64_i4, "g": item64_i5, "h": item64_i6, "i": item64_i7, "j": s, "k": g, "l": item64_i8, "m": m, "n": item64_i9, "o": s, "p": ga, "q": item64_i10, "r": item64_i11, "s": item64_i12, "t": item64_i13},
-        item64_s_name : { "b": item64_s_name, "c": item64_i1, "d": item64_i2, "e": item64_i3, "f": item64_i4, "g": item64_i5, "h": item64_i6, "i": item64_i7, "j": s, "k": g, "l": item64_i8, "m": m, "n": item64_i9, "o": s, "p": ga, "q": item64_i10, "r": item64_i11, "s": item64_i12, "t": item64_i13}
+        item64_s_name : { "b": item64_name, "c": item64_i1, "d": item64_i2, "e": item64_i3, "f": item64_i4, "g": item64_i5, "h": item64_i6, "i": item64_i7, "j": s, "k": g, "l": item64_i8, "m": m, "n": item64_i9, "o": s, "p": ga, "q": item64_i10, "r": item64_i11, "s": item64_i12, "t": item64_i13},
+        item65_name : { "b": item65_name, "c": item65_i1, "d": item65_i2, "e": item65_i3, "f": item65_i4, "g": item65_i5, "h": item65_i6, "i": item65_i7, "j": s, "k": g, "l": item65_i8, "m": m, "n": item65_i9, "o": s, "p": ga, "q": item65_i10, "r": item65_i11, "s": item65_i12, "t": item65_i13},
+        item65_s_name : { "b": item65_name, "c": item65_i1, "d": item65_i2, "e": item65_i3, "f": item65_i4, "g": item65_i5, "h": item65_i6, "i": item65_i7, "j": s, "k": g, "l": item65_i8, "m": m, "n": item65_i9, "o": s, "p": ga, "q": item65_i10, "r": item65_i11, "s": item65_i12, "t": item65_i13},
+        item66_name : { "b": item66_name, "c": item66_i1, "d": item66_i2, "e": item66_i3, "f": item66_i4, "g": item66_i5, "h": item66_i6, "i": item66_i7, "j": s, "k": g, "l": item66_i8, "m": m, "n": item66_i9, "o": s, "p": ga, "q": item66_i10, "r": item66_i11, "s": item66_i12, "t": item66_i13},
+        item66_s_name : { "b": item66_name, "c": item66_i1, "d": item66_i2, "e": item66_i3, "f": item66_i4, "g": item66_i5, "h": item66_i6, "i": item66_i7, "j": s, "k": g, "l": item66_i8, "m": m, "n": item66_i9, "o": s, "p": ga, "q": item66_i10, "r": item66_i11, "s": item66_i12, "t": item66_i13},
+        item67_name : { "b": item67_name, "c": item67_i1, "d": item67_i2, "e": item67_i3, "f": item67_i4, "g": item67_i5, "h": item67_i6, "i": item67_i7, "j": s, "k": g, "l": item67_i8, "m": m, "n": item67_i9, "o": s, "p": ga, "q": item67_i10, "r": item67_i11, "s": item67_i12, "t": item67_i13},
+        item67_s_name : { "b": item67_name, "c": item67_i1, "d": item67_i2, "e": item67_i3, "f": item67_i4, "g": item67_i5, "h": item67_i6, "i": item67_i7, "j": s, "k": g, "l": item67_i8, "m": m, "n": item67_i9, "o": s, "p": ga, "q": item67_i10, "r": item67_i11, "s": item67_i12, "t": item67_i13},
+        item68_name : { "b": item68_name, "c": item68_i1, "d": item68_i2, "e": item68_i3, "f": item68_i4, "g": item68_i5, "h": item68_i6, "i": item68_i7, "j": s, "k": g, "l": item68_i8, "m": m, "n": item68_i9, "o": s, "p": ga, "q": item68_i10, "r": item68_i11, "s": item68_i12, "t": item68_i13},
+        item68_s_name : { "b": item68_name, "c": item68_i1, "d": item68_i2, "e": item68_i3, "f": item68_i4, "g": item68_i5, "h": item68_i6, "i": item68_i7, "j": s, "k": g, "l": item68_i8, "m": m, "n": item68_i9, "o": s, "p": ga, "q": item68_i10, "r": item68_i11, "s": item68_i12, "t": item68_i13},
+        item69_name : { "b": item69_name, "c": item69_i1, "d": item69_i2, "e": item69_i3, "f": item69_i4, "g": item69_i5, "h": item69_i6, "i": item69_i7, "j": s, "k": g, "l": item69_i8, "m": m, "n": item69_i9, "o": s, "p": ga, "q": item69_i10, "r": item69_i11, "s": item69_i12, "t": item69_i13},
+        item69_s_name : { "b": item69_name, "c": item69_i1, "d": item69_i2, "e": item69_i3, "f": item69_i4, "g": item69_i5, "h": item69_i6, "i": item69_i7, "j": s, "k": g, "l": item69_i8, "m": m, "n": item69_i9, "o": s, "p": ga, "q": item69_i10, "r": item69_i11, "s": item69_i12, "t": item69_i13},
+        item70_name : { "b": item70_name, "c": item70_i1, "d": item70_i2, "e": item70_i3, "f": item70_i4, "g": item70_i5, "h": item70_i6, "i": item70_i7, "j": s, "k": g, "l": item70_i8, "m": m, "n": item70_i9, "o": s, "p": ga, "q": item70_i10, "r": item70_i11, "s": item70_i12, "t": item70_i13},
+        item70_s_name : { "b": item70_name, "c": item70_i1, "d": item70_i2, "e": item70_i3, "f": item70_i4, "g": item70_i5, "h": item70_i6, "i": item70_i7, "j": s, "k": g, "l": item70_i8, "m": m, "n": item70_i9, "o": s, "p": ga, "q": item70_i10, "r": item70_i11, "s": item70_i12, "t": item70_i13},
+        item71_name : { "b": item71_name, "c": item71_i1, "d": item71_i2, "e": item71_i3, "f": item71_i4, "g": item71_i5, "h": item71_i6, "i": item71_i7, "j": s, "k": g, "l": item71_i8, "m": m, "n": item71_i9, "o": s, "p": ga, "q": item71_i10, "r": item71_i11, "s": item71_i12, "t": item71_i13},
+        item71_s_name : { "b": item71_name, "c": item71_i1, "d": item71_i2, "e": item71_i3, "f": item71_i4, "g": item71_i5, "h": item71_i6, "i": item71_i7, "j": s, "k": g, "l": item71_i8, "m": m, "n": item71_i9, "o": s, "p": ga, "q": item71_i10, "r": item71_i11, "s": item71_i12, "t": item71_i13},
+        item72_name : { "b": item72_name, "c": item72_i1, "d": item72_i2, "e": item72_i3, "f": item72_i4, "g": item72_i5, "h": item72_i6, "i": item72_i7, "j": s, "k": g, "l": item72_i8, "m": m, "n": item72_i9, "o": s, "p": ga, "q": item72_i10, "r": item72_i11, "s": item72_i12, "t": item72_i13},
+        item72_s_name : { "b": item72_name, "c": item72_i1, "d": item72_i2, "e": item72_i3, "f": item72_i4, "g": item72_i5, "h": item72_i6, "i": item72_i7, "j": s, "k": g, "l": item72_i8, "m": m, "n": item72_i9, "o": s, "p": ga, "q": item72_i10, "r": item72_i11, "s": item72_i12, "t": item72_i13},
+        item73_name : { "b": item73_name, "c": item73_i1, "d": item73_i2, "e": item73_i3, "f": item73_i4, "g": item73_i5, "h": item73_i6, "i": item73_i7, "j": s, "k": g, "l": item73_i8, "m": m, "n": item73_i9, "o": s, "p": ga, "q": item73_i10, "r": item73_i11, "s": item73_i12, "t": item73_i13},
+        item73_s_name : { "b": item73_name, "c": item73_i1, "d": item73_i2, "e": item73_i3, "f": item73_i4, "g": item73_i5, "h": item73_i6, "i": item73_i7, "j": s, "k": g, "l": item73_i8, "m": m, "n": item73_i9, "o": s, "p": ga, "q": item73_i10, "r": item73_i11, "s": item73_i12, "t": item73_i13},
+        item74_name : { "b": item74_name, "c": item74_i1, "d": item74_i2, "e": item74_i3, "f": item74_i4, "g": item74_i5, "h": item74_i6, "i": item74_i7, "j": s, "k": g, "l": item74_i8, "m": m, "n": item74_i9, "o": s, "p": ga, "q": item74_i10, "r": item74_i11, "s": item74_i12, "t": item74_i13},
+        item74_s_name : { "b": item74_name, "c": item74_i1, "d": item74_i2, "e": item74_i3, "f": item74_i4, "g": item74_i5, "h": item74_i6, "i": item74_i7, "j": s, "k": g, "l": item74_i8, "m": m, "n": item74_i9, "o": s, "p": ga, "q": item74_i10, "r": item74_i11, "s": item74_i12, "t": item74_i13},
+        item75_name : { "b": item75_name, "c": item75_i1, "d": item75_i2, "e": item75_i3, "f": item75_i4, "g": item75_i5, "h": item75_i6, "i": item75_i7, "j": s, "k": g, "l": item75_i8, "m": m, "n": item75_i9, "o": s, "p": ga, "q": item75_i10, "r": item75_i11, "s": item75_i12, "t": item75_i13},
+        item75_s_name : { "b": item75_name, "c": item75_i1, "d": item75_i2, "e": item75_i3, "f": item75_i4, "g": item75_i5, "h": item75_i6, "i": item75_i7, "j": s, "k": g, "l": item75_i8, "m": m, "n": item75_i9, "o": s, "p": ga, "q": item75_i10, "r": item75_i11, "s": item75_i12, "t": item75_i13},
+
 
 }    
