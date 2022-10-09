@@ -1476,6 +1476,22 @@ item92_i11 = "날카로운 마무리(퍼거스)"
 item92_i12 = "보석 개조(아란웬) > 재스퍼 4cm, 아쿠아마린 2cm, 가넷 1cm"
 item92_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028419349796618291/unknown.png"
 
+item93_name = "타우네스 MK3"
+item93_s_name = "타우네스"
+item93_i1 = "에너지 증폭 장치가 추가된 후기형 듀얼 건. 연사 속도는 느리지만 높은 대미지를 자랑한다. 타우네스에게 헌정하기 위해 제작되었지만, 공학을 혐오하는 타우네스는 거들떠보지도 않았다는 슬픈 전설이 서려 있다."
+item93_i2 = "공격력 6~60"
+item93_i3 = "부상률 5~80%"
+item93_i4 = "크리티컬 12%"
+item93_i5 = "밸런스 13%"
+item93_i6 = "내구력 32/32"
+item93_i7 = "추가옵션 없음"
+item93_i8 = "힐웬 공학"
+item93_i9 = "힐웬 합금 15개, 육각 볼트 8개, 육각 너트 8개, 에너지 컨버터 2개, 에메랄드 퓨즈 1개, 에너지 증폭 장치 1개"
+item93_i10 = "약실 확장 - 강선 추가 1 - 강선 추가 2 - 강선 추가 3"
+item93_i11 = "장인개조 (헥터 / 맥뎀 18~38 / 행운 10~70)"
+item93_i12 = "보석개조 (헥터) > 다이아몬드 3cm, 스피넬 3cm, 재스퍼 3cm"
+item93_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028656554888663060/unknown.png"
+
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -1661,7 +1677,10 @@ a = {
         item91_name : { "b": item91_name, "c": item91_i1, "d": item91_i2, "e": item91_i3, "f": item91_i4, "g": item91_i5, "h": item91_i6, "i": item91_i7, "j": s, "k": g, "l": item91_i8, "m": m, "n": item91_i9, "o": s, "p": ga, "q": item91_i10, "r": item91_i11, "s": item91_i12, "t": item91_i13},
         item91_s_name : { "b": item91_name, "c": item91_i1, "d": item91_i2, "e": item91_i3, "f": item91_i4, "g": item91_i5, "h": item91_i6, "i": item91_i7, "j": s, "k": g, "l": item91_i8, "m": m, "n": item91_i9, "o": s, "p": ga, "q": item91_i10, "r": item91_i11, "s": item91_i12, "t": item91_i13},
         item92_name : { "b": item92_name, "c": item92_i1, "d": item92_i2, "e": item92_i3, "f": item92_i4, "g": item92_i5, "h": item92_i6, "i": item92_i7, "j": s, "k": g, "l": item92_i8, "m": m, "n": item92_i9, "o": s, "p": ga, "q": item92_i10, "r": item92_i11, "s": item92_i12, "t": item92_i13},
-        item92_s_name : { "b": item92_name, "c": item92_i1, "d": item92_i2, "e": item92_i3, "f": item92_i4, "g": item92_i5, "h": item92_i6, "i": item92_i7, "j": s, "k": g, "l": item92_i8, "m": m, "n": item92_i9, "o": s, "p": ga, "q": item92_i10, "r": item92_i11, "s": item92_i12, "t": item92_i13}
+        item92_s_name : { "b": item92_name, "c": item92_i1, "d": item92_i2, "e": item92_i3, "f": item92_i4, "g": item92_i5, "h": item92_i6, "i": item92_i7, "j": s, "k": g, "l": item92_i8, "m": m, "n": item92_i9, "o": s, "p": ga, "q": item92_i10, "r": item92_i11, "s": item92_i12, "t": item92_i13},
+        item93_name : { "b": item93_name, "c": item93_i1, "d": item93_i2, "e": item93_i3, "f": item93_i4, "g": item93_i5, "h": item93_i6, "i": item93_i7, "j": s, "k": g, "l": item93_i8, "m": m, "n": item93_i9, "o": s, "p": ga, "q": item93_i10, "r": item93_i11, "s": item93_i12, "t": item93_i13},
+        item93_s_name : { "b": item93_name, "c": item93_i1, "d": item93_i2, "e": item93_i3, "f": item93_i4, "g": item93_i5, "h": item93_i6, "i": item93_i7, "j": s, "k": g, "l": item93_i8, "m": m, "n": item93_i9, "o": s, "p": ga, "q": item93_i10, "r": item93_i11, "s": item93_i12, "t": item93_i13}
+
 
 
 }    
