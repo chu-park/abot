@@ -1445,7 +1445,7 @@ item90_i12 = "보석개조 >다이아몬드 5cm, 스피넬 5cm, 재스퍼 5cm"
 item90_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028378041228988426/unknown.png"
 
 item91_name = "나이트브링어 워로드"
-item91_s_name = "나브워로드"
+item91_s_name = "워로드"
 item91_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 양손검. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 몸을 감싼다."
 item91_i2 = "공격 63~106"
 item91_i3 = "부상률 35~60%"
@@ -1492,6 +1492,149 @@ item93_i11 = "장인개조 (헥터 / 맥뎀 18~38 / 행운 10~70)"
 item93_i12 = "보석개조 (헥터) > 다이아몬드 3cm, 스피넬 3cm, 재스퍼 3cm"
 item93_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028656554888663060/unknown.png"
 
+item94_name = "매시브 디스페어 해머"
+item94_s_name = "매디햄"
+item94_i1 = "육중한 광물 덜어리에 찬란하게 빛나는 가시가 위협적으로 돋아나 있어 보는 이의 시선을 사로잡는 양손 둔기. 힐웬과 실리엔의 기술과 마력을 결합하여 만들어낸 것이 특징이다. 어지간한 체격이 아니라면 이 거대하고 무거운 무기를 휘두르기는 커녕 들어 올릴 수조차 없을 것만 같다. 긍지 높은 설원의 전사라는 이름에 걸맞은 자격을 가진 자가 이 무기를 사용하면 특별한 능력을 발휘할 수 있다고 한다. "
+item94_i2 = "공격 33~94"
+item94_i3 = "부상률 2~4%"
+item94_i4 = "크리티컬 33%"
+item94_i5 = "밸런스 48%"
+item94_i6 = "내구력 30/30"
+item94_i7 = "추가옵션: 스탬피드 강화 10 증가 "
+item94_i8 = "힐웬공학 (랭크 7)"
+item94_i9 = "융합된 힐웬 합금 2개, 냉혹함의 징표 1개, 극광의 결정 25개, 티어드롭 젬스톤 10개, 검은빛 사슬 1개, 가시나무 광석 20개"
+item94_i10 = "크루크, 타우네스: 매시브 디스페어 전용 개조-담금질2-담금질3-담금질4"
+item94_i11 = "담금질5"
+item94_i12 = "보석개조 > 스피넬 1cm, 루비 2cm,  스타사파이어 4cm"
+item94_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028811572883226654/unknown.png"
+
+item95_name = "데모닉 스케일아이 랜스"
+item95_s_name = "데랜"
+item95_i1 = "암흑의 힘을 정제하여 만든 랜스. 뱀플레이트는 붉은 비늘로 처리되어 있다. 랜스는 멀리 있는 적을 공격할 수 있지만 가까이 있는 적은 공격할 수 없다는 약점이 있다."
+item95_i2 = "공격 54~69"
+item95_i3 = "부상률 0~0%"
+item95_i4 = "크리티컬 11%"
+item95_i5 = "밸런스 33%"
+item95_i6 = "내구력 21/21"
+item95_i7 = "추가옵션: 피어싱 레벨 3, 마스터 렌서 이상/ 도면 또는 완제품 로드 미션 또는 드라마 이리아 1의 5화, 10화 보상상자 "
+item95_i8 = "악마의 괴 8개, 악마의 비늘 3개(최소 10공정)"
+item95_i9 = "악마의 눈 1개, 악마의 칼날 2개 "
+item95_i10 = "퍼거스, 네리스, 아이데른, 타우네스: 스케일아이 랜스 봉인해제-담금질2-담금질3-담금질3"
+item95_i11 = "장인 개조 (체력 0~35 , 의지, 행운 등)"
+item95_i12 = "스케일아리 랜스 보석 수리1 > 다이아몬드 5cm, 스피넬 5cm, 재스퍼 5cm"
+item95_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028816225465290774/unknown.png"
+
+item96_name = "디바인 스몰 랜스"
+item96_s_name = "디랜"
+item96_i1 = "신성한 고대 랜스를 복원한 스콜 랜스. 다른 랜스에 비해 작지만 날카로운 외형의 무기로 깊고 치명적인 상처를 내는 것이 다능하다. 랜스는 멀리 있는 적을 공격할 수 있지만 가까이 있는 적은 공격할 수 없다는 약점이 있다."
+item96_i2 = "공격 55~76"
+item96_i3 = "부상률 10~20%"
+item96_i4 = "크리티컬 20%"
+item96_i5 = "밸런스 22%"
+item96_i6 = "내구력 38/38"
+item96_i7 = "추가옵션: 피어싱 레벨 3, 랜스 차지 강화 10 증가 "
+item96_i8 = "힐웬공학 (랭크 9)"
+item96_i9 = "강화된 힐웬 합금 2개, 빛나는 금속 파편 10개, 의지의 메달 5개, 부서진 수호자의 랜스 1개 "
+item96_i10 = "네리스, 아이데른, 타우네스: 담금질1-담금질2-담금질3-디바인 스몰 랜스 전용 개조 "
+item96_i11 = "장인개조 (최대생명력, 최대스태미나, 행운 0~20, 체력 0~70)"
+item96_i12 = "보석개조 > 다이아몬드 5cm, 스피넬 5cm, 재스퍼 5cm "
+item96_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028819933796249682/unknown.png"
+
+item97_name = "나이트브링어 스피어헤드"
+item97_s_name = "스피어헤드"
+item97_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 랜스. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 몸을 감싼다."
+item97_i2 = "공격 60~87"
+item97_i3 = "부상률 10~20%"
+item97_i4 = "크리티컬 20%"
+item97_i5 = "밸런스 22%"
+item97_i6 = "내구력 38/38"
+item97_i7 = "추가옵션: 피어싱 레벨 4, 랜스 차지 마상 돌진 강화 10 증가(펫 탑승시 랜스 차지 최종 대미지 15% 증가) / 개조옵션: 피어싱 레벨 8, 체력 70 증가"
+item97_i8 = "힐웬공학(랭크 1)"
+item97_i9 = "어둠의 에르그 잔재 1개, 아다만티움 25개, 글라스 기브넨의 심장 25개, 손상된 글라스 기브넨의 깃털 25개, 응축된 힘의 조각 : 랜스 100개, 환상의 괴 20개, 튼튼한 고리 20개, 가시나무 광석 5개"
+item97_i10 = "아이데른(반호르): 담금질1-담금질2-담금징3-나이트브링어 스피어헤드 전용 개조"
+item97_i11 = "장인개조: 체력 15~67,행운 1~20, 최대 생명력 4~19, 최대스태미나 2~9 (추정)"
+item97_i12 = "보석개조 > 블러드스톤 5cm, 헬리오도르 5cm, 제이드 5cm "
+item97_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028823200873844766/unknown.png"
+
+item98_name = "나이트브링어 트릭스터"
+item98_s_name = "트릭스터"
+item98_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 핸들. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 모을 감싼다."
+item98_i2 = "공격 40~57"
+item98_i3 = "부상률 10~35%"
+item98_i4 = "크리티컬 41%"
+item98_i5 = "밸런스 40%"
+item98_i6 = "내구력 34/34"
+item98_i7 = "추가옵션: 2막: 솟구치는 분노 강화 10 증가, 인형술 스킬 쿨타임 감소 5 증가, 마리오네트 크리티컬 대미지 5 증가, 마리오네트 경직 저항 확률 5 증가 / 개조옵션: 마리오네트 조종술 범위 150 증가, 마리오네트 사망시 60% 확률로 부활, 마리오네트 최대 생명력 2500 증가, 마리오네트 조종술 크리티컬 확률 20증가, 마리오네트 조종술 최대 대미지 80 증가, 마리오네트 보호 25증가, 마리오네트 마법 보호 25 증가"
+item98_i8 = "힐웬공학 (랭크 1)"
+item98_i9 = "어둠의 에르그 잔재 1개, 아다만티움 20개, 글라스 기브넨의 심장 20개, 손상된 글라스 기브넨의 깃털 20개, 응축된 힘의 조각 : 핸들 100개, 환상의 괴 20개, 튼튼한 고리 20개, 악몽 파수꾼의 유물 15개 "
+item98_i10 = "휴(이멘마하): 나이트브링어 트릭스터 핸들 길들이기-자루 조절 1-자루 조절2-자루 조절3"
+item98_i11 = "나이트브링어 트릭스터 핸들 맞춤 개조 "
+item98_i12 = "보석 수리 > 스피넬 1cm, 에메랄드 1cm, 아쿠아마린 2cm "
+item98_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028827433618636800/unknown.png"
+
+item99_name = "나이트브링어 베가본드"
+item99_s_name = "베가본드"
+item99_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 너클. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 몸을 감싼다. "
+item99_i2 = "공격 82~134 "
+item99_i3 = "부상률 10~25%"
+item99_i4 = "크리티컬 65%"
+item99_i5 = "밸런스 65%"
+item99_i6 = "내구력 38/38"
+item99_i7 = "추가옵션: 드롭킥 강화 10 증가 /개조옵션: 연속기 대미지 35% 증가, 연속기 30% 증가, 크리티컬 발동시 연속기 쿨타임 초기화 확률 50% 증가 "
+item99_i8 = "힐웬 공학 (랭크 1)"
+item99_i9 = "어둠의 에르그 잔재 1개, 아다만티움 25개, 글라스 기브넨의 심장 25개, 손상된 글라스 기브넨의 깃털 25개, 응축된 힘의 조각: 너클 100개, 환상의 괴 20개, 튼튼한 고리 20개, 벼린 무기 조각 30개 "
+item99_i10 = "아이데른(반호르) : 나이트브링어 베가본드 봉인 해제-징 연마-체인 여마-경량화"
+item99_i11 = "나이트브링어 베가본드 너클 전용 개조 "
+item99_i12 = "보석 수리 > 다이아몬드 1cm, 아쿠아마린 1cm,  가넷 1cm "
+item99_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028830709231665202/unknown.png"
+
+item100_name = "나이트브링어 프레데터"
+item100_s_name = "프레데터"
+item100_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 활. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 몸을 감싼다."
+item100_i2 = "공격 22~48"
+item100_i3 = "부상률 20~60%"
+item100_i4 = "크리티컬 34%"
+item100_i5 = "밸런스 45%"
+item100_i6 = "내구력 25/25"
+item100_i7 = "추가옵션: 사거리 20m, 피어싱 2레벨, 크래시 샷 강화 10 증가, 파이널 샷 강화 10 증가/ 개조옵션: 피어싱 레벨 3"
+item100_i8 = "매직크래프트 (랭크 1)"
+item100_i9 = "어둠의 에르그 잔재 1개, 아다만티움 20개, 글라스 기브넨의 심장 20개, 손상된 글라스 기브넨의 깃털 20개, 응축된 힘의 조각: 활 100개, 환상의 괴 20개, 튼튼한 고리 20개, 특급 나무장작 50개"
+item100_i10 = "아이데른, 네리스: 나이트브링어 프레데터 봉인해제-조준기 교체-활줄 강화3-활줄강화4"
+item100_i11 = "활줄 강화 5 "
+item100_i12 = "보석 개조 > 제이드 5cm, 아메트린 5cm, 파파라차 5cm"
+item100_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028833001867583640/unknown.png"
+
+item101_name = "나이트브링어 로그"
+item101_s_name = "로그"
+item101_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 석궁. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 몸을 감싼다. "
+item101_i2 = "공격 34~60 "
+item101_i3 = "부상률 0~100% "
+item101_i4 = "크리티컬 43% "
+item101_i5 = "밸런스 28%"
+item101_i6 = "내구력 30/30"
+item101_i7 = "추가옵션: 크래시 샷 강화 10 증가, 파이널 샷 강화 10 증가 / 개조옵션: 피어싱 레벨 5, 사거리 1900"
+item101_i8 = "매직 크래프트 (랭크 1)"
+item101_i9 = "어둠의 에르그 잔재 1개, 아다만티움 20개, 글라스 기브넨의 심장 20개, 손상된 글라스 기브넨의 깃털 20개 , 응축된 힘의 조각: 석궁 100개, 환상의 괴 20개, 튼튼한 고리 20개, 악마의 나무판 30개 "
+item101_i10 = "니커식 석궁 강화(니커)- 활줄 강화2(니커)-활줄 강화3(니커)-나이트브링어 로그 전용 개조(퍼거스)"
+item101_i11 = "나이트브링어 로그 전용 마무리(퍼거스) "
+item101_i12 = "보석개조(아이데른) > 재스퍼 4cm, 아쿠아마린 2cm, 가넷 1cm"
+item101_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028842465274363994/unknown.png"
+
+item102_name = "나이트브링어 뱅퀴셔"
+item102_s_name = "뱅퀴셔"
+item102_i1 = "결정화된 에르그와 아다만티움을 재료로 사용해 만든 듀얼건. 미세하지만 불길한 진동이 깊은 밤 지독한 한기처럼 몸을 감싼다. 강한 충격을 주어 3번의 공격으로 적을 밀쳐낼 수 있다. "
+item102_i2 = "공격 15~47"
+item102_i3 = "부상률 25~60%"
+item102_i4 = "크리티컬 50%"
+item102_i5 = "밸런스 30%"
+item102_i6 = "내구력 30/30"
+item102_i7 = "추가옵션: 탄환 80, 사거리 8m, 프렌지 강화 10 증가, 슈팅 러쉬 강화 10 증가 / 개조 옵션: 탄환 90, 최대 대미지 12증가"
+item102_i8 = "힐웬 공학 (랭크 1)"
+item102_i9 = "어둠의 에르그 잔재 1개, 아다만티움 25개, 글라스 기브넨의 심장 25개, 손상된 글라스 기브넨의 깃털 25개, 응축된 힘의 조각: 듀얼건 100개, 환상의 괴 20개, 튼튼한 고리 20개, 마력의 정수 30개 "
+item102_i10 = "헥터: 나이트브링어 뱅퀴셔 전용개조-강선 추가1-강선 추가2-총신 확장"
+item102_i11 = "총신 확장"
+item102_i12 = "보석 개조 >다이아몬드 3cm, 스피넬 3cm, 재스퍼 3cm "
+item102_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1028847196977774592/unknown.png"
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -1679,8 +1822,24 @@ a = {
         item92_name : { "b": item92_name, "c": item92_i1, "d": item92_i2, "e": item92_i3, "f": item92_i4, "g": item92_i5, "h": item92_i6, "i": item92_i7, "j": s, "k": g, "l": item92_i8, "m": m, "n": item92_i9, "o": s, "p": ga, "q": item92_i10, "r": item92_i11, "s": item92_i12, "t": item92_i13},
         item92_s_name : { "b": item92_name, "c": item92_i1, "d": item92_i2, "e": item92_i3, "f": item92_i4, "g": item92_i5, "h": item92_i6, "i": item92_i7, "j": s, "k": g, "l": item92_i8, "m": m, "n": item92_i9, "o": s, "p": ga, "q": item92_i10, "r": item92_i11, "s": item92_i12, "t": item92_i13},
         item93_name : { "b": item93_name, "c": item93_i1, "d": item93_i2, "e": item93_i3, "f": item93_i4, "g": item93_i5, "h": item93_i6, "i": item93_i7, "j": s, "k": g, "l": item93_i8, "m": m, "n": item93_i9, "o": s, "p": ga, "q": item93_i10, "r": item93_i11, "s": item93_i12, "t": item93_i13},
-        item93_s_name : { "b": item93_name, "c": item93_i1, "d": item93_i2, "e": item93_i3, "f": item93_i4, "g": item93_i5, "h": item93_i6, "i": item93_i7, "j": s, "k": g, "l": item93_i8, "m": m, "n": item93_i9, "o": s, "p": ga, "q": item93_i10, "r": item93_i11, "s": item93_i12, "t": item93_i13}
-
-
+        item93_s_name : { "b": item93_name, "c": item93_i1, "d": item93_i2, "e": item93_i3, "f": item93_i4, "g": item93_i5, "h": item93_i6, "i": item93_i7, "j": s, "k": g, "l": item93_i8, "m": m, "n": item93_i9, "o": s, "p": ga, "q": item93_i10, "r": item93_i11, "s": item93_i12, "t": item93_i13},
+        item94_name : { "b": item94_name, "c": item94_i1, "d": item94_i2, "e": item94_i3, "f": item94_i4, "g": item94_i5, "h": item94_i6, "i": item94_i7, "j": s, "k": g, "l": item94_i8, "m": m, "n": item94_i9, "o": s, "p": ga, "q": item94_i10, "r": item94_i11, "s": item94_i12, "t": item94_i13},
+        item94_s_name : { "b": item94_name, "c": item94_i1, "d": item94_i2, "e": item94_i3, "f": item94_i4, "g": item94_i5, "h": item94_i6, "i": item94_i7, "j": s, "k": g, "l": item94_i8, "m": m, "n": item94_i9, "o": s, "p": ga, "q": item94_i10, "r": item94_i11, "s": item94_i12, "t": item94_i13},
+        item95_name : { "b": item95_name, "c": item95_i1, "d": item95_i2, "e": item95_i3, "f": item95_i4, "g": item95_i5, "h": item95_i6, "i": item95_i7, "j": s, "k": g, "l": item95_i8, "m": m, "n": item95_i9, "o": s, "p": ga, "q": item95_i10, "r": item95_i11, "s": item95_i12, "t": item95_i13},
+        item95_s_name : { "b": item95_name, "c": item95_i1, "d": item95_i2, "e": item95_i3, "f": item95_i4, "g": item95_i5, "h": item95_i6, "i": item95_i7, "j": s, "k": g, "l": item95_i8, "m": m, "n": item95_i9, "o": s, "p": ga, "q": item95_i10, "r": item95_i11, "s": item95_i12, "t": item95_i13},
+        item96_name : { "b": item96_name, "c": item96_i1, "d": item96_i2, "e": item96_i3, "f": item96_i4, "g": item96_i5, "h": item96_i6, "i": item96_i7, "j": s, "k": g, "l": item96_i8, "m": m, "n": item96_i9, "o": s, "p": ga, "q": item96_i10, "r": item96_i11, "s": item96_i12, "t": item96_i13},
+        item96_s_name : { "b": item96_name, "c": item96_i1, "d": item96_i2, "e": item96_i3, "f": item96_i4, "g": item96_i5, "h": item96_i6, "i": item96_i7, "j": s, "k": g, "l": item96_i8, "m": m, "n": item96_i9, "o": s, "p": ga, "q": item96_i10, "r": item96_i11, "s": item96_i12, "t": item96_i13},
+        item97_name : { "b": item97_name, "c": item97_i1, "d": item97_i2, "e": item97_i3, "f": item97_i4, "g": item97_i5, "h": item97_i6, "i": item97_i7, "j": s, "k": g, "l": item97_i8, "m": m, "n": item97_i9, "o": s, "p": ga, "q": item97_i10, "r": item97_i11, "s": item97_i12, "t": item97_i13},
+        item97_s_name : { "b": item97_name, "c": item97_i1, "d": item97_i2, "e": item97_i3, "f": item97_i4, "g": item97_i5, "h": item97_i6, "i": item97_i7, "j": s, "k": g, "l": item97_i8, "m": m, "n": item97_i9, "o": s, "p": ga, "q": item97_i10, "r": item97_i11, "s": item97_i12, "t": item97_i13},
+        item98_name : { "b": item98_name, "c": item98_i1, "d": item98_i2, "e": item98_i3, "f": item98_i4, "g": item98_i5, "h": item98_i6, "i": item98_i7, "j": s, "k": g, "l": item98_i8, "m": m, "n": item98_i9, "o": s, "p": ga, "q": item98_i10, "r": item98_i11, "s": item98_i12, "t": item98_i13},
+        item98_s_name : { "b": item98_name, "c": item98_i1, "d": item98_i2, "e": item98_i3, "f": item98_i4, "g": item98_i5, "h": item98_i6, "i": item98_i7, "j": s, "k": g, "l": item98_i8, "m": m, "n": item98_i9, "o": s, "p": ga, "q": item98_i10, "r": item98_i11, "s": item98_i12, "t": item98_i13},
+        item99_name : { "b": item99_name, "c": item99_i1, "d": item99_i2, "e": item99_i3, "f": item99_i4, "g": item99_i5, "h": item99_i6, "i": item99_i7, "j": s, "k": g, "l": item99_i8, "m": m, "n": item99_i9, "o": s, "p": ga, "q": item99_i10, "r": item99_i11, "s": item99_i12, "t": item99_i13},
+        item99_s_name : { "b": item99_name, "c": item99_i1, "d": item99_i2, "e": item99_i3, "f": item99_i4, "g": item99_i5, "h": item99_i6, "i": item99_i7, "j": s, "k": g, "l": item99_i8, "m": m, "n": item99_i9, "o": s, "p": ga, "q": item99_i10, "r": item99_i11, "s": item99_i12, "t": item99_i13},
+        item100_name : { "b": item100_name, "c": item100_i1, "d": item100_i2, "e": item100_i3, "f": item100_i4, "g": item100_i5, "h": item100_i6, "i": item100_i7, "j": s, "k": g, "l": item100_i8, "m": m, "n": item100_i9, "o": s, "p": ga, "q": item100_i10, "r": item100_i11, "s": item100_i12, "t": item100_i13},
+        item100_s_name : { "b": item100_name, "c": item100_i1, "d": item100_i2, "e": item100_i3, "f": item100_i4, "g": item100_i5, "h": item100_i6, "i": item100_i7, "j": s, "k": g, "l": item100_i8, "m": m, "n": item100_i9, "o": s, "p": ga, "q": item100_i10, "r": item100_i11, "s": item100_i12, "t": item100_i13},
+        item101_name : { "b": item101_name, "c": item101_i1, "d": item101_i2, "e": item101_i3, "f": item101_i4, "g": item101_i5, "h": item101_i6, "i": item101_i7, "j": s, "k": g, "l": item101_i8, "m": m, "n": item101_i9, "o": s, "p": ga, "q": item101_i10, "r": item101_i11, "s": item101_i12, "t": item101_i13},
+        item101_s_name : { "b": item101_name, "c": item101_i1, "d": item101_i2, "e": item101_i3, "f": item101_i4, "g": item101_i5, "h": item101_i6, "i": item101_i7, "j": s, "k": g, "l": item101_i8, "m": m, "n": item101_i9, "o": s, "p": ga, "q": item101_i10, "r": item101_i11, "s": item101_i12, "t": item101_i13},
+        item102_name : { "b": item102_name, "c": item102_i1, "d": item102_i2, "e": item102_i3, "f": item102_i4, "g": item102_i5, "h": item102_i6, "i": item102_i7, "j": s, "k": g, "l": item102_i8, "m": m, "n": item102_i9, "o": s, "p": ga, "q": item102_i10, "r": item102_i11, "s": item102_i12, "t": item102_i13},
+        item102_s_name : { "b": item102_name, "c": item102_i1, "d": item102_i2, "e": item102_i3, "f": item102_i4, "g": item102_i5, "h": item102_i6, "i": item102_i7, "j": s, "k": g, "l": item102_i8, "m": m, "n": item102_i9, "o": s, "p": ga, "q": item102_i10, "r": item102_i11, "s": item102_i12, "t": item102_i13}
 
 }    
