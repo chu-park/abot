@@ -2293,7 +2293,7 @@ item143_i12 = "-"
 item143_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1030163161938137158/unknown.png"
 
 item144_name = "숏 자벨린"
-item144_s_name = "-"
+item144_s_name = "숏자벨린"
 item144_i1 = "상대를 향해 던져서 공격할 수 있는 창. "
 item144_i2 = "공격 0~10"
 item144_i3 = "부상률 0~5%"
@@ -2309,7 +2309,7 @@ item144_i12 = "-"
 item144_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1030163781541711882/unknown.png"
 
 item145_name = "롱 자벨린"
-item145_s_name = "-"
+item145_s_name = "롱자벨린"
 item145_i1 = "상대를 향해 던져서 공격할 수 있는 창. 숏 자벨린에 비해 조금 길며 좀 더 강한 충격을 줄 수 있다."
 item145_i2 = "공격 0~25"
 item145_i3 = "부상률 0~10%"
@@ -2627,5 +2627,11 @@ a = {
         item142_name : { "b": item142_name, "c": item142_i1, "d": item142_i2, "e": item142_i3, "f": item142_i4, "g": item142_i5, "h": item142_i6, "i": item142_i7, "j": s, "k": g, "l": item142_i8, "m": m, "n": item142_i9, "o": s, "p": ga, "q": item142_i10, "r": item142_i11, "s": item142_i12, "t": item142_i13},
         item142_s_name : { "b": item142_name, "c": item142_i1, "d": item142_i2, "e": item142_i3, "f": item142_i4, "g": item142_i5, "h": item142_i6, "i": item142_i7, "j": s, "k": g, "l": item142_i8, "m": m, "n": item142_i9, "o": s, "p": ga, "q": item142_i10, "r": item142_i11, "s": item142_i12, "t": item142_i13},
         item143_name : { "b": item143_name, "c": item143_i1, "d": item143_i2, "e": item143_i3, "f": item143_i4, "g": item143_i5, "h": item143_i6, "i": item143_i7, "j": s, "k": g, "l": item143_i8, "m": m, "n": item143_i9, "o": s, "p": ga, "q": item143_i10, "r": item143_i11, "s": item143_i12, "t": item143_i13},
-        item143_s_name : { "b": item143_name, "c": item143_i1, "d": item143_i2, "e": item143_i3, "f": item143_i4, "g": item143_i5, "h": item143_i6, "i": item143_i7, "j": s, "k": g, "l": item143_i8, "m": m, "n": item143_i9, "o": s, "p": ga, "q": item143_i10, "r": item143_i11, "s": item143_i12, "t": item143_i13}
+        item143_s_name : { "b": item143_name, "c": item143_i1, "d": item143_i2, "e": item143_i3, "f": item143_i4, "g": item143_i5, "h": item143_i6, "i": item143_i7, "j": s, "k": g, "l": item143_i8, "m": m, "n": item143_i9, "o": s, "p": ga, "q": item143_i10, "r": item143_i11, "s": item143_i12, "t": item143_i13},
+        item144_name : { "b": item144_name, "c": item144_i1, "d": item144_i2, "e": item144_i3, "f": item144_i4, "g": item144_i5, "h": item144_i6, "i": item144_i7, "j": s, "k": g, "l": item144_i8, "m": m, "n": item144_i9, "o": s, "p": ga, "q": item144_i10, "r": item144_i11, "s": item144_i12, "t": item144_i13},
+        item144_s_name : { "b": item144_name, "c": item144_i1, "d": item144_i2, "e": item144_i3, "f": item144_i4, "g": item144_i5, "h": item144_i6, "i": item144_i7, "j": s, "k": g, "l": item144_i8, "m": m, "n": item144_i9, "o": s, "p": ga, "q": item144_i10, "r": item144_i11, "s": item144_i12, "t": item144_i13},
+        item145_name : { "b": item145_name, "c": item145_i1, "d": item145_i2, "e": item145_i3, "f": item145_i4, "g": item145_i5, "h": item145_i6, "i": item145_i7, "j": s, "k": g, "l": item145_i8, "m": m, "n": item145_i9, "o": s, "p": ga, "q": item145_i10, "r": item145_i11, "s": item145_i12, "t": item145_i13},
+        item145_s_name : { "b": item145_name, "c": item145_i1, "d": item145_i2, "e": item145_i3, "f": item145_i4, "g": item145_i5, "h": item145_i6, "i": item145_i7, "j": s, "k": g, "l": item145_i8, "m": m, "n": item145_i9, "o": s, "p": ga, "q": item145_i10, "r": item145_i11, "s": item145_i12, "t": item145_i13},
+        item146_name : { "b": item146_name, "c": item146_i1, "d": item146_i2, "e": item146_i3, "f": item146_i4, "g": item146_i5, "h": item146_i6, "i": item146_i7, "j": s, "k": g, "l": item146_i8, "m": m, "n": item146_i9, "o": s, "p": ga, "q": item146_i10, "r": item146_i11, "s": item146_i12, "t": item146_i13},
+        item146_s_name : { "b": item146_name, "c": item146_i1, "d": item146_i2, "e": item146_i3, "f": item146_i4, "g": item146_i5, "h": item146_i6, "i": item146_i7, "j": s, "k": g, "l": item146_i8, "m": m, "n": item146_i9, "o": s, "p": ga, "q": item146_i10, "r": item146_i11, "s": item146_i12, "t": item146_i13}
 }
