@@ -9,7 +9,7 @@ j_item2_name = "변형된 고리형 구조체"
 j_item2_s_name = "변고구"
 j_item2_i1 = "마법적인 의식과 관계가 있는 것으로 보이는 고리형 구조체. 변형되었지만 강력한 힘을 담을 수 있을 것 같다. 제작 재료로 사용하거나 분해 시 유용한 아이템을 얻을 수 있다."
 j_item2_i2 = "각종 던전"
-j_item2_i3 = "⭐⭐"
+j_item2_i3 = "⭐⭐⭐"
 j_item2_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1031907198508470292/unknown.png"
 
 a1 = {
