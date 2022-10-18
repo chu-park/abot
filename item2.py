@@ -10,6 +10,6 @@ in_item1_i7 = ""
 in_item1_i8 = ""
 
 a2 = {
-        in_item1_name : { "b1": in_item1_name, "c1": in_item1_i1, "d1": in_item1_i2, "e1": in_item1_i3, "f1": in_item1_i4, "g1": in_item1_i5, "h1": in_item1_i6, "i1": in_item1_i7, "j1": in_item1_i8},
-        in_item1_s_name : { "b1": in_item1_name, "c1": in_item1_i1, "d1": in_item1_i2, "e1": in_item1_i3, "f1": in_item1_i4, "g1": in_item1_i5, "h1": in_item1_i6, "i1": in_item1_i7, "j1": in_item1_i8}
+        in_item1_name : { "b2": in_item1_name, "c2": in_item1_i1, "d2": in_item1_i2, "e2": in_item1_i3, "f2": in_item1_i4, "g2": in_item1_i5, "h2": in_item1_i6, "i2": in_item1_i7, "j2": in_item1_i8},
+        in_item1_s_name : { "b2": in_item1_name, "c2": in_item1_i1, "d2": in_item1_i2, "e2": in_item1_i3, "f2": in_item1_i4, "g2": in_item1_i5, "h2": in_item1_i6, "i2": in_item1_i7, "j2": in_item1_i8}
 }
