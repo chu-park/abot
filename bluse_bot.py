@@ -6,6 +6,7 @@ import sys
 sys.path.append(r'C:\Users\sa485\OneDrive\Desktop\test\abot\item')
 from item import a
 from item1 import a1
+from item2 import a2
 from item import j
 
 client = commands.Bot(command_prefix='/', intents=discord.Intents.all())
@@ -66,6 +67,28 @@ async def 재료(ctx, *, txt1):
         embed.add_field(name="드랍 장소(구매 장소)", value=ww3, inline=False)
         embed.add_field(name="중요도", value=ww4, inline=False)
         embed.set_image(url=ww5)
+        await ctx.send(embed=embed)
+    except:
+        await ctx.channel.send('등록되지 않은 재료 입니다.')
+
+@client.command()
+async def 인챈(ctx, *, txt2):    
+    try:
+        w2_1 = a2[txt2]["b2"]
+        w2_2 = a2[txt2]["c2"]
+        w2_3 = a2[txt2]["d2"]
+        w2_4 = a2[txt2]["e2"]
+        w2_5 = a2[txt2]["f2"]
+        w2_6 = a2[txt2]["g2"]
+        w2_7 = a2[txt2]["h2"]
+        w2_8 = a2[txt2]["i2"]
+        w2_9 = a2[txt2]["j2"]
+
+        embed=discord.Embed(title=w2_1, description=w2_2, color=discord.Color.random())
+        embed.add_field(name="입수 정보", value=w2_3, inline=False)
+        embed.add_field(name="부위", value=w2_4, inline=False)
+        embed.add_field(name="중요도", value=w2_5, inline=False)
+        embed.set_footer(text=w2_6 + j + w2_7 + j + w2_8 + j + w2_9)
         await ctx.send(embed=embed)
     except:
         await ctx.channel.send('등록되지 않은 재료 입니다.')
