@@ -94,7 +94,7 @@ async def 인챈(ctx, *, txt2):
         embed.add_field(name="입수 정보", value=w2_3, inline=False)
         embed.add_field(name="부위", value=w2_4, inline=False)
         embed.add_field(name="중요도", value=w2_5, inline=False)
-        embed.add_field(name="----------------------------------", value="효과", inline=False)
+        embed.add_field(name="효과", value=w2_6 + j + w2_7 + j + w2_8 + j + w2_9 + j + w2_10 + j + w2_11 + j + w2_12 + j + w2_13 + j + w2_14 + j + w2_15, inline=False)
         embed.set_footer(text=w2_6 + j + w2_7 + j + w2_8 + j + w2_9 + j + w2_10 + j + w2_11 + j + w2_12 + j + w2_13 + j + w2_14 + j + w2_15)
         await ctx.send(embed=embed)
     except:
