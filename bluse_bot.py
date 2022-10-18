@@ -83,12 +83,18 @@ async def 인챈(ctx, *, txt2):
         w2_7 = a2[txt2]["h2"]
         w2_8 = a2[txt2]["i2"]
         w2_9 = a2[txt2]["j2"]
+        w2_10 = a2[txt2]["k2"]
+        w2_11 = a2[txt2]["l2"]
+        w2_12 = a2[txt2]["m2"]
+        w2_13 = a2[txt2]["n2"]
+        w2_14 = a2[txt2]["o2"]
+        w2_15 = a2[txt2]["p2"]
 
         embed=discord.Embed(title=w2_1, description=w2_2, color=discord.Color.random())
         embed.add_field(name="입수 정보", value=w2_3, inline=False)
         embed.add_field(name="부위", value=w2_4, inline=False)
         embed.add_field(name="중요도", value=w2_5, inline=False)
-        embed.set_footer(text=w2_6 + j + w2_7 + j + w2_8 + j + w2_9)
+        embed.set_footer(text=w2_6 + j + w2_7 + j + w2_8 + j + w2_9 + j + w2_10 + j + w2_11 + j + w2_12 + j + w2_13 + j + w2_14 + j + w2_15)
         await ctx.send(embed=embed)
     except:
         await ctx.channel.send('등록되지 않은 재료 입니다.')
