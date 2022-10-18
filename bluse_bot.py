@@ -61,13 +61,11 @@ async def 재료(ctx, *, txt1):
         ww3 = a1[txt1]["d1"]
         ww4 = a1[txt1]["e1"]
         ww5 = a1[txt1]["f1"]
-        ww6 = a1[txt1]["g1"]
-        ww7 = a1[txt1]["h1"]
 
         embed=discord.Embed(title=ww1, description=ww2, color=discord.Color.random())
-        embed.add_field(name=ww3, value=ww4, inline=False)
-        embed.add_field(name=ww5, value=ww6, inline=False)
-        embed.set_image(url=ww7)
+        embed.add_field(name="드랍 장소(구매 장소)", value=ww3, inline=False)
+        embed.add_field(name="중요도", value=ww4, inline=False)
+        embed.set_image(url=ww5)
         await ctx.send(embed=embed)
     except:
         await ctx.channel.send('등록되지 않은 재료 입니다.')
