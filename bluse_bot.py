@@ -5,6 +5,7 @@ import time
 import sys
 sys.path.append(r'C:\Users\sa485\OneDrive\Desktop\test\abot\item')
 from item import a
+from item1 import a1
 from item import j
 
 client = commands.Bot(command_prefix='/', intents=discord.Intents.all())
@@ -51,5 +52,24 @@ async def 정보(ctx, *, txt):
         await ctx.send(embed=embed)
     except:
         await ctx.channel.send('등록되지 않은 무기 입니다.')
+
+@client.command()
+async def 재료(ctx, *, txt1):    
+    try:
+        ww1 = a1[txt1]["b1"]
+        ww2 = a1[txt1]["c1"]
+        ww3 = a1[txt1]["d1"]
+        ww4 = a1[txt1]["e1"]
+        ww5 = a1[txt1]["f1"]
+        ww6 = a1[txt1]["g1"]
+        ww7 = a1[txt1]["h1"]
+
+        embed=discord.Embed(title=ww1, description=ww2, color=discord.Color.random())
+        embed.add_field(name=ww3, value=ww4, inline=False)
+        embed.add_field(name=ww5, value=ww6, inline=False)
+        embed.set_image(url=ww7)
+        await ctx.send(embed=embed)
+    except:
+        await ctx.channel.send('등록되지 않은 재료 입니다.')
 
 client.run(os.environ['token'])
