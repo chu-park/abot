@@ -1,7 +1,7 @@
 j_item1_name = "붕괴된 마력의 정수"
 j_item1_s_name = "붕마정"
 j_item1_i1 = "파괴적인 마력이 담긴 오래된 정수. 불균형을 이용해 오히려 더 큰 파괴력을 발휘하게 되었다. 제작 재료로 사용하거나 분해 시 유용한 아이템을 얻을 수 있다."
-j_item1_i2 = "키아 상급 하드, 알비 상급 하드, 룬다 상급 하드"
+j_item1_i2 = "키아 상급 하드\n알비 상급 하드\n룬다 상급 하드"
 j_item1_i3 = "⭐⭐⭐⭐⭐"
 j_item1_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1031901400508141618/unknown.png"
 
@@ -15,14 +15,14 @@ j_item2_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/10319071
 j_item3_name = "마력의 정수"
 j_item3_s_name = "마정"
 j_item3_i1 = "파괴적인 마력이 담긴 오래된 정수. 제작 재료로 사용하거나 분해시 유용한 아이템을 얻을 수 있다. "
-j_item3_i2 = "룬다 상급 하드 던전, 알비 상급 하드 던전, 몽환의 라비 던전 등"
+j_item3_i2 = "룬다 상급 하드 던전\n알비 상급 하드 던전\n몽환의 라비 던전 등"
 j_item3_i3 = "⭐⭐"
 j_item3_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1032044388777463848/unknown.png"
 
 j_item4_name = "깨어난 힘의 정수"
 j_item4_s_name = "깨정"
 j_item4_i1 = "이제부터 시작될 싸움을 위해 마침내 눈을 뜬 전사의 힘을 담은 정수. 특별한 무기의 재료로 사용된다."
-j_item4_i2 = "울라 상급 던전, 알비·키아·룬다 상급 하드 던전  등 "
+j_item4_i2 = "울라 상급 던전\n알비·키아·룬다 상급 하드 던전 등 "
 j_item4_i3 = "⭐⭐"
 j_item4_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1032047531636576346/unknown.png"
 
@@ -43,7 +43,7 @@ j_item6_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/10320500
 j_item7_name = "봉인의 검은 금속"
 j_item7_s_name = "봉검금"
 j_item7_i1 = "무엇인가를 봉인하기 위해 사용된 것으로 추정되는 검은 빛의 금속성 물체. 이렇게 단단한 금속에 이 정도로 선명하게 긁힌 자국을 남길 수 있다는 것이 놀랍다. 강력한 힘을 담을 수 있는 무기의 재료로 사용할 수 있다고 한다. "
-j_item7_i2 = "그림자 미션 엘리트 보상\n알비·키아·룬다 상급 하드 던전 보상 등 "
+j_item7_i2 = "그림자 미션 엘리트 보상\n알비·키아·룬다 상급 하드 던전 보상 등"
 j_item7_i3 = "⭐"
 j_item7_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1032339569552670820/unknown.png"
 
