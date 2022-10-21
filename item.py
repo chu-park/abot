@@ -3124,6 +3124,165 @@ item196_i11 = "날 갈기5(45)"
 item196_i12 = "낫 보석 개조1(네리스, 아이데른) > 스피넬 6cm, 에메랄드 4cm, 아쿠아마린 2cm"
 item196_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032337350988152872/unknown.png"
 
+item197_name = "그레이트 말렛"
+item197_s_name = "-"
+item197_i1 = "나무망치를 거대하게 만든 듯한 둔기. 나무로 만들어 휘두를 때 힘이 적게 든다."
+item197_i2 = "공격 11~49"
+item197_i3 = "부상률 0~0%"
+item197_i4 = "크리티컬 9%"
+item197_i5 = "밸런스 59%"
+item197_i6 = "내구력 17/17"
+item197_i7 = "추가옵션 없음 "
+item197_i8 = "무기점 구매 "
+item197_i9 = "-"
+item197_i10 = "반스트식 그레이트 말렛 강화(반스트, 발레스/55)-경량화(타우네스/15)-경량화(15)-반스트식 그레이트 말렛 개조(반스트/35)"
+item197_i11 = "무게 조절5(반스트, 타우네스/30)"
+item197_i12 = "보석 수리1(네리스, 아이데른, 크루크) > 다이아몬드 1cm, 에메랄드 1cm, 아쿠아마린 1cm "
+item197_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032653811287851068/unknown.png"
+
+item198_name = "배틀 해머"
+item198_s_name = "배틀해머"
+item198_i1 = "거대한 쇠망치. 경험을 쌓은 전사라 할지라도 쉽게 휘두를 수 없을 것 같다. 하지만 휘둘렀을 때의 파괴력은 상상을 초월한다."
+item198_i2 = "공격 18~62"
+item198_i3 = "부상률 0~0%"
+item198_i4 = "크리티컬 30%"
+item198_i5 = "밸런스 25%"
+item198_i6 = "내구력 21/21"
+item198_i7 = "추가옵션 없음"
+item198_i8 = "무기점 구매, 실반 드래곤 드랍"
+item198_i9 = "-"
+item198_i10 = "타우네스식 배틀 해머 강화(타우네스/90)-경량화(18)-담금질3(35)-담금질4(50)"
+item198_i11 = "담금질5(65)"
+item198_i12 = "보석 수리1(네리스, 아이데른, 크루크) > 다이아몬드 1cm, 에메랄드 1cm, 아쿠아마린 1cm"
+item198_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032655547083784202/unknown.png"
+
+item199_name = "라운드 실드"
+item199_s_name = "라실"
+item199_i1 = "나무판으로 짜맞춘 뒤 중앙과 가장자리를 강철로 덧댄 작고 둥근 모양의 방패."
+item199_i2 = "공격 0~0"
+item199_i3 = "부상률 0~0%"
+item199_i4 = "크리티컬 0%"
+item199_i5 = "밸런스 0%"
+item199_i6 = "내구력 30/30"
+item199_i7 = "추가옵션 방어2 보호3"
+item199_i8 = "철괴 5개 (랭크 C, 공정률 30%)"
+item199_i9 = "나무장작 2개, 일반 가죽끈 1개"
+item199_i10 = "개조안됨"
+item199_i11 = "-"
+item199_i12 = "-"
+item199_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032663783203672084/unknown.png"
+
+item200_name = "헤테로 카이트 실드"
+item200_s_name = "헤실"
+item200_i1 = "잘 정련된 쇠로 만든 뼈대에 나무와 가죽을 입혀 만든 카이트 실드. 양쪽으로 씌우게 되어 있는 가죽의 색상을 다르게 하는 것이 유행하면서 현재의 모습이 되었다. 준비 자세에서도 하체가 잘 보호되며 스킬을 사용한 방어에 성공했을 때 충격 흡수율이 높다. 경갑옷에서 중갑옷까지 유용하게 사용할 수 있는 방패이다."
+item200_i2 = "공격 0~0"
+item200_i3 = "부상률 0~0%"
+item200_i4 = "크리티컬 0%"
+item200_i5 = "밸런스 0%"
+item200_i6 = "내구력 17/17"
+item200_i7 = "추가옵션 방어3"
+item200_i8 = "철괴 6개, 고급 가죽끈 3개 (랭크 8, 공정률 18%)"
+item200_i9 = "나무장작 5개, 매듭끈 1개"
+item200_i10 = "헤테로 카이트 실드 특수 개조3(아이데른/마팅/35)-헤테로 카이트 실드 특수 개조3"
+item200_i11 = "보석 특수 개조(아이데른, 네리스/근팅/65) > 루비 5cm, 스타 사파이어 3cm, 토파즈 1cm"
+item200_i12 = "헤테로 카이트 실드 보석 개조1(아이데른) > 스타 사파이어 5cm, 스피넬 3cm, 재스퍼 1cm "
+item200_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032666004674842626/unknown.png"
+
+item201_name = "라이트 헤테로 카이트 실드"
+item201_s_name = "라헤실"
+item201_i1 = "헤테로 카이트 실드의 저가형. 내구력이 보다 낮을 뿐 다른 성능은 원 헤테로 카이트 실드와 같다. "
+item201_i2 = "공격 0~0"
+item201_i3 = "부상률 0~0%"
+item201_i4 = "크리티컬 0%"
+item201_i5 = "밸런스 0%"
+item201_i6 = "내구력 11/11"
+item201_i7 = "추가옵션 방어3"
+item201_i8 = "철괴 4개, 고급 가죽끈 2개 (랭크 8, 공정률 20%)"
+item201_i9 = "나무장작 5개, 매듭끈 1개"
+item201_i10 = "라이트 헤테로 카이트 실드 특수 개조3(에일렌/마팅/55)"
+item201_i11 = "보석 보호 개조(네리스, 아이데른/50) > 스피넬 3cm, 가넷 2cm, 재스퍼 1cm"
+item201_i12 = "라이트 헤테로 실드 보석 개조1(에일렌) > 재스퍼 5cm, 루비 3cm, 스타 사파이어 1cm "
+item201_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032667234084069396/unknown.png"
+
+item202_name = "카이트 실드"
+item202_s_name = "카실"
+item202_i1 = "연모양으로 만들어진 이 방패는 눈물모양 방패라고도 한다. 준비 자세에서도 하체가 잘 보호되며 스킬을 사용한 방어에 성공했을 때 충격 흡수율이 높다. 경갑옷에서 중갑옷까지 유용하게 사용할 수 있는 방패이다. "
+item202_i2 = "공격 0~0"
+item202_i3 = "부상률 0~0%"
+item202_i4 = "크리티컬 0%"
+item202_i5 = "밸런스 0%"
+item202_i6 = "내구력 20/20"
+item202_i7 = "추가옵션 방어3"
+item202_i8 = "무기점 구매, 이리아 보물 상자, 낚시"
+item202_i9 = "-"
+item202_i10 = "네리스: 카이트 실드 특수 개조3(마팅/40)-카이트 실드 특수개조3"
+item202_i11 = "보석 특수 개조(네리스, 아이데른/65) > 루비 5cm, 스타 사파이어 3cm, 토파즈 1cm"
+item202_i12 = "카이트 실드 보석 개조1(네리스) > 아쿠아마린 5cm, 가넷 3cm, 루비 1cm"
+item202_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032674766869504060/unknown.png"
+
+item203_name = "히터 실드"
+item203_s_name = "히터실드"
+item203_i1 = "방어시에도 효과적인 역습을 노릴 수 있도록 방패의 양 옆에 홈을 팠다. 고급스러운 문양으로 디자인했지만 성능도 다른 방패에 비해 결코 떨어지지 않는다. "
+item203_i2 = "공격 0~0"
+item203_i3 = "부상률 0~0%"
+item203_i4 = "크리티컬 0%"
+item203_i5 = "밸런스 0%"
+item203_i6 = "내구력 17/17"
+item203_i7 = "추가옵션: 방어3"
+item203_i8 = "철판 3개, 미스릴 판 3개 (랭크 6, 공정률 26%)"
+item203_i9 = "고급 가죽 3개, 매듭끈 5개"
+item203_i10 = "에일렌: 히터 실드 특수 개조3(마팅/60)-히터 실드 특수 개조3"
+item203_i11 = "네리스, 아이데른: 보석 특수 개조(65) > 루비 5cm, 스타 사파이어 3cm, 토파즈 1cm"
+item203_i12 = "에일렌: 히트 실드 보석 개조1 > 재스퍼 5cm, 스타 사파이어 3cm, 에메랄드 1cm "
+item203_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032676105578102794/unknown.png"
+
+item204_name = "드래곤 실드"
+item204_s_name = "드래곤실드"
+item204_i1 = "신비한 힘이 느껴지는 드래곤의 눈이 중앙에 박힌 드래곤 실드. 특이한 외형과 달리 스킬을 사용하지 않고도 전신을 잘 보호하며 스킬을 사용한 방어에 성공했을 때 충격 흡수율이 높다. 경갑옷에서 중갑옷까지 유용하게 사용할 수 있는 방패이다."
+item204_i2 = "공격 0~0"
+item204_i3 = "부상률 0~0%"
+item204_i4 = "크리티컬 0%"
+item204_i5 = "밸런스 0%"
+item204_i6 = "내구력 16/16"
+item204_i7 = "추가옵션: 방어2, 보호2"
+item204_i8 = "철괴 3개, 미스릴 되 3개, 사막 드래곤의 비늘 1개 (랭크 5, 공정률 22%)"
+item204_i9 = "질긴 끈 3개, 사막 드래곤의 눈 1개 "
+item204_i10 = "니커(켈라): 드래곤 실드 특수 개조3(마팅/40)-드래곤 실드 특수 개조3-드래곤 실드 특수 개조3"
+item204_i11 = "네리스, 아이데른: 보석 방어 개조(80) > 아쿠아마린 5cm, 에메랄드 3cm, 재스퍼 1cm"
+item204_i12 = "드래곤 실드 보석 개조1(니커) > 에메랄드 5cm, 아쿠아마린 3cm, 가넷 1cm"
+item204_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032677557318979624/unknown.png"
+
+item205_name = "발레스 실드"
+item205_s_name = "발레스실드"
+item205_i1 = "발레스에서 강철을 제련해 세로로 긴 모양으로 만든 방패. 커다란 몸집의 자이언트를 가릴 수 있지만 두껍고 무거워 다른 종족은 사용할 수 없다. "
+item205_i2 = "공격 0~0"
+item205_i3 = "부상률 0~0%"
+item205_i4 = "크리티컬 0%"
+item205_i5 = "밸런스 0%"
+item205_i6 = "내구력 30/30"
+item205_i7 = "추가옵션: 방어2, 보호3"
+item205_i8 = "무기점 구매"
+item205_i9 = "-"
+item205_i10 = "개조안됨"
+item205_i11 = "-"
+item205_i12 = "-"
+item205_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032678281343942656/unknown.png"
+
+item206_name = "티카 실드"
+item206_s_name = "티카실드"
+item206_i1 = "나무판을 짜맞춘 다음, 가장자리와 중심을 강철로 덧대고 동물의 털로 마무리한 자이언트용 방패"
+item206_i2 = "공격 0~0"
+item206_i3 = "부상률 0~0%"
+item206_i4 = "크리티컬 0%"
+item206_i5 = "밸런스 0%"
+item206_i6 = "내구력 10/10"
+item206_i7 = "추가옵션: 방어 4, 보호1"
+item206_i8 = "무기점 구매"
+item206_i9 = "-"
+item206_i10 = "타우네스: 티카 실드 특수 개조3(53)"
+item206_i11 = "네리스, 아이데른, 타우네스: 보석 보호 개조(50) > 스피넬 3cm, 가넷 2cm, 재스퍼 1cm "
+item206_i12 = "티카 실드 보석 개조1(타우네스) > 토파즈 5cm, 루비 3cm, 스타 사파이어 1cm "
+item206_i13 = "https://cdn.discordapp.com/attachments/740130260183679008/1032679673739616437/unknown.png"
 
 a = {
         item1_name : { "b": item1_name, "c": item1_i1, "d": item1_i2, "e": item1_i3, "f": item1_i4, "g": item1_i5, "h": item1_i6, "i": item1_i7, "j": s, "k": g, "l": item1_i8, "m": m, "n": item1_i9, "o": s, "p": ga, "q": item1_i10, "r": item1_i11, "s": item1_i12, "t": item1_i13},
@@ -3515,5 +3674,25 @@ a = {
         item195_name : { "b": item195_name, "c": item195_i1, "d": item195_i2, "e": item195_i3, "f": item195_i4, "g": item195_i5, "h": item195_i6, "i": item195_i7, "j": s, "k": g, "l": item195_i8, "m": m, "n": item195_i9, "o": s, "p": ga, "q": item195_i10, "r": item195_i11, "s": item195_i12, "t": item195_i13},
         item195_s_name : { "b": item195_name, "c": item195_i1, "d": item195_i2, "e": item195_i3, "f": item195_i4, "g": item195_i5, "h": item195_i6, "i": item195_i7, "j": s, "k": g, "l": item195_i8, "m": m, "n": item195_i9, "o": s, "p": ga, "q": item195_i10, "r": item195_i11, "s": item195_i12, "t": item195_i13},
         item196_name : { "b": item196_name, "c": item196_i1, "d": item196_i2, "e": item196_i3, "f": item196_i4, "g": item196_i5, "h": item196_i6, "i": item196_i7, "j": s, "k": g, "l": item196_i8, "m": m, "n": item196_i9, "o": s, "p": ga, "q": item196_i10, "r": item196_i11, "s": item196_i12, "t": item196_i13},
-        item196_s_name : { "b": item196_name, "c": item196_i1, "d": item196_i2, "e": item196_i3, "f": item196_i4, "g": item196_i5, "h": item196_i6, "i": item196_i7, "j": s, "k": g, "l": item196_i8, "m": m, "n": item196_i9, "o": s, "p": ga, "q": item196_i10, "r": item196_i11, "s": item196_i12, "t": item196_i13}
+        item196_s_name : { "b": item196_name, "c": item196_i1, "d": item196_i2, "e": item196_i3, "f": item196_i4, "g": item196_i5, "h": item196_i6, "i": item196_i7, "j": s, "k": g, "l": item196_i8, "m": m, "n": item196_i9, "o": s, "p": ga, "q": item196_i10, "r": item196_i11, "s": item196_i12, "t": item196_i13},
+        item197_name : { "b": item197_name, "c": item197_i1, "d": item197_i2, "e": item197_i3, "f": item197_i4, "g": item197_i5, "h": item197_i6, "i": item197_i7, "j": s, "k": g, "l": item197_i8, "m": m, "n": item197_i9, "o": s, "p": ga, "q": item197_i10, "r": item197_i11, "s": item197_i12, "t": item197_i13},
+        item197_s_name : { "b": item197_name, "c": item197_i1, "d": item197_i2, "e": item197_i3, "f": item197_i4, "g": item197_i5, "h": item197_i6, "i": item197_i7, "j": s, "k": g, "l": item197_i8, "m": m, "n": item197_i9, "o": s, "p": ga, "q": item197_i10, "r": item197_i11, "s": item197_i12, "t": item197_i13},
+        item198_name : { "b": item198_name, "c": item198_i1, "d": item198_i2, "e": item198_i3, "f": item198_i4, "g": item198_i5, "h": item198_i6, "i": item198_i7, "j": s, "k": g, "l": item198_i8, "m": m, "n": item198_i9, "o": s, "p": ga, "q": item198_i10, "r": item198_i11, "s": item198_i12, "t": item198_i13},
+        item198_s_name : { "b": item198_name, "c": item198_i1, "d": item198_i2, "e": item198_i3, "f": item198_i4, "g": item198_i5, "h": item198_i6, "i": item198_i7, "j": s, "k": g, "l": item198_i8, "m": m, "n": item198_i9, "o": s, "p": ga, "q": item198_i10, "r": item198_i11, "s": item198_i12, "t": item198_i13},
+        item199_name : { "b": item199_name, "c": item199_i1, "d": item199_i2, "e": item199_i3, "f": item199_i4, "g": item199_i5, "h": item199_i6, "i": item199_i7, "j": s, "k": g, "l": item199_i8, "m": m, "n": item199_i9, "o": s, "p": ga, "q": item199_i10, "r": item199_i11, "s": item199_i12, "t": item199_i13},
+        item199_s_name : { "b": item199_name, "c": item199_i1, "d": item199_i2, "e": item199_i3, "f": item199_i4, "g": item199_i5, "h": item199_i6, "i": item199_i7, "j": s, "k": g, "l": item199_i8, "m": m, "n": item199_i9, "o": s, "p": ga, "q": item199_i10, "r": item199_i11, "s": item199_i12, "t": item199_i13},
+        item200_name : { "b": item200_name, "c": item200_i1, "d": item200_i2, "e": item200_i3, "f": item200_i4, "g": item200_i5, "h": item200_i6, "i": item200_i7, "j": s, "k": g, "l": item200_i8, "m": m, "n": item200_i9, "o": s, "p": ga, "q": item200_i10, "r": item200_i11, "s": item200_i12, "t": item200_i13},
+        item200_s_name : { "b": item200_name, "c": item200_i1, "d": item200_i2, "e": item200_i3, "f": item200_i4, "g": item200_i5, "h": item200_i6, "i": item200_i7, "j": s, "k": g, "l": item200_i8, "m": m, "n": item200_i9, "o": s, "p": ga, "q": item200_i10, "r": item200_i11, "s": item200_i12, "t": item200_i13},
+        item201_name : { "b": item201_name, "c": item201_i1, "d": item201_i2, "e": item201_i3, "f": item201_i4, "g": item201_i5, "h": item201_i6, "i": item201_i7, "j": s, "k": g, "l": item201_i8, "m": m, "n": item201_i9, "o": s, "p": ga, "q": item201_i10, "r": item201_i11, "s": item201_i12, "t": item201_i13},
+        item201_s_name : { "b": item201_name, "c": item201_i1, "d": item201_i2, "e": item201_i3, "f": item201_i4, "g": item201_i5, "h": item201_i6, "i": item201_i7, "j": s, "k": g, "l": item201_i8, "m": m, "n": item201_i9, "o": s, "p": ga, "q": item201_i10, "r": item201_i11, "s": item201_i12, "t": item201_i13},
+        item202_name : { "b": item202_name, "c": item202_i1, "d": item202_i2, "e": item202_i3, "f": item202_i4, "g": item202_i5, "h": item202_i6, "i": item202_i7, "j": s, "k": g, "l": item202_i8, "m": m, "n": item202_i9, "o": s, "p": ga, "q": item202_i10, "r": item202_i11, "s": item202_i12, "t": item202_i13},
+        item202_s_name : { "b": item202_name, "c": item202_i1, "d": item202_i2, "e": item202_i3, "f": item202_i4, "g": item202_i5, "h": item202_i6, "i": item202_i7, "j": s, "k": g, "l": item202_i8, "m": m, "n": item202_i9, "o": s, "p": ga, "q": item202_i10, "r": item202_i11, "s": item202_i12, "t": item202_i13},
+        item203_name : { "b": item203_name, "c": item203_i1, "d": item203_i2, "e": item203_i3, "f": item203_i4, "g": item203_i5, "h": item203_i6, "i": item203_i7, "j": s, "k": g, "l": item203_i8, "m": m, "n": item203_i9, "o": s, "p": ga, "q": item203_i10, "r": item203_i11, "s": item203_i12, "t": item203_i13},
+        item203_s_name : { "b": item203_name, "c": item203_i1, "d": item203_i2, "e": item203_i3, "f": item203_i4, "g": item203_i5, "h": item203_i6, "i": item203_i7, "j": s, "k": g, "l": item203_i8, "m": m, "n": item203_i9, "o": s, "p": ga, "q": item203_i10, "r": item203_i11, "s": item203_i12, "t": item203_i13},
+        item204_name : { "b": item204_name, "c": item204_i1, "d": item204_i2, "e": item204_i3, "f": item204_i4, "g": item204_i5, "h": item204_i6, "i": item204_i7, "j": s, "k": g, "l": item204_i8, "m": m, "n": item204_i9, "o": s, "p": ga, "q": item204_i10, "r": item204_i11, "s": item204_i12, "t": item204_i13},
+        item204_s_name : { "b": item204_name, "c": item204_i1, "d": item204_i2, "e": item204_i3, "f": item204_i4, "g": item204_i5, "h": item204_i6, "i": item204_i7, "j": s, "k": g, "l": item204_i8, "m": m, "n": item204_i9, "o": s, "p": ga, "q": item204_i10, "r": item204_i11, "s": item204_i12, "t": item204_i13},
+        item205_name : { "b": item205_name, "c": item205_i1, "d": item205_i2, "e": item205_i3, "f": item205_i4, "g": item205_i5, "h": item205_i6, "i": item205_i7, "j": s, "k": g, "l": item205_i8, "m": m, "n": item205_i9, "o": s, "p": ga, "q": item205_i10, "r": item205_i11, "s": item205_i12, "t": item205_i13},
+        item205_s_name : { "b": item205_name, "c": item205_i1, "d": item205_i2, "e": item205_i3, "f": item205_i4, "g": item205_i5, "h": item205_i6, "i": item205_i7, "j": s, "k": g, "l": item205_i8, "m": m, "n": item205_i9, "o": s, "p": ga, "q": item205_i10, "r": item205_i11, "s": item205_i12, "t": item205_i13},
+        item206_name : { "b": item206_name, "c": item206_i1, "d": item206_i2, "e": item206_i3, "f": item206_i4, "g": item206_i5, "h": item206_i6, "i": item206_i7, "j": s, "k": g, "l": item206_i8, "m": m, "n": item206_i9, "o": s, "p": ga, "q": item206_i10, "r": item206_i11, "s": item206_i12, "t": item206_i13},
+        item206_s_name : { "b": item206_name, "c": item206_i1, "d": item206_i2, "e": item206_i3, "f": item206_i4, "g": item206_i5, "h": item206_i6, "i": item206_i7, "j": s, "k": g, "l": item206_i8, "m": m, "n": item206_i9, "o": s, "p": ga, "q": item206_i10, "r": item206_i11, "s": item206_i12, "t": item206_i13}
 }
