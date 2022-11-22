@@ -4213,6 +4213,23 @@ in_item248_i12 = ""
 in_item248_i13 = ""
 in_item248_i14 = "```"
 
+in_item249_name = "회오리"
+in_item249_s_name = "회오리"
+in_item249_i1 = "접두 6 랭크"
+in_item249_i2 = "로드 그림자미션 - 시덥잖은 운명의 부스러기 보상(스크롤)"
+in_item249_i3 = "듀얼건에 인챈트 가능"
+in_item249_i4 = "⭐⭐⭐⭐⭐"
+in_item249_i5 = "```diff\n-인챈트 장비를 전용으로 만듦"
+in_item249_i6 = "파 어웨이 랭크 1 이상일 때 최대대미지 18 ~ 25 증가"
+in_item249_i7 = "리로드 랭크 1 이상일 때 공격 속도 3 ~ 6 증가"
+in_item249_i8 = "프렌지 랭크 3 이상일 때 밸런스 15 증가"
+in_item249_i9 = ""
+in_item249_i10 = ""
+in_item249_i11 = ""
+in_item249_i12 = ""
+in_item249_i13 = ""
+in_item249_i14 = "```"
+
 
 a2 = {
         in_item1_name : { "b2": in_item1_name, "c2": in_item1_i1, "d2": in_item1_i2, "e2": in_item1_i3, "f2": in_item1_i4, "g2": in_item1_i5, "h2": in_item1_i6, "i2": in_item1_i7, "j2": in_item1_i8, "k2": in_item1_i9, "l2": in_item1_i10, "m2": in_item1_i11, "n2": in_item1_i12, "o2": in_item1_i13, "p2": in_item1_i14},
@@ -4710,5 +4727,7 @@ a2 = {
         in_item245_s_name : { "b2": in_item245_name, "c2": in_item245_i1, "d2": in_item245_i2, "e2": in_item245_i3, "f2": in_item245_i4, "g2": in_item245_i5, "h2": in_item245_i6, "i2": in_item245_i7, "j2": in_item245_i8, "k2": in_item245_i9, "l2": in_item245_i10, "m2": in_item245_i11, "n2": in_item245_i12, "o2": in_item245_i13, "p2": in_item245_i14},
         in_item246_s_name : { "b2": in_item246_name, "c2": in_item246_i1, "d2": in_item246_i2, "e2": in_item246_i3, "f2": in_item246_i4, "g2": in_item246_i5, "h2": in_item246_i6, "i2": in_item246_i7, "j2": in_item246_i8, "k2": in_item246_i9, "l2": in_item246_i10, "m2": in_item246_i11, "n2": in_item246_i12, "o2": in_item246_i13, "p2": in_item246_i14},
         in_item247_s_name : { "b2": in_item247_name, "c2": in_item247_i1, "d2": in_item247_i2, "e2": in_item247_i3, "f2": in_item247_i4, "g2": in_item247_i5, "h2": in_item247_i6, "i2": in_item247_i7, "j2": in_item247_i8, "k2": in_item247_i9, "l2": in_item247_i10, "m2": in_item247_i11, "n2": in_item247_i12, "o2": in_item247_i13, "p2": in_item247_i14},
-        in_item248_s_name : { "b2": in_item248_name, "c2": in_item248_i1, "d2": in_item248_i2, "e2": in_item248_i3, "f2": in_item248_i4, "g2": in_item248_i5, "h2": in_item248_i6, "i2": in_item248_i7, "j2": in_item248_i8, "k2": in_item248_i9, "l2": in_item248_i10, "m2": in_item248_i11, "n2": in_item248_i12, "o2": in_item248_i13, "p2": in_item248_i14}
+        in_item248_s_name : { "b2": in_item248_name, "c2": in_item248_i1, "d2": in_item248_i2, "e2": in_item248_i3, "f2": in_item248_i4, "g2": in_item248_i5, "h2": in_item248_i6, "i2": in_item248_i7, "j2": in_item248_i8, "k2": in_item248_i9, "l2": in_item248_i10, "m2": in_item248_i11, "n2": in_item248_i12, "o2": in_item248_i13, "p2": in_item248_i14},
+        in_item249_name : { "b2": in_item249_name, "c2": in_item249_i1, "d2": in_item249_i2, "e2": in_item249_i3, "f2": in_item249_i4, "g2": in_item249_i5, "h2": in_item249_i6, "i2": in_item249_i7, "j2": in_item249_i8, "k2": in_item249_i9, "l2": in_item249_i10, "m2": in_item249_i11, "n2": in_item249_i12, "o2": in_item249_i13, "p2": in_item249_i14},
+        in_item249_s_name : { "b2": in_item249_name, "c2": in_item249_i1, "d2": in_item249_i2, "e2": in_item249_i3, "f2": in_item249_i4, "g2": in_item249_i5, "h2": in_item249_i6, "i2": in_item249_i7, "j2": in_item249_i8, "k2": in_item249_i9, "l2": in_item249_i10, "m2": in_item249_i11, "n2": in_item249_i12, "o2": in_item249_i13, "p2": in_item249_i14}
 }
