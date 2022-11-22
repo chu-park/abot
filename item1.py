@@ -173,6 +173,62 @@ j_item25_i2 = "울라 상급 던전\n알비·키아·룬다 상급 하드 던전
 j_item25_i3 = "⭐"
 j_item25_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1032705799966965852/unknown.png"
 
+j_item26_name = "푸른 가시 족쇄"
+j_item26_s_name = "푸가족"
+j_item26_i1 = "티아가를 옭아매고 있던 가시 족쇄. 무기의 에르그 개방에 사용하거나 개방에 필요한 재료롤 만드는 데 사용할 수 있을 것 같다. 분해 시에도 유용한 아이템은 얻을 수 있다."
+j_item26_i2 = "아발론 정화 미션(제단 정화-티아가)"
+j_item26_i3 = "⭐⭐⭐⭐"
+j_item26_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044556061006377030/unknown.png"
+
+j_item27_name = "신성한 광물 조각"
+j_item27_s_name = "신광조"
+j_item27_i1 = "아발론 곳곳에서 발견할 수 있는 오묘한 빛의 광물 조각. 에르그 개방을 위한 재료로 사용할 수 있을 것 같다. "
+j_item27_i2 = "모쿠르칼피\n실반 드래곤\n아발론 정화 미션 보상 등"
+j_item27_i3 = "⭐⭐"
+j_item27_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044556839636959272/unknown.png"
+
+j_item28_name = "훼손된 성물 잔해"
+j_item28_s_name = "훼성잔"
+j_item28_i1 = "봉인된 세월이 느껴지는 돌덩이. 성물의 잔해인 것으로 보인다. 무기의 에르그 개방에 사용할 수 있을 것 같다. 분해 시에도 유용한 아이템을 얻을 수 있다."
+j_item28_i2 = "모쿠르칼피\n실반 드래곤 등"
+j_item28_i3 = "⭐⭐⭐⭐"
+j_item28_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044557687855263804/unknown.png"
+
+j_item29_name = "조각난 거대 등딱지"
+j_item29_s_name = "조거등"
+j_item29_i1 = "아켈론의 날카롭게 깨진 등딱지. 무기의 에르그 개방에 사용하거나 개방에 필요한 재료를 만드는 네 사용할 수 있을 것 같다. 분해 시에도 유용한 아이템을 얻을 수 있다."
+j_item29_i2 = "아발론 정화 미션(해안-아켈론) 보상"
+j_item29_i3 = "⭐⭐⭐⭐"
+j_item29_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044558479051980901/unknown.png"
+
+j_item30_name = "정화된 영혼석"
+j_item30_s_name = "정영"
+j_item30_i1 = "이질적인 싱성력에 잠식된 몬스터에게서 얻어낸 영혼석. 이질적인 신성력이 정화되어 순수한 신성력이 담겨있는 영혼석이다. 알반 기사단 장비의 재료로 쓰일 수 있을 것 같다."
+j_item30_i2 = "아발론 정화 미션 보상 등"
+j_item30_i3 = "⭐"
+j_item30_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044560398533275648/unknown.png"
+
+j_item31_name = "고대의 황금 결정"
+j_item31_s_name = "고황결"
+j_item31_i1 = "고대의 신비한 힘이 응축된 정체 불명의 결정. 무언가를 복원하는 데 사용할 수 있을 것 같다. 제작 재료로 사용하거나 분해 시 유용한 아이템을 얻을 수 있다."
+j_item31_i2 = "벨테인 보급품 상자(하급, 중급, 상급)\n레이드 전령 상점(필드레이드 증표 10000) 등"
+j_item31_i3 = "⭐⭐⭐⭐"
+j_item31_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044561673652027432/unknown.png"
+
+j_item32_name = "냉혹함의 징표"
+j_item32_s_name = "냉징"
+j_item32_i1 = "예리함을 강화할 수 있는 응축된 힘의 결정체. 강력한 힘을 담을 수 있을 것 같다. 제작 재료로 사용하거나 분해 시 유용한 아이템을 얻을 수 있다."
+j_item32_i2 = "울라 상급 하드 던전( 룬다, 알비, 키아)\n몽환의 라비 던전 등 "
+j_item32_i3 = "⭐⭐⭐⭐"
+j_item32_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044562582318616606/unknown.png"
+
+j_item33_name = "고대 마력 결정"
+j_item33_s_name = "고마결"
+j_item33_i1 = "고대의 신비한 마력이 응축된 정체 불명의 결정. 무언가를 복원하는 데 사용할 수 있을 것 같다. 제작 재료로 사용하거나 분해 시 유용한 아이템을 얻을 수 있다. "
+j_item33_i2 = "벨테인 보급품 상자(하급, 중급, 상급)"
+j_item33_i3 = "⭐⭐⭐"
+j_item33_i4 = "https://cdn.discordapp.com/attachments/740130260183679008/1044563385343299614/unknown.png"
+
 a1 = {
         j_item1_name : { "b1": j_item1_name, "c1": j_item1_i1, "d1": j_item1_i2, "e1": j_item1_i3, "f1": j_item1_i4},
         j_item1_s_name : { "b1": j_item1_name, "c1": j_item1_i1, "d1": j_item1_i2, "e1": j_item1_i3, "f1": j_item1_i4},
@@ -223,5 +279,21 @@ a1 = {
         j_item24_name : { "b1": j_item24_name, "c1": j_item24_i1, "d1": j_item24_i2, "e1": j_item24_i3, "f1": j_item24_i4},
         j_item24_s_name : { "b1": j_item24_name, "c1": j_item24_i1, "d1": j_item24_i2, "e1": j_item24_i3, "f1": j_item24_i4},
         j_item25_name : { "b1": j_item25_name, "c1": j_item25_i1, "d1": j_item25_i2, "e1": j_item25_i3, "f1": j_item25_i4},
-        j_item25_s_name : { "b1": j_item25_name, "c1": j_item25_i1, "d1": j_item25_i2, "e1": j_item25_i3, "f1": j_item25_i4}
+        j_item25_s_name : { "b1": j_item25_name, "c1": j_item25_i1, "d1": j_item25_i2, "e1": j_item25_i3, "f1": j_item25_i4},
+        j_item26_name : { "b1": j_item26_name, "c1": j_item26_i1, "d1": j_item26_i2, "e1": j_item26_i3, "f1": j_item26_i4},
+        j_item26_s_name : { "b1": j_item26_name, "c1": j_item26_i1, "d1": j_item26_i2, "e1": j_item26_i3, "f1": j_item26_i4},
+        j_item27_name : { "b1": j_item27_name, "c1": j_item27_i1, "d1": j_item27_i2, "e1": j_item27_i3, "f1": j_item27_i4},
+        j_item27_s_name : { "b1": j_item27_name, "c1": j_item27_i1, "d1": j_item27_i2, "e1": j_item27_i3, "f1": j_item27_i4},
+        j_item28_name : { "b1": j_item28_name, "c1": j_item28_i1, "d1": j_item28_i2, "e1": j_item28_i3, "f1": j_item28_i4},
+        j_item28_s_name : { "b1": j_item28_name, "c1": j_item28_i1, "d1": j_item28_i2, "e1": j_item28_i3, "f1": j_item28_i4},
+        j_item29_name : { "b1": j_item29_name, "c1": j_item29_i1, "d1": j_item29_i2, "e1": j_item29_i3, "f1": j_item29_i4},
+        j_item29_s_name : { "b1": j_item29_name, "c1": j_item29_i1, "d1": j_item29_i2, "e1": j_item29_i3, "f1": j_item29_i4},
+        j_item30_name : { "b1": j_item30_name, "c1": j_item30_i1, "d1": j_item30_i2, "e1": j_item30_i3, "f1": j_item30_i4},
+        j_item30_s_name : { "b1": j_item30_name, "c1": j_item30_i1, "d1": j_item30_i2, "e1": j_item30_i3, "f1": j_item30_i4},
+        j_item31_name : { "b1": j_item31_name, "c1": j_item31_i1, "d1": j_item31_i2, "e1": j_item31_i3, "f1": j_item31_i4},
+        j_item31_s_name : { "b1": j_item31_name, "c1": j_item31_i1, "d1": j_item31_i2, "e1": j_item31_i3, "f1": j_item31_i4},
+        j_item32_name : { "b1": j_item32_name, "c1": j_item32_i1, "d1": j_item32_i2, "e1": j_item32_i3, "f1": j_item32_i4},
+        j_item32_s_name : { "b1": j_item32_name, "c1": j_item32_i1, "d1": j_item32_i2, "e1": j_item32_i3, "f1": j_item32_i4},
+        j_item33_name : { "b1": j_item33_name, "c1": j_item33_i1, "d1": j_item33_i2, "e1": j_item33_i3, "f1": j_item33_i4},
+        j_item33_s_name : { "b1": j_item33_name, "c1": j_item33_i1, "d1": j_item33_i2, "e1": j_item33_i3, "f1": j_item33_i4}
 }
